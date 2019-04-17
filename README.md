@@ -1,2 +1,2 @@
-#different phases have different folders.
-#general folder contains general requrements, data, report of this project
+Different phases have different folders.
+General folder contains general requrements, data, report of this project
