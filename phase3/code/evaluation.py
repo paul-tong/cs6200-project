@@ -1,7 +1,7 @@
 import os
 
 RELEVANCE_FILE_PATH = "../result/input/cacm.rel.txt"
-INPUT_FILE_PATH = "../result/input/data/"
+INPUT_FILE_PATH = "../result/input/queryResult/"
 OUTPUT_FILE_PATH = "../result/output/"
 QUERY_HEAD = "Query"
 
