@@ -3,7 +3,7 @@
 
 # # Phase 1
 
-# In[1]:
+# In[6]:
 
 
 import requests
@@ -29,20 +29,20 @@ import string
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-# In[2]:
+# In[7]:
 
 
-stops = os.getcwd().replace("phase1","general")+"\\test-collection\\common_words" #load stopwords
+stops = os.getcwd().replace("phase1\\code","general")+"\\test-collection\\common_words" #load stopwords
 f = open(stops, 'r',encoding='utf-8')
 stopwords = f.read().split("\n")
 
 
-# In[3]:
+# In[8]:
 
 
 Collection = [] # load documents and do parsing job
 Doc_name = []
-folder_d = os.getcwd().replace("phase1","general")+"\\test-collection\\cacm"
+folder_d = os.getcwd().replace("phase1\\code","general")+"\\test-collection\\cacm"
 for filename in os.listdir(folder_d):
     Doc_name.append(filename.replace(".html",""))
     file_d = folder_d + "\\" + filename
@@ -57,10 +57,10 @@ for filename in os.listdir(folder_d):
     Collection.append(re.sub(r'\s+', ' ', content).strip())
 
 
-# In[4]:
+# In[9]:
 
 
-file_query = os.getcwd().replace("phase1","general")+"\\test-collection\\cacm.query.txt" #load query list
+file_query = os.getcwd().replace("phase1\\code","general")+"\\test-collection\\cacm.query.txt" #load query list
 f = open(file_query, 'r',encoding='utf-8')
 remove = string.punctuation # remove punctuations
 remove = remove.replace("-", "")
@@ -75,7 +75,7 @@ query.remove("") #Query list
 
 # ## Task 1
 
-# In[5]:
+# In[10]:
 
 
 def Create_Inverted_Index(n_grams, collection): #create inverted index
@@ -93,13 +93,13 @@ def Create_Inverted_Index(n_grams, collection): #create inverted index
     return gramDict
 
 
-# In[6]:
+# In[11]:
 
 
 unigram = Create_Inverted_Index(1,Collection)
 
 
-# In[7]:
+# In[12]:
 
 
 s = 0 
@@ -111,7 +111,7 @@ avgdl = s/len(Collection) # Average document length
 
 # ### tfidf
 
-# In[8]:
+# In[13]:
 
 
 def tfidf(unigram, Collection): # tdidf vetorizer
@@ -131,13 +131,13 @@ def tfidf(unigram, Collection): # tdidf vetorizer
     return v_doc
 
 
-# In[9]:
+# In[14]:
 
 
 v_doc = tfidf(unigram, Collection)
 
 
-# In[10]:
+# In[15]:
 
 
 def tfidf_search(query, v_doc, unigram, Collection): # tfidf model
@@ -170,16 +170,16 @@ def tfidf_search(query, v_doc, unigram, Collection): # tfidf model
 
 # ### Binary Independence Model
 
-# In[11]:
+# In[16]:
 
 
 import pandas as pd
 
 
-# In[12]:
+# In[17]:
 
 
-file_query = os.getcwd().replace("phase1","general")+"\\test-collection\\cacm.rel.txt" # load relevance information
+file_query = os.getcwd().replace("phase1\\code","general")+"\\test-collection\\cacm.rel.txt" # load relevance information
 f = open(file_query, 'r',encoding='utf-8')
 content = f.read()
 rel = content.split("\n")
@@ -190,7 +190,7 @@ for line in rel:
 rel = pd.DataFrame(r)
 
 
-# In[13]:
+# In[18]:
 
 
 for i in range(len(rel)-1):
@@ -198,7 +198,7 @@ for i in range(len(rel)-1):
         rel.iloc[i,2] = rel.iloc[i,2].replace("-","-0")
 
 
-# In[14]:
+# In[19]:
 
 
 def relevance_index(rel,query_id): #BIM model
@@ -245,7 +245,7 @@ def relevance_index(rel,query_id): #BIM model
 
 # ### BM25
 
-# In[15]:
+# In[20]:
 
 
 k1=1.2
@@ -253,7 +253,7 @@ b=0.75
 k2=100
 
 
-# In[16]:
+# In[21]:
 
 
 def BM25score(query, unigram, stopwords, collection): #BM25 model
@@ -288,7 +288,7 @@ def BM25score(query, unigram, stopwords, collection): #BM25 model
 
 # ### Output
 
-# In[17]:
+# In[25]:
 
 
 def write(query_id, option, folder_name): # Task1 output
@@ -306,19 +306,19 @@ def write(query_id, option, folder_name): # Task1 output
         result = BM25score(q, unigram, "", Collection)
     else:
         return 0
-    directory = os.getcwd() + "\\Task1\\" + folder_name
+    directory = os.getcwd().replace("code","result") + "\\Task1\\" + folder_name
     if not os.path.exists(directory):
         os.makedirs(directory)
     n = 0
     txt = open(directory + "\\"+ "Query" + str(query_id+1) + ".txt",'w',encoding='utf-8')
     txt.write("Query:" + q[3:] +"\n")
-    for record in result:
+    for record in result[:100]:
         n = n + 1
         txt.write(str(query_id+1) + ", "+ "Q0" + ","  + Doc_name[record[0]] + "," + str(n) + "," + str(record[1]) + "," + model +"\n")
     txt.close()
 
 
-# In[18]:
+# In[23]:
 
 
 def Task1_output(query):
@@ -330,7 +330,7 @@ def Task1_output(query):
         write(query_id, 3, "BM25")
 
 
-# In[19]:
+# In[26]:
 
 
 Task1_output(query)
@@ -340,7 +340,7 @@ Task1_output(query)
 
 # ### Query Time Stemming Using BM25
 
-# In[20]:
+# In[27]:
 
 
 from nltk.stem import PorterStemmer
@@ -348,7 +348,7 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 ps = PorterStemmer()
 
 
-# In[21]:
+# In[28]:
 
 
 QTS_query = [] #Do stemming query expansion
@@ -361,19 +361,19 @@ for q in query:
     QTS_query.append(q + " ".join(nl))
 
 
-# In[22]:
+# In[30]:
 
 
 query_id = 1 #output
 for q in QTS_query:
     result = BM25score(q, unigram, "", Collection)
-    directory = os.getcwd() + "\\Task2\\" + "Query Time Stemming"
+    directory = os.getcwd().replace("code","result") + "\\Task2\\" + "Query Time Stemming"
     if not os.path.exists(directory):
         os.makedirs(directory)
     n = 0
     txt = open(directory + "\\"+ "Query" + str(query_id) + ".txt",'w',encoding='utf-8')
     txt.write("Query:" + q[3:] +"\n")
-    for record in result:
+    for record in result[:100]:
         n = n + 1
         txt.write(str(query_id) + ", "+ "Q0" + ","  + Doc_name[record[0]] + "," + str(n) + "," + str(record[1]) + "," + "BM25" +"\n")
     txt.close()
@@ -382,7 +382,7 @@ for q in QTS_query:
 
 # ###  pseudo relevance feedback using BM25
 
-# In[23]:
+# In[31]:
 
 
 def getletterbigram(string): #string to bigram
@@ -393,7 +393,7 @@ def getletterbigram(string): #string to bigram
     return res_list      
 
 
-# In[24]:
+# In[32]:
 
 
 def dice_coef(bi_a,bi_b): # calculate dice coef with two bigram list
@@ -406,7 +406,7 @@ def dice_coef(bi_a,bi_b): # calculate dice coef with two bigram list
     return 2*nab/(na+nb)
 
 
-# In[25]:
+# In[33]:
 
 
 def pseudo_search(q, unigram, stopwords, collection, k, n): #n terms be expanded, consider top k document
@@ -434,55 +434,55 @@ def pseudo_search(q, unigram, stopwords, collection, k, n): #n terms be expanded
     return result
 
 
-# In[26]:
+# In[34]:
 
 
 query[0]
 
 
-# In[27]:
+# In[35]:
 
 
 pseudo_search(query[0], unigram, stopwords, Collection, 10,int(len(query[0].split(" ")[3:])/3))[:5] # top 10 doc
 
 
-# In[28]:
+# In[36]:
 
 
 pseudo_search(query[0], unigram, stopwords, Collection, 20,int(len(query[0].split(" ")[3:])/3))[:5] #top 20 doc
 
 
-# In[29]:
+# In[37]:
 
 
 pseudo_search(query[0], unigram, stopwords, Collection, 5, int(len(query[0].split(" ")[3:])/3))[:5] #top 5 doc
 
 
-# In[30]:
+# In[38]:
 
 
 Collection[1641]
 
 
-# In[31]:
+# In[39]:
 
 
 Collection[1937]
 
 
-# In[32]:
+# In[40]:
 
 
 query_id = 1
 for q in query:
     result = pseudo_search(q, unigram, stopwords, Collection, 10, int(len(q.split(" ")[3:])/3))
-    directory = os.getcwd() + "\\Task2\\" + "pseudo"
+    directory = os.getcwd().replace("code","result") + "\\Task2\\" + "pseudo"
     if not os.path.exists(directory):
         os.makedirs(directory)
     n = 0
     txt = open(directory + "\\"+ "Query" + str(query_id) + ".txt",'w',encoding='utf-8')
     txt.write("Query:" + q[3:] +"\n")
-    for record in result:
+    for record in result[:100]:
         n = n + 1
         txt.write(str(query_id) + ", "+ "Q0" + ","  + Doc_name[record[0]] + "," + str(n) + "," + str(record[1]) + "," + "BM25" +"\n")
     txt.close()
@@ -499,19 +499,19 @@ for q in query:
 
 # ### Stopwords
 
-# In[33]:
+# In[41]:
 
 
 query_id = 1 #add stopword processing
 for q in query:
     result = BM25score(q, unigram, stopwords, Collection)
-    directory = os.getcwd() + "\\Task3\\" + "Stopwords"
+    directory = os.getcwd().replace("code","result") + "\\Task3\\" + "Stopwords"
     if not os.path.exists(directory):
         os.makedirs(directory)
     n = 0
     txt = open(directory + "\\"+ "Query" + str(query_id) + ".txt",'w',encoding='utf-8')
     txt.write("Query:" + q[3:] +"\n")
-    for record in result:
+    for record in result[:100]:
         n = n + 1
         txt.write(str(query_id+1) + ", "+ "Q0" + ","  + Doc_name[record[0]] + "," + str(n) + "," + str(record[1]) + "," + "BM25" +"\n")
     txt.close()
@@ -520,25 +520,25 @@ for q in query:
 
 # ### Stemming Search
 
-# In[34]:
+# In[42]:
 
 
-file_query_stemming = os.getcwd().replace("phase1","general")+"\\test-collection\\cacm_stem.query.txt"
+file_query_stemming = os.getcwd().replace("phase1\\code","general")+"\\test-collection\\cacm_stem.query.txt"
 f = open(file_query_stemming, 'r',encoding='utf-8')
 stem_query = f.read().split("\n")
 stem_query.remove("")
 
 
-# In[35]:
+# In[43]:
 
 
-file_query_stemming = os.getcwd().replace("phase1","general")+"\\test-collection\\cacm_stem.txt"
+file_query_stemming = os.getcwd().replace("phase1\\code","general")+"\\test-collection\\cacm_stem.txt"
 f = open(file_query_stemming, 'r',encoding='utf-8')
 stem_doc = f.read().split("#")
 stem_doc.remove("")
 
 
-# In[36]:
+# In[44]:
 
 
 docID = 0 #parsing the documents
@@ -553,68 +553,68 @@ for line in stem_doc:
     stem_doc_refine.append(content)
 
 
-# In[37]:
+# In[45]:
 
 
 unigram_stem = Create_Inverted_Index(1,stem_doc_refine)
 
 
-# In[38]:
+# In[46]:
 
 
 query_id = 1
 for q in stem_query:
     result = BM25score(q, unigram_stem, "", stem_doc_refine)
-    directory = os.getcwd() + "\\Task3\\" + "stem"
+    directory = os.getcwd().replace("code","result") + "\\Task3\\" + "stem"
     if not os.path.exists(directory):
         os.makedirs(directory)
     n = 0
     txt = open(directory + "\\"+ "Query" + str(query_id) + ".txt",'w',encoding='utf-8')
     txt.write("Query:" + q[3:] +"\n")
-    for record in result:
+    for record in result[:100]:
         n = n + 1
         txt.write(str(query_id+1) + ", "+ "Q0" + ","  + Doc_name[record[0]] + "," + str(n) + "," + str(record[1]) + "," + "BM25" +"\n")
     txt.close()
     query_id += 1
 
 
-# In[39]:
+# In[47]:
 
 
 stem_query
 
 
-# In[40]:
+# In[48]:
 
 
 BM25score(stem_query[2], unigram_stem, "", stem_doc_refine)[:10]
 
 
-# In[41]:
+# In[49]:
 
 
 BM25score(stem_query[3], unigram_stem, "", stem_doc_refine)[:10]
 
 
-# In[42]:
+# In[50]:
 
 
 BM25score(stem_query[6], unigram_stem, "", stem_doc_refine)[:10]
 
 
-# In[43]:
+# In[51]:
 
 
 Collection[2663]
 
 
-# In[44]:
+# In[52]:
 
 
 Collection[2277]
 
 
-# In[45]:
+# In[53]:
 
 
 Collection[1261]
