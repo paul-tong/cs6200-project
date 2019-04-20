@@ -1,0 +1,973 @@
+Query:setl very high level languages
+CACM-2699
+Automatic Data Structure Choice in a Language of Very <B>High</B> <B>Level</B> <B>SETL</B> is a set-theoretically oriented language of very <B>high</B> <B>level</B> whose repertoire of semantic objects includes finite sets, ordered n-tuples, and sets of ordered n-tuples usable as mappings. ... This paper describes the structure of an optimizer for this language.
+
+CACM-2906
+A Very <B>High</B> <B>Level</B> Programming Language for Data Processing Applications Application development today is too labor-in tensive. ... In recent years, very high-level <B>languages</B> have been increasingly explored as a solution to this problem.
+
+CACM-1903
+Chebyshev Interpolation and Quadrature Formulas of Very <B>High</B> Degree.
+
+CACM-1872
+Chebyshev Interpolation and Quadrature Formulas of Very <B>High</B> Degree (Errata).
+
+CACM-2923
+High-Level Data Flow Analysis In contrast to the predominant use of low-level in termediate text, high-level data flow analysis deals with programs essentially at source <B>level</B> and exploits the control flow information implicit in the parse tree. ... The need for high-level flow analysis arises from several aspects of recent work on advanced methods of program certification and optimization.
+
+CACM-3148
+This paper describes an approach to distributed computing at the <B>level</B> of general purpose programming <B>languages</B>. ... <B>High</B> <B>Level</B> Programming for Distributed Computing Programming for distributed and other loosely coupled systems is a problem of growing interest.
+
+CACM-1923
+Pseudofiles An approach to system interfaces for <B>high</B> <B>level</B> <B>languages</B> using basic input/output support facilities is described. ... It is shown that this technique can provide potentially inexpensive methods for programs to communicate with deeply embedded facilities such as command language processors.
+
+CACM-3171
+Line Numbers Made Cheap A technique is described for run-time line number administration to be used for implementations of <B>high</B> <B>level</B> <B>languages</B>. ... Under suitable circumstances, this method requires absolutely no overhead, in either time or space, during execution of the program.
+
+CACM-1043
+Talk-A High-Level Source Language Debugging Technique With Real-Time Data Extraction TALK, meaning Take A Look, is a debugging technique which aids substantially in debugging complex real-time programming systems by interrupting the users program at desired points to extract previously specified data. ... The extracted data is later edited, listing the associated data with its high-level source language identification.
+
+CACM-2717
+CONVERT: A <B>High</B> <B>Level</B> Translation Definition Language for Data Conversion This paper describes a <B>high</B> <B>level</B> and nonprocedural translation definition language, CONVERT, which provides very powerful and highly flexible data restructuring capabilities. ... Its design is based on the simple underlying concept of a form which enables the users to visualize the translation processes, and thus makes data translation a much simpler task.
+
+CACM-2316
+Programming Languages: History and Future This paper discusses both the history and future of programming <B>languages</B> (= higher <B>level</B> languages). ... The major <B>languages</B> are listed with the reasons for their importance.
+
+CACM-3150
+Just as <B>high</B> <B>level</B> <B>languages</B> enabled the programmer to escape from the intricacies of a machine's order code, higher <B>level</B> programming systems can provide the means to understand and manipulate complex systems and components. ... Beyond Programming <B>Languages</B> As computer technology matures, our growing ability to create large systems is leading to basic changes in the nature of programming.
+
+CACM-2815
+The scheme is designed to work with any existing link editor or linking loader, no matter how deficient. ... High-Level Binding with Low-Level Linkers An easy to implement scheme is described by which a compiler can enforce agreement between complex data types in separately compiled modules.
+
+CACM-2527
+Implementation of <B>High</B> <B>Level</B> Language Machine Computing machines which directly execute the statements of a <B>high</B> <B>level</B> language have been proposed in the past. ... This report describes the actual implementation of such a machine: it is a computer whose "machine language" is APL.
+
+CACM-2705
+Programming Languages, Natural Languages, and Mathematics Some social aspects of programming are illuminated through analogies with similar aspects of mathematics and natural <B>languages</B>. ... The most promising avenues for further work of wide influence are seen to be <B>high</B> quality program literature (i.
+
+CACM-0081
+NORC High-Speed Printer.
+
+CACM-0232
+A High-Speed Sorting Procedure.
+
+CACM-0074
+A High-Speed Sorting Procedure.
+
+CACM-0281
+In this note we produce a particular family of very fast, <B>high</B> precision and eminently practical exponential evaluation formulas derived from one such formulation. ... Putting a Hex on e^x Recent notes on approximate natural antilogy have not considered indirect formulations for describing e^x.
+
+CACM-3080
+Proving the Correctness of Heuristically Optimized Code  A system for proving that programs written in a <B>high</B> <B>level</B> language are correctly translated to a low <B>level</B> language is described. ... The low <B>level</B> language programs need not be generated by a compiler and in fact could be hand coded.
+
+CACM-0198
+A High-Speed Multiplication Process for Digital Computers.
+
+CACM-2317
+Programming Systems and <B>Languages</B> 1965-1975 In spite of impressive gains by PL/I, Fortran and Cobol remain the <B>languages</B> in which most of the world's production programs are written and will remain so into the foreseeable future. ... There is a great deal of theoretical interest in Algol 68 and in extensible languages, but so far at least they have had little practical impact.
+
+CACM-1860
+An Algol-Based Associative Language A <B>high</B> <B>level</B> programming language for large, complex associative structures has been designed and implemented. ... The discussion includes a comparison with other work and examples of applications of the language.
+
+CACM-0249
+Specification <B>Languages</B> for Mechanical <B>Languages</B> and Their Processors*-A Baker's Dozen.
+
+CACM-2603
+The Equivalence of Reducing Transition <B>Languages</B> and Deterministic <B>Languages</B> The class of reducing transition <B>languages</B> introduced by Eickel, Paul, Bauer, and Samelson was shown by Morris to be a proper superclass of the simple precedence <B>languages</B>. ... In this paper this result is extended, showing that, in fact, the first class is equivalent to the class of deterministic context free <B>languages</B>.
+
+CACM-2091
+A convenient, easy to learn and to use, <B>high</B> <B>level</B> problem oriented language to solve and study partial differential equation problems has been designed; a practical translator for the language has also been designed, and a working version of it has been constructed for a significant portion of the language. ... PDEL-A Language for Partial Differential Equations Conventional computer methods available to solve continuous system problems characterized by partial differential equations are very time-consuming and cumbersome.
+
+CACM-2208
+The first storage level, which is the fast store, is divided into a number of storage areas. ... If this particular area is full, then the entry will be placed into the slower second-level store, even though other areas in the first-level store may have space available.
+
+CACM-2246
+This paper discusses the relative merits of pitching this language at a <B>high</B> <B>level</B> or a low level, and presents some comparative results. ... The design of the machine-independent language is the key factor in this operation.
+
+CACM-0795
+Debugging Systems at the Source Language <B>Level</B>.
+
+CACM-3123
+Employment Characteristics of Doctoral <B>Level</B> Computer Scientists.
+
+CACM-0205
+Macro Instruction Extensions of Compiler <B>Languages</B> Macroinstruction compilers constructed from a small set of functions can be made extremely powerful. ... In particular, conditional assembly, nested definitions, and parenthetical notation serve to make a compiler capable of accepting very general extensions to its ground language.
+
+CACM-0265
+Low <B>Level</B> Language Subroutines for Use Within Fortran This paper describes some subroutines, coded in symbolic <B>languages</B> and for use within Fortran coded programs, to deal with "special arithmetic" (e. ... multi-precision arithmetic), symbol manipulation, bit manipulation and expanded character set input-output, and visual display.
+
+CACM-1138
+Formalism in Programming Languages*.
+
+CACM-1466
+Discussion Summary on Graphical <B>Languages</B>.
+
+CACM-1102
+Mechanical Languages: A Course Specification.
+
+CACM-0463
+On Ambiguity in Phrase Structure <B>Languages</B>.
+
+CACM-0920
+Toward Better Documentation of Programming <B>Languages</B>.
+
+CACM-1142
+An Extension of ALGOL-Like <B>Languages</B>.
+
+CACM-1627
+Application of <B>Level</B> Changing to a Multilevel Storage Organization A technique for organizing the devices of a computer storage system is described. ... The concept of <B>level</B> changing is introduced and its application to the multilevel store is discussed.
+
+CACM-3185
+The Humble Programmer   We shall do a much better programming job, provided that we approach the task with a full appreciation if its tremendous difficulty, provided that we stick to modest and elegant programming languages, provided that we respect the intrinsic limitations of the human mind and approach the task as Very Humble Programmers.
+
+CACM-1642
+The techniques depend on having two levels of secondary storage: <B>level</B> 1, several times larger than the main memory and quite fast; and <B>level</B> 2, many times larger and slower than <B>level</B> 1. ... "Small" is taken to mean that only one user program plus a monitor will fit into the memory at any time.
+
+CACM-1098
+Finally, the authors give some heuristics to aid in the selection of one of these <B>languages</B> for use in particular problem applications, concluding that no one of the <B>languages</B> considered is distinctly superior in all possible list-processing applications. ... 5 and SLIP - four well-known computer programming <B>languages</B> which, among them, exhibit all the principal characteristics of existing list-processing <B>languages</B>.
+
+CACM-2814
+Roster of Programming <B>Languages</B> for 1974-75.
+
+CACM-1472
+Description of a <B>High</B> Capacity, Fast Turnaround University Computing Center The operating system for the UNIVAC 1107 at Case Institute is reviewed. ... The system is of interest because of the low turnaround times achieved, the <B>high</B> throughput achieved and the lack of an operating staff.
+
+CACM-0651
+A Survey of <B>Languages</B> and Systems for Information Retrieval.
+
+CACM-0762
+Some Remarks on the Syntax of Symbolic Programming <B>Languages</B>.
+
+CACM-1366
+Substantial costs can occur, particularly in training, implementation and computer time if an inappropriate language is chosenore and more computer simulation <B>languages</B> are being developed: comparisons and evaluations of existing <B>languages</B> are useful for designers and implementers as well as users. ... Computer Simulation-Discussion of the Technique and Comparison of <B>Languages</B>  The purpose of this paper is to present a comparison of some computer simulation <B>languages</B> and of some of the involved in comparing software packages for digital computers are discussed in Part I.
+
+CACM-2787
+And it is designed as a structured program, which can readily be coded by the reader in the <B>high</B> <B>level</B> or low <B>level</B> programming language of his choice. ... It is a development of that described by John Lions.
+
+CACM-2956
+Some Ideas on Data Types in High-Level <B>Languages</B> A number of issues are explored concerning the notion that a data type is a set of values together with a set of primitive operations on those values. ... Among these are the need for a notation for iterating over the elements of any finite set (instead of the more narrow for i:= 1 to n notation), the use of the domain of an array as a data type, the need for a simple notation for allowing types of parameters to be themselves parameters (but in a restrictive fashion), and resulting problems with conversion of values from one type to another.
+
+CACM-3077
+Combining forms can use <B>high</B> <B>level</B> programs to build still higher <B>level</B> ones in a style not possible in conventional <B>languages</B>. ... Inherent defects at the most basic <B>level</B> cause them to be both fat and weak: their primitive word-at-a-time style of programming inherited from their common ancestor-the von Neumann computer, their close coupling off semantics to state transitions, their division of programming into a world of expressions and a world of statements, their inability to effectively use powerful combining forms for building new programs from existing ones, and their lack of useful mathematical properties for reasoning about programs.
+
+CACM-0628
+On a Floating-Point Number Representation For Use with Algorithmic <B>Languages</B>.
+
+CACM-2084
+A Note on the Complement of Inherently Ambiguous Context-Free <B>Languages</B>.
+
+CACM-1459
+Requirements for Real-Time <B>Languages</B> Real-time <B>languages</B> have different requirements from other programming <B>languages</B> because of the special nature of their applications, the environment in which their object programs are executed and the environment in which they may be compiled. ... Progress may be made by attacking the special compiling and executing system problems that must be solved.
+
+CACM-1073
+A Fast Procedure for Generating Exponential Random Variables A very fast method for generating exponential random variables in a digital computer is outlined.
+
+CACM-3057
+Optimal His togram Matching by Monotone Gray <B>Level</B> Transformation This paper investigates the problem of optimal his togram matching using monotone gray <B>level</B> transformation, which always assigns all picture points of a given gray <B>level</B> i to another gray <B>level</B> T(i) such that if i > j, then T(i) > T(j). ... The objective is to find a transformed digital picture of a given picture such that the sum of absolute errors between the gray <B>level</B> his togram of the transformed picture and that of a reference picture is minimized.
+
+CACM-0689
+Report of a Visit to Discuss Common Programming <B>Languages</B> in Czechoslovakia and Poland, 1963.
+
+CACM-2406
+Most data definition <B>languages</B> concentrate on the declaration of logical data structures with little concern for how these structures are physically realized on a computer system. ... Applications of these "generalized" data definition <B>languages</B> are also discussed.
+
+CACM-0724
+Their principal job satisfactions relate to the nature of their work, and mostfind their jobs offer <B>high</B> <B>level</B> of professional interest and good working conditions. ... Four principal problems for programming in the immediate future are listed by participants: languages, personnel, various specific applications and techniques, and building programming as a profession.
+
+CACM-2867
+It is shown that the concepts of module and <B>level</B> do not coincide in a hierarchy of functions. ... Family members can share much software as a result of the implementation of run-time modules at the lowest system <B>level</B>.
+
+CACM-1703
+Accommodating Standards and Identification of Programming <B>Languages</B> The user public wants standardization and reliable identification of programming <B>languages</B> and related services. ... These methods can be usefully applied to other programming <B>languages</B> and computer services.
+
+CACM-1306
+A Class of Unambiguous Computer <B>Languages</B> Discussed in this paper is the concept of a fully nested computer language which may be one means of designing computer <B>languages</B> which would be completely free of ambiguities. ... Several suggestions are also given here for the redefinition of ALGOL as a fully nested language.
+
+CACM-1358
+Syntax Macros and Extended Translation A translation approach is described which allows one to extended the syntax and semantics of a given high-level base language by the use of a new formalism called a syntax-macro. ... Two types of macros are discussed, and examples are given of their use.
+
+CACM-1713
+On Overcoming High-Priority Paralysis in Multiprogramming Systems: A Case His tory High-priority paralysis is the degradation that can occur in multiprogramming systems when scheduling is based primarily on preassigned priorities. ... It can be alleviated by modifying the scheduling algorithm to maximize the number of programs active at one time.
+
+CACM-2922
+The proposed attitude aims at retaining the purity of the nondeterministic formulation of search processes on one <B>level</B> (the attempt level), deferring the coordination of problem solving efforts to another (the choice level). ... The feasibility of recognizing these two levels is discussed, stressing that the structure to be managed at the choice <B>level</B> is a free of contexts.
+
+CACM-1046
+A. ... it expands on some points that the original authors cover briefly, and treats only very lightly some topics to which they devote considerable space.
+
+CACM-1861
+The MAD Definition Facility One of the first definition facilities for higher <B>level</B> <B>languages</B> is described. ... Information is given on how one writes definitions, as well as on much of the motivation behind the form in which definitions are written.
+
+CACM-2954
+Unlike a previous similar algorithm, this one makes no assumptions about the storage allocation system in use and uses only operations likely to be available in a high-level language. ... A Bounded Storage Algorithm for Copying Cyclic Structures A new algorithm is presented which copies cyclic list structures using bounded workspace and linear time.
+
+CACM-2003
+The main emphasis is given to the description of the features of the two <B>high</B> <B>level</B> user oriented languages, operating at different levels, on which the interaction is based. ... The application to computer-aided circuit design is in particular examined; on the other hand, the adopted design criteria provide sufficient generality to extend the use of the two <B>languages</B> to different computer-assisted applications.
+
+CACM-1678
+Computer Science Program A number of courses are listed in the area describe as automata, formal languages, abstract switching, and computability, that might be available to a Ph. ... Automata, Formal Languages, Abstract Switching, and Computability in a Ph.
+
+CACM-1467
+To provide a variety of display scope communication procedures, a Graphic Service system which functions as a generalized graphical language translator, is being developed to aid the definition as well as the use of new graphical <B>languages</B>. ... A Graphical ServiceSystem With Variable Syntax Man-machine interaction in many fields of endeavor should be greatly facilitated in the near future through the use of interactive graphical <B>languages</B>.
+
+CACM-2593
+A Back-end Computer for Data Base Management It is proposed that the data base management function be placed on a dedicated back-end computer which accepts commands (in a relatively <B>high</B> <B>level</B> language such as the CODASYL Data Base Task Group, April 1971 Report) from a host computer, accesses the data base on secondary storage, and returns results. ... An experimental implementation, called the experimental Data Management System, XDMS, is described and certain conclusions about the back-end approach are drawn from this implementation.
+
+CACM-2938
+By adhering to a strict programming discipline and by using a suitable high-level language molded after this discipline, the complexity of reasoning about concurrency and execution time constrain ts may be drastically reduced. ... A possible discipline is outlined and expressed in terms of the language Modula.
+
+CACM-1496
+A Formal Semantics for Computer <B>Languages</B> and its Application In a Compiler-Compiler A semantic meta-language has been developed for representing the meanings of statements in a large class of computer <B>languages</B>. ... An informal discussion of the meta-language based on the example of a complete translator for a small language is presented.
+
+CACM-1485
+The Structure of Programming <B>Languages</B> In this paper the major components of every programming language are identified as: (1) the elementary program statement, (2) mechanisms for linking elementary statements together, (3) the means by which a program can obtain data inputs. ... Many examples, frequently from list processing languages, illustrate the forms described.
+
+CACM-2198
+The problem of <B>high</B> <B>level</B> interrogation and update functions acting on network structures is mentioned, followed by a discussion of the problem of catering to a <B>high</B> volume of transactions initiated from terminals by parametric users-the lowest <B>level</B> of user. ... The first of these is that of handling existing stored data and the next is that of providing more complex data structures than those already available in conventional programming <B>languages</B>.
+
+CACM-2320
+Structured Multiprogramming This paper presents a proposal for structured representation of multiprogramming in a <B>high</B> <B>level</B> language. ... These concepts are sufficiently safe to use not only within operating systems but also within user programs.
+
+CACM-3127
+Because the system is implemented by the same software on different hardware, it has the same interface to user programs. ... Both the system and application programs which use it are written in a high-level language.
+
+CACM-1115
+Randomized Binary Searching With Tree Structure A more efficient method of using tree structures is proposed, which utilizers both plus and minus branches in the search path. ... Very significant gains result when the search key includes alphabetic characters.
+
+CACM-2560
+Expressions are obtained for the long-run probability that both the CPU and each of the storage devices are busy. ... A Queuing Model of a Multiprogrammed Computer with a Two-Level Storage System The results are presented of an analysis of a probabilistic model of a multiprogrammed computer system with a two-level storage system in which there is sequential dependency of accesses between the devices.
+
+CACM-1852
+Experience with programming <B>languages</B> whose implementation is based on this algorithm indicates that such a language can be transferred to a new machine in less than one man-week without using the old machine. ... A Base for a Mobile Programming System An algorithm for a macro processor which has been used as the base of an implementation, by bootstrapping, of processors for programming <B>languages</B> is described.
+
+CACM-1720
+Master's <B>Level</B> Computer Science Curricula The results of a survey of the course work done by master's degree candidates at 25 US universities are presented, and some general comments concerning the emphasis of these programs are given.
+
+CACM-3026
+Beginning with the 1107 in 1962, the 1100 series has progressed through a succession of eight compatible computer models to the latest system, the 1100/80, introduced in 1977. ... The 1100 series hardware architecture is based on a 36-bit word, ones complement structure which obtains one operand from storage and one from a high-speed register, or two operands from high-speed registers.
+
+CACM-2708
+Practical Syntactic Error Recovery This paper describes a recovery scheme for syntax errors which provides automatically-generated <B>high</B> quality recovery with good diagnostic information at relatively low cost. ... Suggestions for further research on this topic conclude the paper.
+
+CACM-2398
+An example of interaction at the system <B>level</B> shows how students can mix the advantages of independent or "solo" mode computing with those of guided or "dual" mode interaction. ... NEWBASIC/CATALYSTincorporates an advanced implementation of BASIC, system-level interactive features, and a general capability for extension through user oriented function attachment, Application of this last feature to provide a flexible CAI scan capability is illustrated.
+
+CACM-2254
+These definitions are motivated with several realistic examples to illustrate the value of partitioning for array <B>languages</B>. ... Dynamic Partitioning for Array <B>Languages</B> The classical process of partitioning an array into subarrays is extended to a more useful array language operation.
+
+CACM-3119
+Issues considered include the impact of CPU service disciplines and distributions, <B>level</B> of multiprogramming, multitasking, and job priorities. ... The Impact of Distributions and Disciplines on Multiple Processor Systems Simple queueing models are used to study the performance tradeoffs of multiple processor systems.
+
+CACM-0321
+It is not hard to learn those parts of ALGOL present in other compiler languages: how to write assignment and go to and for statements, etc. ... Indeed, a lot of the unnecessary restrictions imposed by other compiling <B>languages</B> have finally been lifted.
+
+CACM-2645
+Two <B>Languages</B> for Estimating Program Efficiency Two <B>languages</B> enabling their users to estimate the efficiency of computer programs are presented. ... Processors for the two <B>languages</B> are also described.
+
+CACM-1988
+A Formalism for Translator Interactions A formalism is presented for describing the actions of processors for programming languages-compilers, interpreters, assemblers-and their interactions in complex systems such as compiler-compilers or extendible <B>languages</B>. ... The formalism here might be used to define and answer such a question as "Can one do bootstrapping using a meta-compiler whose metaphase is interpretive?" In addition an algorithm is presented for deciding whether or not a given system can be produced from a given set of component processors.
+
+CACM-2898
+This paper describes a conceptual framework for a <B>high</B> <B>level</B> programming language providing both nonprocedural and sequential facilities. ... The requirement to indicate irrelevant sequencing can be removed if the language provides facilities for specifying a task in a nonprocedural manner.
+
+CACM-2887
+Error density was high: 20 percent of the types contained 80 percent of the total frequency, which implies <B>high</B> potential effectiveness for software based correction of Cobol. ... Over 80 percent of error diagnosis was found to be inaccurate.
+
+CACM-0731
+This system is intended for imbeding in higher <B>level</B> <B>languages</B> capable of calling functions and subroutines coded in machine language. ... The presentation is in the form of FORTRAN programs depending on only a limited set of FORTRAN programs depending on only a limited set of "primitive" machine language subroutines which are also defined.
+
+CACM-2826
+The simplicity of the stick figure image encourages a <B>high</B> <B>level</B> of interaction during the design stage. ... This control sequence is then used to drive an image sequence through the same movement.
+
+CACM-2897
+Each step expands higher <B>level</B> statements into blocks of lower <B>level</B> code and then performs optimizations on the result. ... Such a compiler translates the parsed source code into lower <B>level</B> code by a sequence of steps.
+
+CACM-3027
+An overall view of the complete MU5 complex is presented together with a brief indication of its performance. ... A description is then given of the instruction set, which includes a number of features conducive to the production of efficient compiled code from high-level language source programs.
+
+CACM-3130
+The core curriculum common to all computer science undergraduate programs is presented in terms of elementary <B>level</B> topics and courses, and intermediate <B>level</B> courses. ... Issues related to undergraduate computer science education, such as service courses, supporting areas, continuing education, facilities, staff, and articulation are presented.
+
+CACM-1462
+Large applications require supervisory monitors which handle problems similar to those of the operating systems, but at a different <B>level</B>. ... Sometimes, still a third or even a fourth such <B>level</B> is required or desirable.
+
+CACM-2456
+It is also shown that any flowcharts can be converted to a well-formed flowchart by node splitting. ... Practical implications are discussed.
+
+CACM-2192
+It is shown to be useful for proving partial functions equivalent and thus applicable in proofs about interpreters for programming <B>languages</B>. ... Another Recursion Induction Principle An inductive method for proving things about recursively defined functions is described.
+
+CACM-2880
+The mathematical foundations of the algorithm are presented as well as some performance measures. ... The method has proved very useful implemented as microcode ona binary machine, and can be adapted directly into hardware.
+
+CACM-2365
+Such modifications produce modest savings in many common situations and very significant savings for large problems run under an operating system which uses paging. ... Matrix Computations with Fortran and Paging The efficiency of conventional Fortran programs for matrix computations can often be improved by reversing the order of nested loops.
+
+CACM-2493
+However, the <B>high</B> cost of a reorganization prohibits frequent reorganizations. ... By reorganizing the data base the cost per access may be reduced.
+
+CACM-1676
+To maintain cohesion, a system must be developed, written in a <B>high</B> <B>level</B> language, which minimizes machine dependencies and isolates those which are necessary. ... Machine-independent optimization occurs in pass II and DO-loop and machine-dependent optimization in pass III.
+
+CACM-3052
+Use of "warm-start" rather than "cold-start" miss ratios cast doubt on the widespread belief that the observed "S-shape" of lifetime (reciprocal of miss ratio) versus capacity curve indicates a property of behavior of programs that maintain a constant number of pages in main storage. ... For large capacities the effect on the measured miss ratio of the misses incurred while filling the first-level store can be significant, even for long reference strings.
+
+CACM-2873
+A third characteristic consists of the possibility of using this language to design other user oriented <B>languages</B>. ... LG: A Language for Analytic Geometry A conversational programming language for analytic geometry is described, together with some aspects of its implementation.
+
+CACM-1179
+Batches of small- and medium-sized FORTRAN IV source language programs are processed at very <B>high</B> speeds. ... Language compatibility has been maintained so that programs may be debugged in the PUFFT system and then recompiled and run in the IBJOB-IBFTC system supplied by the manufacturer.
+
+CACM-2842
+The Denotational Semantics of Programming <B>Languages</B> This paper is a tutorial introduction to the theory of programming language semantics developed by D. ... Scott and C.
+
+CACM-2765
+Analysis and performance of Inverted Data Base Structures The need to envision and architecture data base systems in a hierarchical <B>level</B> by <B>level</B> framework is stressed. ... The inverted data base (file) organization is then analyzed, considering implementation oriented aspects.
+
+CACM-1552
+The routines of the package perform <B>high</B> <B>level</B> functions automatically, but also allow access and control of fine internal details as well. ... The AED Free Storage Package The most fundamental underlying problem in sophisticated software systems involving elaborate, changing data structure is dynamic storage allocation for flexible problem modeling.
+
+CACM-0479
+If the number of strings dispersed is between two levels acceptable by Polyphase merge, a more economical technique of reaching the next <B>level</B> for Polyphase merge is shown and proved. ... A Dispersion Pass Algorithm for the Polyphase Merge This paper presents a new manner of dispersing strings for a Polyphase merge.
+
+CACM-2558
+Protection in Programming <B>Languages</B> Linguistic mechanisms which can be used to protect one subprogram from another's malfunctioning are described. ... An attempt is made to distinguish between access limitation and authentication.
+
+CACM-2076
+Arcs of two cubics suffice to construct a basis of cardinal splines. ... Cubic Splines on Uniform Meshes A very simple procedure is presented for constructing cubic splines, periodic or nonperiodic, on uniform meshes.
+
+CACM-1183
+The procedure is based on a straight-forward use of FORMAT statements for generating machine-written programs. ... A Note on the Use of a Digital Computer for Doing Tedious Algebra and Programming A special purpose compiler was written with FORTRAN II language and made possible the writing of very long programs by the computer.
+
+CACM-2081
+Some Complete Calculi for Matrices A matrix calculus is introduced with the intention of developing data structures suitable for a <B>high</B> <B>level</B> algorithmic language for mathematical programming. ... Several completeness results are obtained in the sense that for each expression an equivalent expression in normal form can be found within a specified calculus.
+
+CACM-1927
+Computer Science Program. ... Suitable bibliographies are appended.
+
+CACM-1457
+A variety of data representations which have been used to describe structured information are then examined, and the characteristics of various processing <B>languages</B> are outlined in the light of the procedures requiring implementation. ... Advantages of these programming <B>languages</B> for the retrieval application are examined, and suggestions are made for the design of programming facilities to aid in information retrieval.
+
+CACM-3103
+In the past, programming systems have provided only a single general purpose implementation for an abstract type. ... General issues in data structure selection are also reviewed.
+
+CACM-1188
+A computer designer can benefit from using a design language at a higher <B>level</B> just as a computer user can benefit from a higher <B>level</B> programming language. ... The purposes and requirements of the design language are enumerated.
+
+CACM-2301
+Koster, the inventor of affix based on recursive procedures. ... Generating Parsers for Affix Grammars Affix grammars are two-level grammars which are similar to van Wijngaarden's two-level grammars used in the definition of Algol 68.
+
+CACM-2784
+Expected Time Bounds for Selection A new selection algorithm is presented which is shown to be very efficient on the average, both theoretically and practically. ... The number of comparisons used to select the ith smallest of n numbers is n+min(i,n-i)+o(n).
+
+CACM-3189
+This compiler will expand all algebraic statements with the following operations: addition, subtraction, multiplication and division. ... It will compile multi-level expressions in floating-point arithmetic (this is easily be revised to fixed-point).
+
+CACM-2305
+Although this early approach to a programming language did not lead to practical use, the plan is described here because it contains features that are standard in today's programming <B>languages</B>. ... The "Plankalkul" of Konrad Zuse: A Forerunner of Today's Programming <B>Languages</B> Plankalkul was an attempt by Korrad Zuse in the 1940's to devise a notational and conceptual system for writing what today is termed a program.
+
+CACM-0990
+Constraint-Type Statements in Programming <B>Languages</B> A proposal is made for including in a programming language statements which imply relations between variables but which are not explicit assignment statements. ... The compiler sets up a Newtonian iteration making use for the purpose of a routine for formal differentiation.
+
+CACM-1835
+Several novel and powerful features are included. ... IITRAN is a procedure-oriented language with a one-level block structure and a variety of data types.
+
+CACM-2843
+These allow the instructor to augment the basic concepts with relevant, exciting, and economical student project activities. ... The tools include programs such as simulators, graders, compilers, and monitor.
+
+CACM-2526
+Several analytic models are introduced, and it is shown that such hierarchies may operate in ways which differ from those of more conventional hierarchies. ... This situation may not continue, as several devices are currently under development which may have a very small read-time/write-time ratio.
+
+CACM-1788
+Toward a General Processor for Programming <B>Languages</B> Many efforts have been made to develop a better way of implementing a higher <B>level</B> programming language than by the construction of a whole new compiler, but so far none has proved generally satisfactory. ... In this paper, it is contended that a programming language is best described functionally as a body of macro instructions, and that the macro call constitutes a canonical form in terms of which a programming notation may be described.
+
+CACM-0825
+The input to the program consists of spark-chamber photographs on which tracks of high-energy particles are recorded. ... In continuous operation a processing rate of 5,000 photographic frames per hour is achieved.
+
+CACM-0367
+Given a list of these lines in numeric order, a simple technique can be used to create at <B>high</B> speed a list in topological order. ... The lines are identified by their terminal nodes and the nodes are assumed to be numbered by a non-topological system.
+
+CACM-2345
+Curriculum Recommendations for Graduate Professional Programs in Information Systems The need for education related to information systems in organizations is discussed, and a curriculum is proposed for graduate professional programs in universities, at the Master's <B>level</B>. ... Detailed course descriptions are presented, program organization discussed, and implementation questions considered.
+
+CACM-1475
+In such situations, it may prove economical to avoid creating a new master file during each updating run by producing instead a dribble ledger containing only those master file accounts which have experienced activity. ... Dribble Posting a Master File Many business applications employ sequential magnetic tape rather than random-access storage techniques to process a very small number of transactions against a voluminous master file.
+
+CACM-1610
+A Method for the Solution of Transportation Problems with Tall Matrices A method is presented for the solution of the transportation problem having a cost matrix with few columns. ... The computer implementation of this method shows it to be very fast and efficient.
+
+CACM-2716
+The basic idea is to employ automatic programming techniques so that the interface analyzes and efficiently refines the <B>high</B> <B>level</B> query specification supplied by the user. ... A relational algebra interface, called SQUIRAL, which was designed using this approach, is described in detail.
+
+CACM-3105
+This paper shows how to extend programming <B>languages</B> to provide controlled sharing. ... The approach can be used to extend any strongly-typed language, but is particularly suitable for extending <B>languages</B> that support the notion of abstract data types.
+
+CACM-2542
+This system is based on a simple, <B>high</B> <B>level</B> language which is used to describe the evolving system at all stages of its development. ... A system which integrates performance evaluation with design and implementation is described.
+
+CACM-0303
+Some Basic Terminology Connected With Mechanical <B>Languages</B> and Their Processors The suggestions in this paper are part of the terminology used in work for the University of Pennsylvania's Office of computer Research and Education. ... The work is jointly supported by the National Science Foundation and the Air Force Office of Scientific Research.
+
+CACM-0111
+Both a <B>high</B> degree of accuracy and rapid convergence are realized. ... Numerical examples are shown to illustrate the pitfalls and to show how these are circumvented by application of the recommended procedures.
+
+CACM-2251
+It allows full table searching, and practically eliminates primary clustering at a very low cost. ... Weighted Increment Linear Search for Scatter Tables A new linear search for hash tables whose increment step is a function of the key being addressed is presented.
+
+CACM-1643
+It is shown how the accuracy of this division may be increased by dividing in order of both ascending and descending powers of the variable and choosing a crossover point which minimizes a very simply calculated error criterion. ... An Improvement to Iterative Methods of Polynomial Factorization Methods of polynomial factorization which find the zeros one at a time require the division of the polynomial by the accepted factor.
+
+CACM-1163
+Experience with this system is limited but highly successful encouraging application of the techniques to other source and object <B>languages</B>. ... Philco/IBM Translation at Problem-Oriented, Symbolic and Binary Levels A translation system has been developed to eliminate most of the effort formerly required to reprogram Philco 2000 series codes for IBM 7094 operation.
+
+CACM-3058
+Multiple <B>level</B> and variable size jump strategies are explored, appropriate applications are discussed and performance is evaluated. ... Jump Searching: A Fast Sequential Search Technique When sequential file structures must be used and binary searching is not feasible, jump searching becomes an appealing alternative.
+
+CACM-1926
+It is written entirely in FORTRAN IV. ... Description of FORMAT, a Text-Processing Program FORMAT is a production program which facilitates the editing and printing of "finished" documents directly on the printer of a relatively small (64k) computer system.
+
+CACM-2621
+A <B>High</B> Security Log-in Procedure The protection of time sharing systems from unauthorized users is often achieved by the use of passwords. ... We discuss the selection of a suitable one-way cipher and suggest that for this purpose polynomials over a prime modulus are superior to one-way ciphers derived from Sannon codes.
+
+CACM-1826
+A LISP Garbage-Collector for Virtual-Memory Computer Systems In this paper a garbage-collection algorithm for list-processing systems which operate within very large virtual memories is described. ... Because free storage is never really exhausted, the decision to garbage collect is not easily made; therefore, various criteria of this decision are discussed.
+
+CACM-2684
+A more detailed presentation, as well as the application to define abstract syntax and translations between languages, is given in a previous paper by the author. ... Production Systems: or Can We Do Better than BNF? Since the development of BNF, the definition of the syntax of programming <B>languages</B> has been almost universally associated with context-free requirements.
+
+CACM-1553
+It is argued that the adequacy of the <B>level</B> of understanding achieved in a particular conversation depends on the purpose of that conversation, and that absolute understanding on the part of either humans or machines is impossible. ... The importance of context to both human and machine understanding is stressed.
+
+CACM-1182
+The shapes of the functions, however, indicate that similarity of context is reliable as criterion only for detecting pairs of words that are very similar in meaning. ... Contextual Correlates of Synonymy Experimental corroboration was obtained for the hypothesis that the proportion of words common to the contexts of word A and to the contexts of word B is a function of the degree to which A and B are similar in meaning.
+
+CACM-2034
+The Mobile Programming System: STAGE2 STAGE2 is the second <B>level</B> of a bootstrap sequence which is easily implemented on any computer. ... The approach has been successful on over 15 machines of widely varying characteristics.
+
+CACM-0252
+After achieving the required <B>level</B> of integration, both computers do similar processing on the same inputs and continually cross-check the intermediate and final results. ... The duplex operation gives the system greater reliability.
+
+CACM-1781
+Translator Writing systems A critical review of recent efforts to automate the writing of translators of programming <B>languages</B> is presented. ... Various approaches to automating the post syntactic (semantic) aspects of translator writing are discussed in Section III, and several related topics in Section IV.
+
+CACM-1908
+Statistically and logically significant results indicate equal cost for usage of the two computer systems; however, a much higher <B>level</B> of performance is attained by time-sharing users. ... There are indications that significantly lower costs would have resulted if the time-sharing users had stopped work when they reached a performance <B>level</B> equal to that of the batch users.
+
+CACM-3102
+Incorporation of Units into Programming <B>Languages</B> The issues of how a programming language might aid in keeping track of physical units (feet, sec, etc. ... ) are discussed.
+
+CACM-1278
+In solving non-linear boundary-value problems using quasilinearization many partial derivatives must be formed analytically and then evaluated numerically. ... Wengert's method appears very attractive from the programming viewpoint equations which might not otherwise be undertaken.
+
+CACM-0759
+Continued Operation Notation for Symbol Manipulation and Array Processing A brief account is given of a notational device that is very useful in the formal representation of syntaxes, string relationships and string transformation procedures and also of computing procedures that deal with arrays of functions of many variables. ... The device consists of the use of certain "continued operation" or "collective" symbols that are analogous to the summation symbol (Sigma) and continued multiplication symbol (Pi) of conventional mathematics.
+
+CACM-3188
+Semiotics and Programming <B>Languages</B>   I have based my paper on semiotics and its three dimension. ... I should insert at this point that language has many aspects and that pragmatics, semantics and syntactics do not necessary cover all of them.
+
+CACM-3198
+Microprogramming, Emulators and Programming <B>Languages</B>  The problem we have been concerned with is that of converting language to action - or intellectual energy to mechanical energy. ... In the areas of language investigation we have concentrated first on formalizing syntax and then on semantics.
+
+CACM-1223
+<B>High</B> Speed Compilation of Efficient Object Code A three-pass compiler with the following properties is briefly described: The last two passes scan an intermediate language produced by the preceding pass in essentially the reverse of the order in which it was generated, so that the first pass is the only one which hasto read the bulky problem-oriented input. ... The discussion is in terms of a FORTRAN-like language, although the technique is applicable to most algebraic <B>languages</B>.
+
+CACM-0973
+Estimation of Heart Parameters Using Skin Potential Measurements A fundamental problem of vector cardiography is the estimation of the state of the heart on the basis of skin potential measurements. ... A feasible solution, employing quasilinearization and high-speed digital computers, is given.
+
+CACM-2733
+Deterministic Parsing of Ambiguous Grammars Methods of describing the syntax of programming <B>languages</B> in ways that are more flexible and natural than conventional BNF descriptions are considered. ... These methods involve the use of ambiguous context-free grammars together with rules to resolve syntactic ambiguities.
+
+CACM-0755
+Thus this formula may be used with a large step size to decrease the total computing time for a solution significantly, particularly in those engineering problems where <B>high</B> accuracy is not needed. ... An Exponential Method of Numerical Integration of Ordinary Differential Equations A formula for numerical integration is prepared, which involves an exponential term.
+
+CACM-2078
+The representational requirements for this problem area are defined and compared with current computer graphic <B>languages</B>. ... Four alternative data structures that allow automated space planning are described and compared.
+
+CACM-0048
+A <B>high</B> degree of redundancy is used, permitting a single-error correcting code ("minimum-distance-three" code) with 64 10-bit code words to be employed as the station identification code. ... Each time the given code combination arises identifying the particular station (barring for tuitous error combinations of very low probability) it has been called.
+
+CACM-1469
+The Next 700 Programming <B>Languages</B>  A family of unimplemented computing <B>languages</B> is described that is intended to span differences of application area by a unified framework. ... One is the choice of written appearances of programs (or more generally, their physical representation).
+
+CACM-1084
+On Declaring Arbitrarily Coded Alphabets The inability of existing programming <B>languages</B> to handle character strings from more than one or two alphabets is mentioned and a scheme for declaring additional alphabets is proposed. ... The scheme provides for: many-to-one encodings, right or left justification, collating sequences different from numeric sequence, variations in character size (number of bits.
+
+CACM-2957
+It is suggested that aggregate types, and other types which support real-world abstractions without in troducing implementation detail, should be incorporated into programming <B>languages</B>. ... Relational databases defined as collections of aggregates are structured as a hierarchy on n-ary relations.
+
+CACM-2252
+A Method for Incrementally Compiling <B>Languages</B> with Nested Statement Structure A method of incremental compilation is presented which applies especially to programming <B>languages</B> in which statements can be nested (such as Algol and PL/I). ... The essential points of the method are: (1) the syntax of the language is restricted insof ar as which constructs may occur on lines; (2) an internal data structure (called the skeleton) is maintained to represent the statement structure; (3) the recompilation is partially batched in the sense that recompilation of modified lines does not occur until the last of a set of editing commands has been received; and (4) the parsing and compilation are factored into two parts, that done on individual lines and that done globally to handle the relationships between the lines.
+
+CACM-1641
+A Use of Fast and Slow Memories in List-Processing <B>Languages</B> A scheme is described which permitting a substantial increase in memory space utilized to store list-structured data. ... It consists in reducing to one <B>level</B> a nonhomogeneous store composed of fast (core) and slow (disk or drum) memories.
+
+CACM-1282
+The Use of FORTRAN in Subroutines with COBOL Main Programs By using the proper COBOL coding techniques and accounting for differences in storage allocation and library routines between the two languages, it is possible to write FORTRAN IV subroutines that may be called from COBOL main programs. ... Such a technique enables the programmer to take advantage of the most useful properties of each language while minimizing their respective disadvantages.
+
+CACM-1544
+Audio output is provided directly to the telephone terminals, but the system will normally be used in conjunction with remotely located <B>high</B> speed printing devices. ... The programmed scanner uses context to eliminate the ambiguity in transmission.
+
+CACM-1145
+Since a straightforward enumerative algorithm might require 40 years of running time on a very <B>high</B> speed computer in order to compare two 15-node graphs, a more sophisticated approach seems called for. ... The situation is similar to that prevailing in areas such as game-playing and theorem-proving, where practical algorithms are unknown (for the interesting cases), but where various practical though only partially successful techniques are available.
+
+CACM-1491
+EULER: A Generalization ALGOL, and its Formal Definition: Part I* A method for defining programming <B>languages</B> is developed which introduces a rigorous relationship between structure and meaning. ... A constructive method for evaluating a text is provided, and for certain decidable classes of <B>languages</B> their unambiguity is proved.
+
+CACM-0949
+Integer and Signed Constants in ALGOL A few remarks are given on the relations between syntax and semantics in the programming <B>languages</B>. ... The aim is to point out that, if it is true that the grammar of a context-free language should be conceived not only as a strings-generating device but also as a method for expressing a meaning, then the grammar of ALGOL is open to some criticism.
+
+CACM-1143
+These methods have been applied to artificially-generated sets of data as well as to the results of experiments with radioactive tracers on both human and animal subjects. ... Analysis of Decay-Type Data* A comparative study has been made of a variety of numerical techniques for fitting experimental data of the decay type by forms involving the sums of exponentials.
+
+CACM-3040
+An algorithm is developed that can achieve any <B>level</B> of consistency desired, in order to preprocess the problem for subsequent backtrack search, or to function as an alternative to backtrack search by explicitly determining all solutions. ... A theory of consistency levels in such networks is formulated, which is related to problems of backtrack tree search efficiency.
+
+CACM-2219
+A scheduling and swapping algorithm which keeps the resource count of each process above its policy function will provide the specified <B>level</B> of service. ... Overhead can be reduced by avoiding swaps of process which have received at least his <B>level</B> of service.
+
+CACM-3039
+Exclusion and synchronization constraints have been kept as weak as could be achieved; the severe complexities engendered by doing so are illustrated. ... On-the-Fly Garbage Collection: An Exercise in Cooperation As an example of cooperation between sequential processes with very little mutual interference despite frequent manipulations of a large shared data space, a technique is developed which allows nearly all of the activity needed for garbage detection and collection to be performed by an additional processor operating con-currently with the processor devoted to the computation proper.
+
+CACM-1938
+It is each terminal user's ability to utilize the full resources of the system that makes quantitative evaluation of time-sharing systems particularly difficult. ... Six criteria are described which have been successfully used to perform first-level quantitative time-sharing system performance evaluation.
+
+CACM-1184
+A Fast Storage Allocator A fast storage bookkeeping method is described which is particularly appropriate for list-structure operations and other situations involving many sizes of blocks that are fixed in size and location. ... This scheme, used in the LLLLLL or L6 (Bell Telephone Laboratories Low-Level List Language), makes available blocks of computer registers in several different sizes: the smaller blocks are obtained by successively splitting larger ones in half, and the larger blocks are reconstituted if and when their parts are simultaneously free.
+
+CACM-2514
+Examples are given involving array <B>languages</B> consisting of simple geometrical patterns, as well as a language of "neuron pictures. ... The user can control the rule selection procedure in a derivation or parse, using weighted programming matrices; he also has a choice of instance selection schemes (raster,random, parallel).
+
+CACM-1769
+Problem-oriented <B>languages</B> are particularly effective over the entire front. ... Online computers and time-sharing also rate <B>high</B> by this measure.
+
+CACM-1135
+This new philosophy has the potential to overcome well-known deficiencies of other business-oriented <B>languages</B> and fully meets the requirements set by CODASYL for such languages, including machine-independence. ... It stresses the structural analysis of the class of processes to be represented in the languages, as opposed to emphasizing formal (i.
+
+CACM-1395
+The algorithm is applicable to other members of the family of string transformation <B>languages</B> of which AMBIT is a member, and it provides a rationale for the design of the AMBIT language. ... The algorithm for the "AMBIT scan" and an example of its application are given.
+
+CACM-2941
+Early Experience with Mesa The experiences of Mesa's first users-primarily its implementers-are discussed, and some implications for Mesa and similar programming <B>languages</B> are suggested. ... The specific topics addressed are: module structure and its use in defining abstractions, data-structuring facilities in Mesa, an equivalence algorithm for types and type coercions, the benefits of the type system and why it is breached occasionally, and the difficulty of making the treatment of variant records safe.
+
+CACM-2785
+Glypnir-A Programming Language for Illiac IV GLYPNIR is one of the earliest existing <B>languages</B> designed for programming the Illiac IV computer. ... This paper describes the characteristics, goals and philosophy of the language, and discusses some of the problems associated with parallel computer architectures.
+
+CACM-1474
+The purpose of this paper is to give precise descriptions of certain probabilistic models for roundoff error, and then to describe a series of experiments for testing the validity of these models. ... Tests of Probabilistic Models for Propagation of Roundoff Errors In any prolonged computation it is generally assumed that the accumulated effect of roundoff errors is in some sense statistical.
+
+CACM-3084
+The same holds if the cumulative distribution function of the keys is known. ... Computational experiments confirm these results.
+
+CACM-2112
+Translation Equations Input limited transduction expressions, or translation equations, are used to describe the syntax and left-context sensitive semantics for context-free <B>languages</B>. ... Within the framework described string recognition and parsing may be treated as special cases of the translation problem.
+
+CACM-1350
+In section 2, the augmented predictive analyzer as a parsing algorithm for arbitrary context-free <B>languages</B> is compared with two other parsing algorithms: a selective top-to-bottom algorithm similar to Irons' "error correcting parse algorithm" and an immediate constituent analyzer which is an extension of Sakai-Cocke's algorithm for normal grammars. ... The Augmented Predictive Analyzer for Context-Free Languages-Its Relative Efficiency It has been proven by Greibach that for a given context-free grammar G, a standard-form grammar Gs can be constructed, which generates the same <B>languages</B> as is generated by G and whose rules are all of the form Z --> cY(1).
+
+CACM-2376
+The formal description of the synchronization mechanism makes it very easy to prove that the buffer will neither overflow nor underflow, that senders and receivers will never operate on the same message frame in the buffer nor will they run into a deadlock. ... This is demonstrated for a system consisting of many sending processes which deposit messages in a buffer and many receiving processes which remove messages from that buffer.
+
+CACM-2972
+The method formally represents a program in terms of levels of abstraction, each <B>level</B> of which can be described by a self-contained nonprocedural specification. ... The proofs, like the programs, are structured by levels.
+
+CACM-1470
+He concludes by suggesting the evolution of programming <B>languages</B> toward one which will permit all the most convenient ways of structuring programs, organizing systems, and referencing data. ... Many examples, frequently from list processing languages, illustrate the forms described.
+
+CACM-2819
+Various parameters in the algorithms are optimized to obtain a <B>high</B> degree of compression for sample texts. ... Four new algorithms for this operation are described and compared.
+
+CACM-2651
+The EL1 language contains a number of features specifically designed to simultaneously satisfy both requirements. ... The resulting treatment of data types includes provision for programmer-defined data types data types and generic routines, programmer control over type conversion, and very flexible data type behavior, in a context that allows efficient compiled code and compact data representation.
+
+CACM-1902
+An Automatic Grading Scheme for Simple Programming Exercises A discussion is given of alterations that were made to a typical university operating system to record the results of programming exercises in three different languages, including assembly language. ... Exercises run under the scheme may be mixed with other programs, and no special recognition of exercises by the operators is necessary.
+
+CACM-1216
+No use is made of list-processing <B>languages</B>. ... The chain rule is applied and the result is edited to produce results as elegant and efficient as those obtained by hand computation.
+
+CACM-2698
+Syntax-Directed Least-Errors Analysis for Context-Free Languages: A Practical Approach A least-errors recognizer is developed informally using the well-known recognizer of Earley, along with elements of Bellman's dynamic programming. ... The algorithm design emphasizes practical aspects which help in programming it.
+
+CACM-1613
+A technique is presented here for compiling arithmetic expressions into structures that can be evaluated with a <B>high</B> degree of parallelism. ... One-Pass Compilation of Arithmetic Expressions for a Parallel Processor Under the assumption that a processor may have a multiplicity of arithmetic units, a compiler for such a processor should produce object code to take advantage of possible parallelism of operation.
+
+CACM-3030
+We apply this method to a significant list processing problem and also discuss a number of extensions to current programming <B>languages</B> that ease hierarchical program design and proof. ... Users of hierarchical techniques claim or predict substantial increases in productivity and in the reliability of the programs produced.
+
+CACM-1463
+It is the intent of this paper to expand and clarify the remarks concerning program-to-program and program-to-data linkage that were embodied in the authors' previous paper on the EM concepts, and to, finally, trace the employment of linkage mechanisms through various levels of programming <B>languages</B>. ... More on Extensible Machines One of the most salient characteristics of extensible machines (EM) is the facility for providing system control over program-to-program and program-to-data linkage (e.
+
+CACM-3041
+A median split tree (MST) uses the lexical median of a node's descendents as its split value to force the search tree to be perfectly balanced, achieving both a space efficient representation of the tree and <B>high</B> search speed. ... Median Split Trees: A Fast Lookup Technique for Frequently Occuring Keys Split trees are a new technique for searching sets of keys with highly skewed frequency distributions.
+
+CACM-2892
+The source of this over head is separated into various levels of protocol hierarchy and the characteristics of each <B>level</B> are summarized. ... Then the line efficiency for various models of system use is studied.
+
+CACM-1253
+A brief description of SIMSCRIPT is included, as is a sufficient description of 20-GATE to render this material understandable to the reader familiar with algebraic <B>languages</B>. ... The QUIKSCRIPT language, its internal implementation, and major differences between QUIKSCRIPT and SIMSCRIPT are presented.
+
+CACM-1710
+ASP-A Ring Implemented Associative Structure Package ASP is a general purpose Associative Data Structure Package in which an arbitrary number of data items and an arbitrary number of the relationships between these data items may be represented. ... Emphasis is on the philosophy of the system rather than a particular implementation, though sufficient information is included to enable the reader to produce his own implementation of ASP.
+
+CACM-1425
+Although not every diagram is decomposable into a finite number of given base diagrams, this becomes true at a semantical <B>level</B> due to a suitable extension of the given set and of the basic mappings defined in it. ... Flow Diagrams, Turing Machines And <B>Languages</B> With Only Two Formation Rules In the first part of the paper, flow diagrams are introduced to represent inter al.
+
+CACM-2355
+Implementing Clenshaw-Curtis quadrature, I Methodology and Experience Clenshaw-Curtis quadrature is a particularly important automatic quadrature scheme for a variety of reasons, especially the <B>high</B> accuracy obtained from relatively few integrand values. ... However, it has received little use because it requires the computation of a cosine transformation and the arithmetic cost of this has been prohibitive.
+
+CACM-1484
+The inadequacies of the standard programming <B>languages</B> for the description of systems are discussed, and a dialect of ALGOL which is suitable for describing synchronous systems is introduced. ... These descriptions can be used for simulation and automatic design of the system described, in addition to communicating system specifications.
+
+CACM-3124
+An extension of APL is proposed that includes new primitive functions to manipulate the nesting <B>level</B> of arrays and new operators to assist in the construction of data-driven algorithms. ... Recursive Data Structures in APL A mathematical study of three approaches for defining nested arrays in APL is presented.
+
+CACM-0670
+It is essential to identify and provide for many legal aspects right now, before systems and practices crystallize, in order to avoid the later impact of unanticipated physical complications and expense. ... The legal ramifications involve not only the mechanization itself, but also the very significant, economically attractive phenomenon of off premises processing.
+
+CACM-2903
+Improving Programs by the Introduction of Recursion A new technique of program transformation, called "recursion in troduction," is described and applied to two algorithms which solve pattern matching problems. ... These algorithms are then subjected to a second transformation, a method of recursion elimination called "tabulation," to produce programs with a very efficient running time.
+
+CACM-1113
+This fact plus the advent of <B>high</B> speed microfilm printers such as the General Dynamics Electronics S-C 4020 makes possible perspective movies as the direct output from a computer. ... Computer-Made Perspective Movies as a Scientific and Communication Tool* It is easy to program the basic transformation required for a perspective drawing.
+
+CACM-1237
+In addition to table analysis, the nature of table-oriented programming <B>languages</B> and features is discussed. ... It is presumed that the reader is familiar with the nature of decision tables and conventional definitions.
+
+CACM-1394
+Limitations of the present system and future plans are also outlined. ... The manner in which these problems are encountered is outlined, and their representation in the computer discussed.
+
+CACM-1693
+The basic language is minimal in the sense that no basic element can be derived from the others with <B>high</B> efficiency in the object programs. ... New "symbols" (underlined words in ALGOL 60) are implicitly defined by usage in other declarations.
+
+CACM-2688
+Attribute Based File Organization in a Paged Memory Environment The <B>high</B> cost of page accessing implies a need for more careful data organization in a paged memory than is typical of most inverted file and similar approaches to multi-key retrieval. ... This article analyses that cost and proposes a method called multiple key hashing which attempts to minimize it.
+
+CACM-1035
+Characteristics of the FORTRAN CEP Language The FORTRAN CEP <B>languages</B> differs from FORTRAN II mainly because: (1) it extends the variety of the modes for real quantities; (2) it allows suitable mixtures, in an input/output list or in an expression, of quantities that occur under different modes; (3) it makes it possible to address a greater number of input/output equipment; and (4) it removes the restrictions on the complexity of the list of quantities to be transmitted between the magnetic core memory and the drum or the magnetic tape units.
+
+CACM-2749
+The significant event method is found to be more efficient than the clock pulse method at low levels of system interaction and less efficient at <B>high</B> levels. ... Significant Event Simulation This paper compares a new method of simulation organization, called the significant event method, with an old one, called the clock pulse method, using as examples two automobile traffic models.
+
+CACM-1387
+Solution of Systems of Polynomial Equations By Elimination The elimination procedure as described by Williams has been coded in LISP and FORMAC and used in solving systems of polynomial equations. ... It is found that the method is very effective in the case of small systems, where it yields all solutions without the need for initial estimates.
+
+CACM-2650
+Order-n Correction for Regular <B>Languages</B> A method is presented for calculating a string B, belonging to a given regular language L, which is "nearest" (in number of edit operations) to a given input string a. ... The method should find applications in information retrieval, artificial intelligence, and spelling correction systems.
+
+CACM-1504
+Our algorithm is slower than an algorithm presented by Welch by a ratio of N/3 (N is the number of nodes) but requires less storage. ... For graphs with a large number of nodes and edges, when storage is limited our algorithm is superior to Welch's; however, when the graphs are small, or machine storage is very large, Welch's algorithm is superior.
+
+CACM-2801
+In over half of the cases the compressed code results from the conventional BCD code by simple removal of redundant 0 bits. ... 34 percent.
+
+CACM-2687
+The feasibility of such a display is shown by deriving the minimum number of patterns required in the read only memory of the character generator to synthesize an arbitrary line. ... The synthesis process does not compromise picture quality since the resulting dot patterns are identical with those of a conventional raster display.
+
+CACM-0495
+In order to solve the normal equations and evaluate the precision measures of the resulting parameters, inversion of this matrix of coefficients is required. ... A Procedure for Inverting Large Symmetric Matrices In the least squares method for simultaneous adjustment of several parameters, the coefficients of the normal equations are the elements of a symmetric positive-definite matrix.
+
+CACM-3101
+This integration is accomplished by treating procedures and their activation records (called environments) as data objects and by decomposing procedure invocation into three separate components at the source-language <B>level</B>. ... The SL5 Procedure Mechanism This paper describes an integrated procedure mechanism that permits procedures to be used as recursive functions or as coroutines.
+
+CACM-1346
+The aim of this paper is to investigate the limitations of the applicability of certain extensions of the algorithm to the case where the approximations are rational as well as to present some numerical results. ... However, the few results known in this domain show how efficient the algorithm can be to obtain approximations with a small error, much more than in the polynomial case, in which the best approximation can be very nearly approached directly by a series development.
+
+CACM-1234
+Block structure and recursion are handled without need for interpretive methods at run times. ... The Structure of Yet Another ALGOL Compiler A high-speed "top down" method of syntax analysis which completely eliminates "back-up" of the source string has been implemented in a convenient macro-language.
+
+CACM-2710
+SQUARE is based on the relational model of data, and is shown to be relationally complete; however, it avoids the quantifiers and bound variables required by <B>languages</B> based on the relational calculus. ... A syntax is given, and suggestions are made for alternative syntaxes, including a syntax based on English key words for users with limited mathematical background.
+
+CACM-1625
+SURE is described, some of the problems encountered in automatic improvement at the source-language <B>level</B> are discussed, and further types of automatic program improvement are suggested. ... On the Automatic Simplification of Source-Language Programs Methods of simplification that can be applied automatically to programs written in an ALGOL-like language are discussed.
+
+CACM-2420
+Experiments with an Automatic Theorem-Prover HavingPartial Ordering Inference Rules Automatic theorem-provers need to be made much more efficient. ... With this in mind, Slagle has shown how the axioms for partial ordering can be replaced by built-in inference rules when using a particular theorem-proving algorithm based upon hyper-resolution and paramodulation.
+
+CACM-2884
+B. ... Permutation Enumeration: Four New Permutation Algorithms Classical permutation enumeration algorithms encounter special cases requiring additional computation every nth permutation when generating the n! permutations on n marks.
+
+CACM-1309
+Use of two special languages, EXTRACT and MATRAN, permits selective extraction of any data subset, efficient processing through any computational sequence, and flexible presentation of results in either tabular or graphical form. ... A Computer User-Oriented System A computer language system has been developed which makes possible fast preparation of management reports, regardless of computational complexity or format variety.
+
+CACM-1410
+The data obtained appear to justify satisfactorily the common assumption that the interarrival times are serially independent. ... The input process is assumed to be stationary, and to be defined by the interarrival time distribution.
+
+CACM-2137
+Also, a new means of list representation is used: "local sequential" for lists created during compilation, and "block <B>level</B> sequential" for those created dynamically. ... A new garbage collection algorithm has been introduced to make lists as compact as possible; partial garbage collection is performed after each block exit instead of total garbage collection when storage is exhausted.
+
+CACM-1626
+A scheme for binding variables is described which is good in this environment and allows for complete compatibility between compiled and interpreted programs with no special declarations. ... The techniques include careful segmentation of system programs, allocation of virtual memory to allow address arithmetic for type determination, and a special algorithm for building reasonably linearized lists.
+
+CACM-2968
+A detailed analysis of code is also presented at a <B>level</B> believed to be language-and compiler-independent. ... e.
+
+CACM-2928
+This primary memory requirement estimate was employed in an experimental version of Multics to control the <B>level</B> of multiprogramming in the system and to bill for memory usage. ... Hardware Estimation of a Process' Primary Memory Requirements A minor hardware extension to the Honeywell 6180 processor is demonstrated to allow the primary memory requirements of a process in Multics to be approximated.
+
+CACM-1869
+Block Structures, Indirect Addressing, and Garbage Collection Programming <B>languages</B> have included explicit or implicit block structures to provide a naming convenience for the programmer. ... Two modifications to SNOBOL are described, resulting in two desirable consequences: (1) naming constraints disappear even when there is indirect addressing within function definitions; and (2) there is a significant saving in the number of calls to the garbage collector, because some garbage is collected, at little expense, each time a function returns to its calling program.
+
+CACM-1748
+Finally, several methods for interlocking the execution of independent processes are presented and compared. ... A very general approach to priority-oriented scheduling is described, and its relationship to conventional interrupt systems is explained.
+
+CACM-1936
+It is shown that significant improvements in both the average search time and the total cost can be obtained by relaxing Sussenguth's restriction that all terminal nodes lie on the same <B>level</B> of the tree. ... His method, however, contains the limiting restriction that all terminal nodes lie on the same <B>level</B> of the tree.
+
+CACM-1506
+The LACONIQ Monitor: Time Sharing for Online Dialogues The LACONIQ (Laboratory Computer Online Inquiry) Monitor was developed primarily to support non-numerical applications such as retrieval from very large files by means of a "dialogue" between a system user and a retrieval application. ... The program segments called into execution by the remote CRT consoles are invariably run to completion rather than "rolled-out" to be brought back at a later time.
+
+CACM-1590
+These utterances were recorded at the normal noise <B>level</B> of the computer room but were not band-compressed or phase-distorted in any manner. ... Speech sounds were sampled by a microphone and an analog-to-digital converter attached to an interconnected IBM 7090-PDP-1 system.
+
+CACM-0435
+A Decision Matrix as the Basis for a Simple Data Input Routine Currently a great deal of time and effort is being spent on the development of bigger and better compiler languages, multiprogram executive systems, etc. ... It is with this somewhat neglected area that the author is interested.
+
+CACM-1911
+On Coordination Reduction and Sentence Analysis A class of coordination phenomena in natural <B>languages</B> is considered within the frame work of transformational theory. ... To account for these phenomena it is proposed that certain machinery be added to the syntactic component of a transformational grammar.
+
+CACM-2931
+Programming <B>languages</B> offer an obvious opportunity as their syntactic formalization is well advanced; however, the semantical theory can hardly be said to be complete. ... Logic and Programming <B>Languages</B> Logic has been long in terested in whether answers to certain questions are computable in principle, since the outcome puts bounds on the possibilities of formalization.
+
+CACM-2652
+Reduction of Compilation Costs Through Language Contraction Programming <B>languages</B> tailored to particular groups of users can often be constructed by removing unwanted features from a general purpose language. ... This paper describes the use of simulation techniques to predict the savings in compilation cost achievable by such an approach.
+
+CACM-2546
+The Use of Grammatical Inference for Designing Programming <B>Languages</B> Both in designing a new programming language and in extending an existing language, the designer is faced with the problem of deriving a "natural" grammar for the language. ... The algorithm then constructs a grammar which is a reasonable generalization of the examples submitted by the designer.
+
+CACM-0409
+Both data and algorithms may be expressed in a family of command and descriptive <B>languages</B>. ... CL-1, An Environment for a Compiler A flexible, large-scale programming system to facilitate the solution of information processing problems and to provide intercommunication between programs and/or programmers has been developed and realized on the IBM 709/7090 computer.
+
+CACM-2701
+The algorithm can be extended to yet larger classes of function spaces and graphs by relaxing the time bound. ... Consequently a restriction to one-entry one-exit control structures linearity.
+
+CACM-1588
+Most list-processing <B>languages</B> have suffered from their inability to deal directly with complex data structures and/or from their inability to perform the complete range of programming language operations upon the data list structures. ... These two problems have been eliminated in the list-processing facilities of PL/I.
+
+CACM-3132
+Three algorithms which are defined in the paper are found to be quite good. ... Six algorithms for finding central hyperplanes are tested on three data sets.
+
+CACM-2401
+The principal features of this method are the very small window employed (two-by-two elements), the parallel nature of the process, and the possibility of shrinking any pattern, regardless of the complexity of its configuration. ... An analogy with a neural network description, in terms of McCulloch-Pitts "neurons" is presented.
+
+CACM-1647
+The compiler also provides extensive error diagnostics, during both the compilation and the execution phases of a program run. ... FORTRAN IV was selected as the source language in order to achieve maximum language compatibility with other available compiling systems, in particular the IBM 7040/44 FORTRAN IV system.
+
+CACM-2229
+Construction of Rational and Negative Powers of a Formal Series Some methods are described for the generation of fractional and negative powers of any formal series, such as Poisson series or Chebyshev series. ... Both methods are described here, and the relationship between them is pointed out.
+
+CACM-2695
+The advantages of using such a transformation include the absence of round-off errors and improved computation time when compared with standard transformations. ... A graph theoretic algorithm which examines an arbitrary n x n matrix and determines whether or not it can be permuted into tridiagonal form is given.
+
+CACM-1542
+The structure and content of a higher <B>level</B> language can be matched by an appropriate interpretive language which can be executed efficiently by microprograms on existing computer hardware. ... A Microprogrammed Implementation of EULER on IBM System/360 Model 30 An experimental processing system for the algorithmic language EULER has been implemented in microprogramming on an IBM System/360 Model 30 using a second Read-Only Storage unit.
+
+CACM-2160
+The file organization being proposed is based on the atoms of a Boolean algebra generated by the queries. ... Thus, for example, the structure for retrieval on the basis of ranges of values of a given attribute would be very different from one where only retrieval on the basis of a single value is permitted.
+
+CACM-1930
+While the small modulus which must be used to maintain portability prevents the quality of the generator from being high, the generator compares well with the bounds established in the above mentioned paper. ... The literature on random number generators does not seem to contain an algorithm that meets requirements of this sort.
+
+CACM-3025
+The origin and evolution of the hardware, operating system, and <B>languages</B> are described in terms of technological change, user requirements, and user developments. ... The PDP-10's contributions to computing technology include: accelerating the transition from batch oriented to time sharing computing systems; transferring hardware technology within DEC (and elsewhere) to minicomputer design and manufacturing; supporting minicomputer hardware and software development; and serving as a model for single user and timeshared interactive minicomputer/microcomputer systems.
+
+CACM-2372
+The model is used to explain security features of several existing systems, and serves as a framework for a proposal for general security system implementation within today's <B>languages</B> and operating systems. ... Distinguishing between data dependent and data independent decision rules enables one to perform much of the checking of security only once at translation time rather than repeatedly at execution time.
+
+CACM-1348
+However, it is not necessary to confine one's scope to existing <B>languages</B>. ... One most describe the syntax of the control statements in his language; for this purpose a metalanguage is available.
+
+CACM-2838
+The average behavior of the program is shown to be very nearly equal to the worst-case performance, so that the sufficient conditions are also suitable for measuring the typical behavior of the algorithm. ... These techniques are shown to require at most twice as much processing power as regular garbage collectors, if they are used efficiently.
+
+CACM-1397
+Proceedings of the ACM Symposium on Symbolic and Algebraic Manipulation The ACM Symposium on Symbolic and Algebraic Manipulation brought together over four hundred people interested in programming <B>languages</B> designed for manipulation of algebraic formulas and symbol strings, in their applications, and in algorithms for their implementation. ... -Robert W.
+
+CACM-0441
+Topological Sorting of Large Networks Topological Sorting is a procedure required for many problems involving analysis of networks. ... A PERT network of 30,000 activities can be ordered in less than one hour of machine time.
+
+CACM-1324
+The most difficult and important research questions for the advancement of general-purpose language processors are seen to be concerned with measuring, dealing with ambiguities, translating into formal <B>languages</B> and searching large tree structures. ... It is concluded that the data-base question-answer has passed from initial research into the early developmental phase.
+
+CACM-1235
+The program operates at relatively <B>high</B> speed in only a limited storage space. ... Some suffix tests and logical-decision rules are employed to code additional words.
+
+CACM-1962
+Multiple functions (up to 14) are produced for long periods of time (up to several hours) at sufficiently <B>high</B> sampling rates to describe fast human reactions (up to 200 samples per second). ... Real-time feedback from the process being controlled is an important link in the system.
+
+CACM-1162
+Assembly <B>languages</B> generally provide a one-for-one translation from a symbolic to a numeric version of a program, that is, from assembly language to machine language. ... It is assembly language programs which present the greatest difficulty.
+
+CACM-2951
+The research clearly reveals that sufficient system data are currently obtainable, at least for the five diverse ARPA network systems studied in detail, to describe and predict the response time for network time-sharing systems as it depends on some measure of system activity or load <B>level</B>. ... Dynamic Response Time Prediction for Computer Networks If the ultimate aim of a computing network is resource sharing, then the human component as well as the technical component of networking must be fully investigated to achieve this goal.
+
+CACM-2767
+The end-order tree algorithm is shown to be an advantageous, immediate replacement for the algorithm in use with current simulation <B>languages</B>. ... Two of the algorithms are new, one is based on an end-order tree structure for event notices, and another uses an indexed linear list.
+
+CACM-2985
+The results also indicate that the chargeout systems characteristic of advanced EDP stage environments are associated with relatively <B>high</B> levels of positive user attitudes and marked increases in EDP training for users. ... Development and main tenance of computer-based systems is asserted to be a category of organizational change.
+
+CACM-0637
+The reduction in programming time and the improvement in documentation of the system were very significant. ... The 1401 compiler, which runs on the 7090 and produces 1401 programs, was described in the NELIAC language and generated with 7090 NELIAC system.
+
+CACM-1032
+One is self-organization of the file based on its history and past performance, and the second is a self-generating subset of the file with a <B>high</B> probability of being relevant. ... Two approaches to file organization are discussed.
+
+CACM-1810
+Is Automatic "Folding" of Programs Efficient Enough To Displace Manual? The operation of "folding" a program into the available memory is discussed. ... and by Nelson on an automatic folding mechanism of simple design, a demand paging unit built at the IBM Research Center by Belady, Nelson, O'Neil, and others, permitting its quality to be compared with that of manual folding, are discussed, and it is shown that given some care in use the unit performs satisfactorily under the conditions tested, even though it is operating across a memory-to-storage interface with a very large speed difference.
+
+CACM-3092
+Rough estimates of the total systems and programming resources consumed range as <B>high</B> as 75-80 percent in each category. ... It was then submitted to 120 organizations.
+
+CACM-1453
+This was applied to numerous smaller languages, including some sublanguage of ALGOL. ... A Nonrecursive Method of Syntax Specification The use of the Kleene regular expression notation for describing algebraic language syntax, in particular of ALGOL, is described in this paper.
+
+CACM-2714
+The paper presents an algorithm for merging A and B with the p parallel processors, which requires at most 2[log2 (2m+1)]+[3m/p] + [m/p][log2 (n/m)] steps. ... e.
+
+CACM-1609
+First, course which may have their examinations scheduled at the same period are grouped together in all possible ways. ... Scheduling University Course Examinations by Computer A new approach to the problem of scheduling course examinations is presented.
+
+CACM-2145
+HELP helps automate a design stage one step closer to production than logical design. ... HELP employs two methods of wiring.
+
+CACM-2480
+The students are expected to have taken at least two programming courses prior to this one and, therefore, to be familiar with at least two programming languages, both as students and users. ... Teaching "About Programming" This paper presents the goals and organization of a course about programming designed to provide entering students in a graduate program with a cultural enrichment in their professional lives.
+
+CACM-0040
+The greater simplicity of a binary arithmetic unit and the greater compactness of binary numbers both contribute directly to arithmetic speed. ... Less obvious and perhaps more important is the way binary addressing and instruction formats can increase the overall performance.
+
+CACM-1608
+It is shown that they can be used for some other singularities as well as poles. ... Even if the divergence occurs quite far away, integration formulas like Simpson's, that depend on fitting a polynomial, usually will be inaccurate: near a pole they will be very bad.
+
+CACM-3048
+Simulation of the system model yields the timing and resource usage statistics needed for performance evaluation, without the necessity of emulating the system. ... Further, it appears that many of the sophisticated pipelining and buffering technique simplemented in the architecture of the IBM 360/91 are of little value when high-speed (cache) memory is used, as in the IBM 360/195.
+
+CACM-2245
+Trace-Driven Modeling and Analysis of CPU Scheduling in Multiprogramming System Microscopic <B>level</B> job stream data obtained in a production environment by an event-driven software probe is used to drive a model of a multiprogramming computer system. ... , and dynamic predictors.
+
+CACM-1456
+An important conclusion is that, although LISP and other list processing <B>languages</B> are ideally suited for producing complex associative structures, they are inadequate vehicles for language processing on any large scale-at east until they can use auxiliary memory as a continuous extension of core memory. ... Storage and Retrieval of Aspects of Meaning in Directed Graph Structures An experimental system that uses LISP to make a conceptual dictionary is described.
+
+CACM-2354
+The <B>high</B> cost of these cosine transformations has been a serious drawback in using Clenshaw-Curtis quadrature. ... Two other problems related to the cosine transformation have also been trouble some.
+
+CACM-2939
+Of these, only the procedural abstraction is supported well by conventional languages, through the procedure or subroutine. ... Abstraction Mechanisms in CLU CLU is a new programming language designed to support the use of abstractions in program construction.
+
+CACM-0464
+The present account of the language and the subroutine contains a summary of material that has been described previously in unpublished reports and also some additional discussion of the work in relation to the more general questions of problem-oriented <B>languages</B> and string transformations. ... The output consists of a trace table that expresses the results of the syntactic analysis in a tabular form.
+
+CACM-2940
+Results are obtained that for common special cases of these loops are essentially identical to the corresponding constructs in other <B>languages</B>. ... In this paper the abstraction techniques are extended from simple data representation and function definition to the iteration statement, the most important poin t of interaction between data and the control structure of the language itself.
+
+CACM-1651
+This latter (limited) use derives not at all from inherent limitations in the code itself, but from an efficiency evaluation: large LP problems would doubtless benefit from an input system more suited for bulk data handling than the input code described. ... , of row constraints.
+
+CACM-3142
+While most management systems may be adequate, results of the survey raise concerns about the timeliness and the number of designs of very large linked program packages (as EFT for instance). ... How many and what type of errors occur? How easily are they corrected? What is the reaction of consumers to errors-to a failure to correct them? What can be learned by designers of large management packages from such data? Results show that with the present state of the art, approximately 40 percent of individuals (or households) having average contacts with different types of accounts experience one or more errors per year.
+
+CACM-1956
+The analysis is parameterized in terms of the ratio of seek time to the time it takes to fill available core with records, and the file size in units of core lengths; and thus it can be applied to any conventional CPU/mass storage combination. ... It is found that the normalized read time for optimum merging on a given hardware configuration is proportional to the file length times the logarithm of the file length.
+
+CACM-2998
+Pointers to atoms are found to obey, roughly, Zipf's law, which governs word frequencies in natural languages; poin ters to lists usually poin t to a location physically nearby in memory. ... Linearization of lists, whereby successive cdrs (or cars) are placed in consecutive memory locations whenever possible, greatly strengthens the observed regularity of list structure.
+
+CACM-2051
+A PL/I Program to Assist the Comparative Linguist A practical PL/I program is described which can assist comparative linguists to determine the regular sound correspondences between genetically related <B>languages</B>. ... The program tabulates the correspondences, and uses list processing techniques to sort and count them.
+
+CACM-1433
+The number of repetitions of a certain transfer of data from tape to core memory is considered. ... After some simplification, the problem is restated in a general way.
+
+CACM-2002
+AMESPLOT-A Higher <B>Level</B> Data Plotting Software System AMESPLOT is an extensible software system designed to make the display of data as simple, painless, and neat as possible. ... The system was formulate d in a way such that the user could supply the minimum of information, and it should be fully integrable with user's program written in most conventional higher <B>languages</B>.
+
+CACM-3081
+Shallow Binding in Lisp 1. ... 5 is presented in which context-switching is an environment tree transformation called rerooting.
+
+CACM-1323
+First a model for computer <B>languages</B> and compute behavior is described, based on the notions of functional application and functional abstraction, but also having analogues for imperative language features. ... The correspondence is first described informally, mainly by illustrations.
+
+CACM-2893
+This paper establishes that there is substantial variation among the larger local governments in the rate at which they adopt computer technology, in the <B>level</B> of financial support they provide for EDP, and in the extensiveness and sophistication of their automated applications. ... Computers as an Innovation in American Local Governments Computers and electronic data processing are a major technological innovation in the operations of American local government.
+
+CACM-1290
+The present paper elaborates upon solutions to the problems of transparency to the basic ASCII communication control characters as outlined in the previous paper mentioned above. ... The appearance of this paper was forecast (underthe name of "second-level control") in the earlier tutorial paper, "Control Procedures for Data Communications," Task Group document X3.
+
+CACM-1725
+) In this paper a very simple proof of this theorem derived from some elementary aspects of the structure of sets of binary numbers is presented. ... e.
+
+CACM-2702
+These results carry over to many other parameterized classes of grammars, such as the LL(k), strong LL(k), SLR(k), LC(k), and strong LC(k) grammars. ... The time complexity of this problem is analyzed both when k is considered to be a fixed integer and when k is considered to be a parameter of the test.
+
+CACM-2886
+Semantic Evaluation from Left to Right This paper describes attribute grammars and their use for the definition of programming <B>languages</B> and compilers; a formal definition of attribute grammars and a discussion of some of its important aspects are included. ... Practical questions, such as the relative efficiency of different evaluation schemes, and the ease of adapting the attribute grammar of a given programming language to the left-to-right evaluation scheme are discussed.
+
+CACM-1741
+The image is written on a rotating drum memory. ... The inverse of the map generation process is required to calculate the coordinates of the point on the screen.
+
+CACM-2828
+Fourth, frame to frame coherence and clipping define a graphical "working set," or fraction of the total structure that should be present in primary store for immediate access by the visible surface algorithm. ... By using an extension of traditional structure information, or a geometric hierarchy, five significant improvements to current techniques are possible.
+
+CACM-1726
+Preliminary Investigation of Techniques for Automated Reading of Unformatted Text Methods for converting unstructured printed material into computer code are experimentally investigated. ... Here, the textual portions of the page are located during a rapid prescan by a rudimentary form of frequency analysis.
+
+CACM-2189
+Generation of Rosary Permutations Expressed in Hamiltonian Circuits Systematic generation of a specific class of permutations fundamental to scheduling problems is described. ... Each of them corresponds to two circular permutations which mirror-image each other, and is generated successively by a number system covering 3*4*.
+
+CACM-2106
+Concepts such as paging and priority interrupt systems can best be explained at the machine language <B>level</B>. ... It should: (1) raise as few spurious issues as possible; (2) allow, without undue effort, the solution of interesting problems; (3) be capable of exposing all outstanding issues of significance, capable of exposing all outstanding issues of significance, within the chosen machine; (4) be seful for pursuing issues in great depth when appropriate; (5) not be committed to the equipment provided by any manufacturer; (6) be able to provide the student with diagnostic aids to a great depth; (7) allow the student ready access to the machine; (8) be capable of extension to expose new issues as they come along.
+
+CACM-2921
+RRP grammars describe the syntax of programming <B>languages</B> more concisely and more understandably than is possible with CF grammars. ... Formally, RRP grammars have production right parts, which are nondeterministic finite state machines (FSMs), and, as a special case, regular expressions, since these can be converted to FSMs.
+
+CACM-1265
+Empirical comparison of the recognition of more realistic programming <B>languages</B> such as LISP and ALGOL has been made by means of a program which simulates the Turing Machine on the Univac M-460 computer. ... On the Relative Efficiencies of Context-Free Grammar Recognizers A number of diverse recognition procedures that have been proposed for parsing sentences with respect to a context-free grammar are described in this paper by means of a common device.
+
+CACM-3002
+This model has already been used in the optimization of library routines' storage at a large scale operating system. ... The model that is presented in this paper, both as a nonlinear programming model and a mixed integer programming model, is a very general one; several types of file systems may be derived from it by an appropriate selection of its parameters.
+
+CACM-2483
+2 sec cpu time per move, with a <B>level</B> close to lower chess club play. ... The tree searching algorithms are the heart of COKO's effectiveness, yet they are conceptually simple.
+
+CACM-2196
+Only for special forms of the problem or for problems with a moderate number of points can it be solved exactly, even if very large amounts of computer time are used. ... A Man-Machine Approach Toward Solving the Traveling Salesman Problem The traveling salesman problem belongs to an important class of scheduling and routing problems.
+
+CACM-1155
+When given 68 facts, DEDUCOM answered 10 questions answerable from the facts. ... (6) At present, DEDUCOM's method of making logical deductions in predicate calculus has two bad defects: some facts have to be changed to logically equivalent ones before being given to DEDUCOM, and some redundant facts have to be given to DEDUCOM.
+
+CACM-1824
+APAREL-A Parse-Request Language APAREL is described: this language is an extension to an algorithmic language (PL/I) that provides the pattern-matching capabilities normally found only in special purpose <B>languages</B> such as SNOBOL4 and TMG. ... It also has available as normal PL/I variables, the information concerning which of the various alternatives were successful.
+
+CACM-2265
+A Model for Type Checking Most current programming <B>languages</B> treat computation over different classes of objects (e. ... This paper attempts to isolate the notion of type checking and presents a partial solution to the type checking problem based on the notions of abstraction and application of functions.
+
+CACM-1976
+The method which, in its degenerate case, becomes the conventional secondary index filing scheme works similarly but has the following advantages: (1) the elimination of multiple accesses in many cases; (2) the elimination of false drops; (3) the elimination of computer time to perform intersection of key sets each qualified for one secondary index field only; and (4) the avoidance of long strings of keys when an index field appearing in a query has very few possible values. ... Multi-attribute Retrieval with Combined Indexes In this paper a file organization scheme designed to replace the use of the popular secondary index filing scheme (or inverted files on secondary key fields) is described.
+
+CACM-2341
+The concept of a block is largely language independenthat is, blocks require little in the way of specialized syntax and could readily be absorbed into the external structure of most programming <B>languages</B>. ... (The third dimension is used for overstriking.
+
+CACM-1379
+A Final Solution to the Dangling Else of ALGOL 60 and Related <B>Languages</B> The dangling else problem consists of a class of potential ambiguities in ALGOL-like conditional statements whose basic form is "if B1 then if B2 then S1 else S2" where B1 and B2 are Boolean expressions and S1 and S2 are basic statements. ... Existing solutions to the problem are either ambiguous or unnecessarily restrictive.
+
+CACM-2722
+The main focus of this paper theoretical. ... An algorithm is presented to handle any general intersection query.
+
+CACM-2344
+On the Optimization of Performance of Time-Sharing Systems by Simulation A simulation model of a time-sharing system with a finite noncontiguous store and an infinite auxiliary store is used to study the variation of system parameters such as store size, number of jobs allowed to execute simultaneously, job-scheduling algorithm, etc. ... It is shown that significant improvements in the measure of system performance can be obtained by using variable time-slice techniques and by selecting the optimum round-robin cycle time.
+
+CACM-1727
+This estimation can often be done without considering the structure of the whole program. ... In the first part of the paper, using the theory of the Markov chains, an algorithm for the computation of the S(ij) from the P(ij) is found, and some ways of obtaining estimates of the P(ij) are given.
+
+CACM-0616
+The goal of this work is to arrive at a proper structure for a machine-independent problem-defining language, at the systems <B>level</B> of data processing. ... The authors have not attempted an exhaustive discourse in this report.
+
+CACM-2470
+It is also demonstrated that completely new primitive types can be introduced into <B>languages</B> through the mechanism of singleton data types. ... The theory is applied to the proof of several elementary theorems concerning the semantics of the assignment, conditional, and iterative statements.
+
+CACM-2692
+For perspective applications in three dimentions, a six-plane truncated pyramid is chosen as the clipping volume. ... In two dimensions the algorithms permit clipping against irregular convex windows.
+
+CACM-2233
+For the benefit of the uninitiated, the encoding method used in the second cypher employs a specified document whose words are simply numbered consecutively, and first letters of these words are sought out at random to match the letters of these words are sought out at random to match the letters of the clear text or message. ... Generations of cryptanalysts have expended untold man-years, thus far without success, attempting tode code them; vast armies of fortune hunters and treasure seekers have devoted Herculean labors to digging up the rolling hills of Virginia trying to locate the promised bonanza.
+

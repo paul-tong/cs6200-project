@@ -1,0 +1,712 @@
+Query:parallel algorithms
+CACM-0141
+Some Thoughts on <B>Parallel</B> Processing.
+
+CACM-1601
+The s8everal approximations obtained in any iteration are computationally independent, making the methods of interest in a <B>parallel</B> processing environment. ... These measurements are interpreted in a <B>parallel</B> processing environment.
+
+CACM-2896
+An Exercise in Proving <B>Parallel</B> Programs Correct A <B>parallel</B> program, Dijkstra's on-the-fly garbage collector, is proved correct using a proof method developed by Owicki. ... Difficulties with proving such <B>parallel</B> programs correct are discussed.
+
+CACM-0392
+Comment on A Paper on <B>Parallel</B> Processing.
+
+CACM-1795
+Optimal Code for Serial and <B>Parallel</B> Computation.
+
+CACM-1158
+Program Structures for <B>Parallel</B> Processing Constructs for organizing and explicating <B>parallel</B> program segments are discussed as extensions to ALGOL 60. ... The constructs serve as meta-commands and are motivated by equipment having multiprocessing capability.
+
+CACM-0950
+<B>Parallel</B> Methods for Integrating Ordinary Differential Equations This paper is dedicated to the proposition that, in order to take full advantage for real-time computations of highly <B>parallel</B> computers as can be expected to be available in the near future, much of numerical analysis will have to be recast in a more "parallel" form. ... By this is meant that serial <B>algorithms</B> ought to be replaced by algorithm which consist of several subtasks which can be computed without knowledge of the results of the other subtasks.
+
+CACM-1262
+Procedure-Oriented Language Statements to Facilitate <B>Parallel</B> Processing Two statements are suggested which allow a programmer writing in a procedure-oriented language to indicate sections of program which are to be executed in <B>parallel</B>. ... These serve partly as brackets in establishing a range of <B>parallel</B> operation and partly to define each <B>parallel</B> path within this range.
+
+CACM-1302
+<B>Parallel</B> Signaling Speeds for Data Transmission (Proposed American Stand ard).
+
+CACM-2685
+The <B>Parallel</B> Execution of DO Loops Methods are developed for the <B>parallel</B> execution of different iterations of a DO loop. ... Practical application to the design of compilers for such computers is discussed.
+
+CACM-2952
+Functions Realizable with Word-Parallel Logical and Two's-Complement Addition Instructions.
+
+CACM-2700
+Reduction: A Method of Proving Properties of <B>Parallel</B> Programs When proving that a <B>parallel</B> program has a given property it is often convenient to assume that a statement is indivisible, i. ... Thus correctness proofs of a <B>parallel</B> system can often be greatly simplified.
+
+CACM-1468
+Syntax-Directed Interpretation of Classes of Pictures A descriptive scheme for classes of pictures based on labeling techniques using <B>parallel</B> processing <B>algorithms</B> was proposed by the author some years ago. ... The <B>parallel</B> processing simulator, originally written for an IBM 7094 system, has now been rewritten for a CDC 3600 system.
+
+CACM-3075
+Fast <B>Parallel</B> Sorting <B>Algorithms</B> A <B>parallel</B> bucket-sort algorithm is presented that requires time O(log n) and the use of n processors. ... A realistic model is used model is used in which no memory contention is permitted.
+
+CACM-1367
+Character Structure and Character Parity Sense for Parallel-by-Bit Data Communication in ASCII* (Proposed American Standard).
+
+CACM-2973
+Sorting on a Mesh-Connected <B>Parallel</B> Computer Two <B>algorithms</B> are presented for sorting n^2 elements on an n X n mesh-connected processor array that require O(n) routing and comparison steps. ... The <B>algorithms</B> of this paper are shown to be optimal in time within small constant factors.
+
+CACM-2557
+<B>Algorithms</B> are presented which properly parse such matrix sequences subject to the constraints of the machine organization. ... The minimum time required to evaluate such products on ordinary serial computers as well as <B>parallel</B> computers is discussed.
+
+CACM-2714
+Merging with <B>Parallel</B> Processors Consider two linearly ordered sets A, B, |A|=m, |B|=n, m<=n, and p, p<=m, <B>parallel</B> processors working synchronously. ... The paper presents an algorithm for merging A and B with the p <B>parallel</B> processors, which requires at most 2[log2 (2m+1)]+[3m/p] + [m/p][log2 (n/m)] steps.
+
+CACM-2865
+Verifying Properties of <B>Parallel</B> Programs: An Axiomatic Approach An axiomatic method for proving a number of properties of <B>parallel</B> programs is presented. ... A crucial axiom provides for the use of auxiliary variables, which are added to a <B>parallel</B> program as an aid to proving it correct.
+
+CACM-0371
+Remarks on <B>Algorithms</B> 2 and 3, Algorithm 15 and <B>Algorithms</B> 25 and 26.
+
+CACM-2266
+The algorithm, which is conceptually suitable for <B>parallel</B> computation, determines its own starting values so that convergence to the zeros is guaranteed. ... A Highly <B>Parallel</B> Algorithm for Approximating All Zeros of a Polynomial with Only Real Zeros An algorithm is described based on Newton's method which simultaneously approximates all zeros of a polynomial with only real zeros.
+
+CACM-1828
+Synchronization in a Parallel-Accessed Data Base The following problem is considered: Given a data base which can be manipulated simultaneously by more than one process, what are the rules for synchronization which will maximize the amount of <B>parallel</B> activity allowed. ... It is assumed that the data base can be represented as a graph.
+
+CACM-3156
+Computing Connected Components on <B>Parallel</B> Computers We present a <B>parallel</B> algorithm which uses n2 processors to find the connected components of an undirected graph with n vertices in time O(log2n). ... Simultaneous access to the same location is permitted for fetch instructions but not for store instructions.
+
+CACM-3166
+We conclude that all four <B>algorithms</B> will provide accurate answers for many problems, but two of the algorithms, one new, one old, are substantially more accurate on difficult problems than are the other two. ... Two of the <B>algorithms</B> are well-known in the statistical and computational literature; the other two are new <B>algorithms</B> specifically intended for automatic computation.
+
+CACM-2902
+<B>Algorithms</B> main taining separate free space lists for each size of memory block used tended to perform quite well compared with other <B>algorithms</B>. ... Dynamic Memory Allocation in Computer Simulation This paper investigates the performance of 35 dynamic memory allocation <B>algorithms</B> when used to service simulation programs as represented by 18 test cases.
+
+CACM-1811
+Communication between cooperating processors is by means of data in storage shared by all processors. ... It is shown that, with proper programming, solution time when N processors are applied approaches 1/N times the solution time for a single processor, while improper programming can actually lead to an increase of solution time with the number of processors.
+
+CACM-1569
+Implementing Phrase-Structure Productions in PL/I A method is described for implementing the productions of a context-free phrase structure grammar in a PL/I procedure whose structure and statements <B>parallel</B> the structure and notation of the grammar.
+
+CACM-1873
+Accelerating LP <B>Algorithms</B> It is shown how a novel method for computing (related) inner products can accelerate the pricing phase of LP <B>algorithms</B>. ... Other LP applications are indicated.
+
+CACM-2342
+Interference Between Communicating <B>Parallel</B> Processes Various kinds of interference between communicating <B>parallel</B> processes have been examined by Dijkstra, Knuth, and others. ... In this paper a system of <B>parallel</B> processes is regarded as a machine which proceeds from one state S (i.
+
+CACM-2007
+<B>Algorithms</B> Policy/Revised August 1970.
+
+CACM-1342
+Transportation Problem (Algorithms 293 [H]).
+
+CACM-0270
+Techniques for Storage Allocation <B>Algorithms</B>.
+
+CACM-0804
+Exponentiation of Series (Algorithms 134).
+
+CACM-2884
+Permutation Enumeration: Four New Permutation <B>Algorithms</B> Classical permutation enumeration <B>algorithms</B> encounter special cases requiring additional computation every nth permutation when generating the n! permutations on n marks. ... Performance tests which have counted execution of assignment statements, comparisons, arithmetic operations, and subscripted array references have shown superiority of the new <B>algorithms</B> compared to Boothroyd's implementation of M.
+
+CACM-1952
+Index by Subject to Algorithms, 1970.
+
+CACM-2417
+Four Combinatorial <B>Algorithms</B> [G6] (Algorithm A466).
+
+CACM-1796
+Index by Subject to Algorithms, 1969.
+
+CACM-1551
+On Compiling <B>Algorithms</B> for Arithmetic Expressions This paper deals with <B>algorithms</B> concerning arithmetic expressions used in a FORTRAN IV compiler for a HITAC-5020 computer having n accumulators. ... The <B>algorithms</B> generate an object code which minimizes the frequency of storing and recovering the partial results of the arithmetic expressions in cases where there are several accumulators.
+
+CACM-3061
+Simulations of Dynamic Sequential Search <B>Algorithms</B> None.
+
+CACM-1953
+Exponential Integral Ei(x) (Algorithms 385 $S13)).
+
+CACM-1851
+Generator of Spanning Trees (Algorithms 354 [H]).
+
+CACM-1660
+Index By Subject To algorithms, 1960-1968.
+
+CACM-2273
+Execution time can be considerably reduced by instantly marking rules which are not applicable (Algorithms 1 and 2) or conditions which are already tested (Algorithm 2). ... The <B>algorithms</B> are based on the rule mask method but need not have the masks at execution time.
+
+CACM-2830
+A Practitioner's Guide to Addressing <B>Algorithms</B> (Corrigendum).
+
+CACM-2725
+A Comparison of Simulation Event List <B>Algorithms</B> (Corrigendum).
+
+CACM-2950
+Various classes of scheduling <B>algorithms</B> are defined and related to existing <B>algorithms</B>. ... For time-invariant algorithms, the dependence of processing rates on priorities is derived.
+
+CACM-1957
+The List Set Generator: A Construct for Evaluating Set Expressions The list set generator is defined and <B>algorithms</B> for its use are given. ... The efficiency derives from evaluating the expression as a whole and in parallel, rather than evaluating subexpressions and then using those sets to arrive at the final result.
+
+CACM-2226
+Further Evidence for the Analysis of <B>Algorithms</B> for the Zero-One Programming Problem The purpose of this note is to report computational experience additional to that recently summarized by Gue et al, with two <B>algorithms</B> for the zero-one linear programming problem. ... The utility of one of the <B>algorithms</B> as a suboptimizer is indicated.
+
+CACM-2505
+Reflection-Free Permutations, Rosary Permutations, and Adjacent Transposition <B>Algorithms</B>.
+
+CACM-2851
+Formal Verification of <B>Parallel</B> Programs Two formal models for <B>parallel</B> computation are presented: an abstract conceptual model and a parallel-program model. ... A special case of the assertions method, which is called <B>parallel</B> place assertions, is shown to be incomplete.
+
+CACM-1374
+Evaluation of Determinant; Determinant Evaluation (Algorithms 41[F3]; 269[F3]).
+
+CACM-2647
+More on <B>Algorithms</B> that Reveal Properties of Floating Point Arithmetic Units.
+
+CACM-2767
+A Comparison of Simulation Event List <B>Algorithms</B> Four <B>algorithms</B> are considered which can be used to schedule events in a general purpose discrete simulation system. ... The <B>algorithms</B> are tested with a set of typical stochastic scheduling distributions especially chosen to show the advantages and limitations of the <B>algorithms</B>.
+
+CACM-2863
+The results of simulating VMIN, Denning's working set, and the page partitioning replacement <B>algorithms</B> on five virtual memory programs are presented to demonstrate the improvement possible over the known realizable variable space <B>algorithms</B>. ... VMIN-An Optimal Variable-Space Page Replacement Algorithm A criterion for comparing variable space page replacement <B>algorithms</B> is presented.
+
+CACM-1658
+Analysis of <B>Algorithms</B> for the Zero-One Programming Problem This paper is concerned with a review and examination of several existing <B>algorithms</B> for the zero-one programming problem. ... The machine time and storage requirements of several of the <B>algorithms</B> are compared over several test problems of small and intermediate size.
+
+CACM-2903
+By using recursion in troduction, <B>algorithms</B> which manipulate a stack are first translated into recursive <B>algorithms</B> in which no stack operations occur. ... Improving Programs by the Introduction of Recursion A new technique of program transformation, called "recursion in troduction," is described and applied to two <B>algorithms</B> which solve pattern matching problems.
+
+CACM-2570
+It is shown that different <B>algorithms</B> suggested in the literature vary significantly in execution time and that the B-schedule of Coffman and Graham is near-optimal. ... A Comparison of List Schedules for <B>Parallel</B> Processing Systems The problem of scheduling two or more processors to minimize the execution time of a program which consists of a set of partially ordered tasks is studied.
+
+CACM-2325
+Numerical Mathematics and Computer Science Numerical mathematics is viewed as the analysis of continuous <B>algorithms</B>. ... These are: foundations (finite precision number systems, computational complexity), synthesis and analysis of algorithms, analysis of error, programs and program libraries.
+
+CACM-2679
+Some Performance Tests of "quicksort" and Descendants Detailed performance evaluations are presented for six ACM algorithms: quicksort (No. ... Of all these algorithms, quickersort requires the fewest comparisons to sort random arrays.
+
+CACM-2283
+Pictorial results produced by each of the <B>algorithms</B> are presented and the relative performances of the <B>algorithms</B> are compared. ... Thinning <B>Algorithms</B> on Rectangular, Hexagonal, and Triangular Arrays In this report three thinning <B>algorithms</B> are developed: one each for use with rectangular, hexagonal, and triangular arrays.
+
+CACM-3059
+Models for <B>Parallel</B> Processing WIthin Programs: Application to CPU:I/O and I/O:I/O Overlap Approximate queueing models for internal <B>parallel</B> processing by individual programs in a multiprogrammed system are developed in this paper. ... The percentage performance improvement from CPU:I/O overlap is found to be greatest for systems which are in approximate CPU:I/O utilization balance and for low degrees of multiprogramming.
+
+CACM-2904
+These <B>algorithms</B> should fit well into an integrated package of local optimization <B>algorithms</B>. ... An Algorithm for Reduction of Operator Strength A simple algorithm which uses an indexed temporary table to perform reduction of operator strength in strongly connected regions is presented.
+
+CACM-2426
+<B>Algorithms</B> SCALE1, SCALE2, and SCALE3 for Determination of Scales on Computer Generated Plots [J6] (Algorithm A463).
+
+CACM-2691
+Comments on the <B>Algorithms</B> of Verhelst for the Conversion of Limited-Entry Decision Tables to Flowcharts.
+
+CACM-2146
+The logic of this algorithm is rather complicated; hence, several other new dispersion <B>algorithms</B> with more straightforward logic are presented. ... Of the simple dispersion <B>algorithms</B> discussed, the Horizontal is best.
+
+CACM-2727
+Multiple Byte Processing with Full-Word Instructions A method is described which allows <B>parallel</B> processing of packed data items using only ordinary full-word computer instructions, even though the processing requires operations whose execution is contingent upon the value of a datum. ... It provides a useful technique for processing small data items such as alphanumeric characters.
+
+CACM-2630
+On Computing Sets of Shortest Paths in a Graph Two <B>algorithms</B> are presented that construct the k shortest paths between every pair of vertices in a directed graph. ... These <B>algorithms</B> generalize the Floyd algorithm and the Dantzig algorithm for finding the shortest path between every pair of vertices in a directed graph.
+
+CACM-2674
+The <B>algorithms</B> were implemented in Fortran on the CDC 6400 computer. ... Results obtained from the implementations show that the noninteractive <B>algorithms</B> can significantly reduce display file storage requirements at little cost in execution time over that of a conventional raster display.
+
+CACM-2025
+Student's t-Distribution; Jacobi Polynomials; Modified Romberg Quadrature; Factorial Analysis of Variance; (Algorithms 332,344,351,359).
+
+CACM-2895
+A Language for Formal Problem Specification A language for specifying the in tended behavior of communicating <B>parallel</B> processes is described. ... The specifications are constrain ts on the order in which events of a computation can occur.
+
+CACM-3073
+Communicating Sequential Processes This paper suggests that input and output are basic primitives of programming and that <B>parallel</B> composition of communicating sequential processes is a fundamental program structuring method. ... Their use is illustrated by sample solutions of a variety of familiar programming exercises.
+
+CACM-2401
+The principal features of this method are the very small window employed (two-by-two elements), the <B>parallel</B> nature of the process, and the possibility of shrinking any pattern, regardless of the complexity of its configuration. ... On Shrinking Binary Picture Patterns A <B>parallel</B> processing algorithm for shrinking binary patterns to obtain single isolated elements, one for each pattern, is presented.
+
+CACM-1008
+The technique developed for FASEB can be applied to schedule any meeting with <B>parallel</B> sessions. ... Scheduling Meetings with a Computer Computer scheduling of papers as it was developed for the 1960 meeting of the Federation of American Societies for Experimental Biology (FASEB) is described.
+
+CACM-3006
+Anomalies with Variable Partition Paging <B>Algorithms</B> Five types of anomalous behavior which may occur in paged virtual memory operating systems a redefined. ... One type of anomaly, for example, concerns the fact that, with certain reference strings and paging algorithms, an increase in mean memory allocation may result in an increase in fault rate.
+
+CACM-2158
+A Stopping Criterion for the Newton-Raphson Method in Implicit Multistep Integration <B>Algorithms</B> for Nonlinear Systems of Ordinary Differential Equations.
+
+CACM-1392
+Concrete examples are provided by the FORMAC EXPAND and differentiation algorithms, a basic FORMAC utility routine, and an experiment in the extraction of the skeletal structure of an expression. ... Although many details from the FORMAC implementation are presented, an attempt is made to stress principles and ideas of general relevance in the design of <B>algorithms</B> for manipulating mathematical expressions.
+
+CACM-2267
+<B>Algorithms</B> To Reveal Properties of Floating-Point Arithmetic Two <B>algorithms</B> are presented in the form of Fortran subroutines. ... The methods are shown to work on any "reasonable" floating-point computer.
+
+CACM-1529
+Decomposition Programming An Analysis of Matrix Substructure  A petroleum blending problem was analyzed in order to compare the primal and primal-dual decomposition <B>algorithms</B>. ... In the course of the analysis, a substructure was discovered which has relevance to the relative performance of the two <B>algorithms</B> and to their absolute performance as compared with a standard primal-Simplex solution without decomposition.
+
+CACM-2236
+(Algorithms R352, R385, R392). ... Remarks on Characteristic Values and Associated Solutions of Mathieus Differential Equation, Exponential Integral, and Systems of Hyperbolic P.
+
+CACM-2195
+The method described is suitable for <B>parallel</B> processing because the operations relative to each state can be computed in parallel, and the number of stages is equal to the length N of the curves (or to log2 N if the approximate method is used). ... In this technique the heuristic of the problem is not embedded in the recognition algorithm but is expressed in a figure of merit.
+
+CACM-2819
+Various parameters in the <B>algorithms</B> are optimized to obtain a high degree of compression for sample texts. ... Four new <B>algorithms</B> for this operation are described and compared.
+
+CACM-1380
+SIMULA-an ALGOL-Based Simulation Language This paper is an introduction to SIMULA, a programming language designed to provide a systems analyst with unified concepts which facilitate the concise description of discrete event systems. ... SIMULA is an extension of ALGOL 60 in which the most important new concepts is that of quasi-parallel processing.
+
+CACM-2175
+If the number of subexpressions which can be executed in <B>parallel</B> exceeds the number of available processors, then execution of some of these subexpressions must be postponed. ... Depending on the hardware environment in which the expression is to be executed, these subexpressions can be evaluated in serials, in parallel, or in a combination of these modes.
+
+CACM-2454
+Computational <B>Algorithms</B> for Closed Queueing Networks with Exponential Servers Methods are presented for computing the equilibrium distribution of customers in closed queueing networks with exponential servers. ... The computational <B>algorithms</B> are based on two-dimensional iterative techniques which are highly efficient and quite simple to implement.
+
+CACM-2936
+In this paper a new event scheduling algorithm is presented which improves on two aspects of the best of the previously published <B>algorithms</B>. ... An Efficient Data Structure for the Simulation Event Set Recently <B>algorithms</B> have been presented for the realization of event scheduling routines suitable for general purpose discrete event simulation systems.
+
+CACM-2263
+The Conversion of Limited-Entry Decision Tables to Optimal and Near-Optimal Flowcharts: Two New <B>Algorithms</B> Two new <B>algorithms</B> for deriving optimal and near-optimal flowcharts from limited entry decision tables are presented. ... Both <B>algorithms</B> are compared with existing ones and are applied to a somewhat large decision table derived from a real case.
+
+CACM-2433
+Language structures to utilize this storage method and express <B>parallel</B> <B>algorithms</B> are described. ... The implications of these features for data layout and algorithm structure are discussed, and the conclusion is drawn that data allocation rather than code structuring is the crucial ILLIAC optimization problem.
+
+CACM-1200
+Since these properties are analogous to certain matrix operations, a <B>parallel</B> nomenclature is suggested for their classification. ... On Reversible Subroutines and Computers that Run Backwards A computer design is describe which permits subroutines to be executed backward as well as forward, either with their instructions unchanged or replaced with conjugate instructions.
+
+CACM-2514
+The user can control the rule selection procedure in a derivation or parse, using weighted programming matrices; he also has a choice of instance selection schemes (raster,random, parallel). ... An Array Grammar Programming System A package of Fortran programs has been developed that permits a user to interactively design and test array grammars.
+
+CACM-1846
+On Simulating Networks of <B>Parallel</B> Processes in Which Simultaneous Events May Occur Some of the problems of simulating discrete event systems, particularly computer systems, on a conventional digital computer are dealt with. ... The technique will either find a method of simulating the <B>parallel</B> events or report that none can be found.
+
+CACM-2834
+Efficient Generation of the Binary Reflected Gray Code and Its Applications <B>Algorithms</B> are presented to generate the n-bit binary reflected Gray code and codewords of fixed weight in that code. ... Both <B>algorithms</B> are efficient in that the time required to generate the next element from the current one is constant.
+
+CACM-1471
+These meta-instructions relate to <B>parallel</B> processing, protection of separate computations, program debugging, and the sharing among users of memory segments and other computing objects, the names of which are hierarchically structured. ... The language sophistication contemplated is midway between an assembly language and an advanced algebraic language.
+
+CACM-1924
+The number of page-pulls required by these matrix manipulation <B>algorithms</B> is also studied as a function of the number of pages of main memory available to the algorithm. ... Examination of addition, multiplication, and inversion <B>algorithms</B> shows that a partitioned matrix representation (i.
+
+CACM-2785
+This paper describes the characteristics, goals and philosophy of the language, and discusses some of the problems associated with <B>parallel</B> computer architectures. ... Glypnir-A Programming Language for Illiac IV GLYPNIR is one of the earliest existing languages designed for programming the Illiac IV computer.
+
+CACM-1122
+A Note on Some Compiling <B>Algorithms</B> Two compiling generators for arithmetic expressions are discussed: one presently in use in an experimental compiler, and an improvement suggested by K. ... Speierman of Burroughs.
+
+CACM-1960
+The main features of the system include the ability given to any user to schedule his own <B>parallel</B> processes using system primitive operations, the file-memory relationship, and the allocation-scheduling policy, which dynamically takes into account recent information about user behavior. ... Emphasis is placed on basic ideas underlying the design rather than on implementation details.
+
+CACM-1373
+Gamma Function; Gamma Function for Range 1 to 2; Reciprocal Gamma Function to Real Argument; Gamma Function; Logarithm of Gamma Function (Algorithms 34[S14]; 54[S14]; 80[S14]; 221[S14]; 291[S14]).
+
+CACM-2997
+Since any convex hull algorithm requires at least O(n log n) operations, the time complexity of the proposed <B>algorithms</B> is optimal within a multiplicative constant. ... The presented <B>algorithms</B> use the "divide and conquer" technique and recursively apply a merge procedure for two nonin tersecting convex hulls.
+
+CACM-3132
+Three <B>algorithms</B> which are defined in the paper are found to be quite good. ... Six <B>algorithms</B> for finding central hyperplanes are tested on three data sets.
+
+CACM-3187
+Comparison of average sorting items with other recently published <B>algorithms</B> demonstrates QUICKERSORT's superior performance. ... Certification of Algorithm 271 (QUICKERSORT)   QUICKERSORT compiled and run without correction through the ALDEP translator for the CDC 1604A.
+
+CACM-2080
+The system nucleus simulates an environment in which program execution and input/output are handled uniformly as parallel, cooperating process es. ... The Nucleus of a Multiprogramming System This paper describes the philosophy and structure of a multiprogramming system that can be extended with a hierarchy of operating systems to suit diverse requirements of program scheduling and resource allocation.
+
+CACM-2490
+Efficient <B>Algorithms</B> for Graph Manipulation [H] (Algorithm A447) Efficient <B>algorithms</B> are presented for partitioning a graph into connected components, biconnected components and simple paths. ... ) If V is the number of vertices and E is the number of edges, each algorithm requires time and space proportional to max (V,E) when executed on a random access computer.
+
+CACM-2389
+The <B>algorithms</B> used to solve problems expressed in this language rely on heuristic programming. ... Both the language and the search <B>algorithms</B> are detailed.
+
+CACM-2094
+On an Algorithm for Nonlinear Minimax Approximation Certain nonlinear minimax approximation problems are characterize d by properties which permit the application of special algorithms, mainly based on the exchange <B>algorithms</B> of Remes (1934, 1935), for their solution. ... Examples are given to illustrate that this algorithm can give satisfactory results and, in particular, can successfully solve problems which lead to difficulties with the more conventional specialist method.
+
+CACM-2838
+<B>Algorithms</B> for recovering discarded list structures in this manner are presented and analyzed to determine sufficient conditions under which the list processor never needs to wait on the collector. ... Analysis of an Algorithm for Real Time Garbage Collection A real time garbage collection system avoids suspending the operations of a list processor for the long times that garbage collection normally requires by performing garbage collection on a second processor in <B>parallel</B> with list processing operations, or on a single processor time-shared with them.
+
+CACM-1554
+A Computer Technique for Displaying n-Dimensional Hyperobjects A digital computer and automatic plotter have been used to generate three-dimensional stereoscopic movies of the three-dimensional <B>parallel</B> and perspective projections of four-dimensional hyperobjects rotating in four-dimensional space. ... The observed projections and their motions were a direct extension of three-dimensional experience, but no profound "feeling" or insight into the fourth spatial dimension was obtained.
+
+CACM-1718
+"Logical" Arithmetic on Computers with Two's Complement Binary Arithmetic <B>Algorithms</B> are presented for multiplication and division of unsigned integer operands in which the digits normally reserved for signs participate as significant arithmetic digits with positive weight.
+
+CACM-1877
+The <B>algorithms</B> have been successfully used in the THE system. ... Proofs given in the appendixes show that the conditions imposed by the <B>algorithms</B> are both necessary and sufficient to prevent deadlock.
+
+CACM-3055
+An Analysis of <B>Algorithms</B> for the Dutch National Flag Problem Solutions to the Dutch National Flag Problem have been given by Dijkstra [1] and Meyer [3]. ... Both of the <B>algorithms</B> given by Dijkstra are shown to have an expected number of swaps which is 2/3N + 0(1) and that these values differ at most by 1/3 of a swap and asymptotically by 1/4 of a swap.
+
+CACM-3131
+FOCUS Microcomputer Number System FOCUS is a number system and supporting computational <B>algorithms</B> especially useful for microcomputer control and other signal processing applications. ... <B>Algorithms</B> for 8-bit and 16-bit implementations of FOCUS are included.
+
+CACM-2337
+A Sorting Problem and Its Complexity A technique for proving min-max norms of sorting <B>algorithms</B> is given. ... One new algorithm for finding the minimum and maximum elements of a set with fewest comparisons is proved optimal with this technique.
+
+CACM-1341
+The continued use of such a structure raises questions about its effects on the usefulness of future systems, particularly with regard to such trends as time sharing, <B>parallel</B> programming, and, eventually, systems which learn. ... In this essay some of these questions are posed, and the general attitude we must take in pursuing the problem further is discussed.
+
+CACM-2276
+For the exponential distribution a definite recommendation can be made, whereas in the case of the normal distribution there remains a choice between slower and shorter <B>algorithms</B> and faster but space consuming methods. ... The most efficient ones are compared, in terms of memory requirements and speed, with some new <B>algorithms</B>.
+
+CACM-2832
+This note presents an algorithm which improves on previous context tree retrieval <B>algorithms</B>. ... <B>Algorithms</B> for addition and deletion of data and for garbage collection are outlined.
+
+CACM-2272
+Sorting by Natural Selection A family of sorting <B>algorithms</B> is proposed, the members of which make fuller use of the memory space and thus yield longer sorted strings. ... Extensive simulation results are presented, and various implications and further applications are discussed.
+
+CACM-1603
+The software relieves the user program from the details of input/output timing, buffering, and task scheduling and provides <B>parallel</B> processing capability. ... User programs communicate with the monitor through a small set of meta-instruction which consists mostly of machine-language subroutine calls.
+
+CACM-2200
+<B>Algorithms</B> for division yielding complement results are derived for numbers represented in any base greater than one. ... The binary form of the <B>algorithms</B> thus includes both two's and one's complement implementation.
+
+CACM-3175
+These probabilities are updated in <B>parallel</B> for all code letters, using joint letter probabilities. ... The method is applies successfully to two examples.
+
+CACM-1172
+Two such algorithms, based on work done by M. ... <B>Algorithms</B> that can efficiently convert the tables into computer programs will extend the usefulness of decision tables to computer users.
+
+CACM-1536
+Evaluation of a function and derivative proceed in parallel, as in Wengert's procedure, but with the "imaginary" parts of variables declared complex bearing the values of the derivatives of the real parts. ... Dynamic Computation of Derivatives It is shown how Wengert's procedure for computation of derivatives can be implemented conveniently by use of compiler-generated complex addition, subtraction, and linkage to complex arithmetic subroutines.
+
+CACM-2306
+Ancient Babylonian <B>Algorithms</B> The early origins of mathematics are discussed, emphasizing those aspects which seem to be of greatest interest from the standpoint of computer science. ... A number of old Babylonian tablets, many of which have never before been translated into English, are quoted.
+
+CACM-2692
+In two dimensions the <B>algorithms</B> permit clipping against irregular convex windows. ... Reentrant Polygon Clipping A new family of clipping <B>algorithms</B> is described.
+
+CACM-2627
+In this paper a deterministic model of independent tasks is introduced and new results are derived which extend and generalize the <B>algorithms</B> known for minimizing mean finishing time. ... In addition to presenting and analyzing new <B>algorithms</B> it is shown that the most general mean-finishing-time problem for independent tasks is polynomial complete, and hence unlikely to admit of a non-enumerative solution.
+
+CACM-2860
+A Practitioner's Guide To Addressing <B>Algorithms</B> This paper consolidates a number of popular rules of thumb which have been suggested for the design of record addressing algorithms, and discusses the applicability of these rules to large commercial databases. ... A specific design example is presented and solved.
+
+CACM-2289
+A major challenge in the effective use of cellular arrays for the solution of graph problems is the determination of <B>algorithms</B> that exploit the possibilities for parallelism, especially for problems whose solutions appear to be inherently serial. ... These <B>algorithms</B> exhibit a computation time that in many cases grows at a rate not exceeding log2 n, where n is the number of nodes in the graph.
+
+CACM-2435
+A Class of Dynamic Memory Allocation <B>Algorithms</B> Anew dynamic memory allocation algorithm, the Fibonacci system, is introduced. ... This algorithm is similar to, but seems to have certain advantages over, the "buddy" system.
+
+CACM-1171
+It has also been found, via a regression analysis, that the relevant parameters in determining the difference in the number of iterations between the <B>algorithms</B> is not only the number of constraints and the number of variables but also the ratio of the latter to the former. ... A Comparison of the Primal-Simplex and Primal-Dual <B>Algorithms</B> for Linear Programming A statistical comparison of the primal-dual and the more commonly used primal-simplex algorithm for solving linear programming problems has been made under the assumption of starting with a full artificial basis.
+
+CACM-1752
+A synopsis is given of the task scheduling and paging <B>algorithms</B> that were implemented, and the results of comparative simulation are given by tracing the development of the <B>algorithms</B> through six predecessor versions. ... Simulation results relative to alternate hardware characteristics and the effects of program mix and loading variations are also presented.
+
+CACM-1619
+Error-Free Methods for Statistical Computations Neely has discussed computational error generated by some <B>algorithms</B> used to compute various statistics. ... In the present paper methods are described which are error-free, simple in concept, and usually less costly in machine time than those mentioned by Neely.
+
+CACM-0409
+Both data and <B>algorithms</B> may be expressed in a family of command and descriptive languages. ... The system is based on a master file concept and has provisions for accepting, storing, and retrieving both descriptions and instances of large and complex data sets, as well as <B>algorithms</B> defined on these data sets.
+
+CACM-0320
+Logic tables are two-dimensional in nature, enabling us to fully express and consider both the sequential and <B>parallel</B> aspects of logic. ... Then the logic structure of a vending machine is given in which two logic tables are used.
+
+CACM-2740
+The number of <B>parallel</B> processes is carefully justified, and the various semaphore constructions are explained. ... The system is proved to be free of "deadly embrace" (deadlock).
+
+CACM-3163
+However, the insertion and deletion <B>algorithms</B> for OSHB trees appear much more complicated than the corresponding <B>algorithms</B> for AVL trees. ... This represents an improvement over the best previous ly known insertion <B>algorithms</B> of Hirschberg and Kosaraju, which require time O(log 2n).
+
+CACM-2968
+A Comparison of Tree-Balancing <B>Algorithms</B> Several algorithms-height-balance (i. ... e.
+
+CACM-1613
+One-Pass Compilation of Arithmetic Expressions for a <B>Parallel</B> Processor Under the assumption that a processor may have a multiplicity of arithmetic units, a compiler for such a processor should produce object code to take advantage of possible parallelism of operation. ... The algorithm is a variant of the so-called "top-down" analysis technique, and requires only one pass of the input text.
+
+CACM-2142
+Three <B>algorithms</B> are described (all using Monte Carlo methods) which were designed to solve this problem. ... The <B>algorithms</B> are applicable in a large and varied number of fields.
+
+CACM-2515
+Minimal Event-Node Network of Project Precedence Relations A procedure for constructing a minimal event-node network to represent a set of precedence relations without <B>parallel</B> activities is presented. ... C.
+
+CACM-2646
+Because of the anticipatory nature of the I/O scheduling, these <B>algorithms</B> are restricted to classes of programs with predictable behavior. ... A Model for Masking Rotational Latency by Dynamic Disk Allocation This paper presents the background and <B>algorithms</B> for masking the rotational latency of a disk or drum.
+
+CACM-3038
+Both conventional and public-key encryption <B>algorithms</B> are considered as the basis for protocols. ... Using Encryption for Authentication in Large Networks of Computers Use of encryption to achieve authenticated communication in computer networks is discussed.
+
+CACM-1411
+Comparison of Several <B>Algorithms</B> for Computation of Means, Standard Deviations and Correlation Coefficients Several <B>algorithms</B> for computation of basic statistics are compared by their performance on systematically generated test data. ... The usual computing formulas were also evaluated in double precision.
+
+CACM-2722
+Various utility <B>algorithms</B> are developed; their proven average running times in an n record file are: insertion, O (log n); deletion of the root, O (n^(k-1)/k); deletion of a random node, O (log n); and optimization (guarantees logarithmic performance of searches), O (n log n). ... ] These performances far surpass the best currently known <B>algorithms</B> for these tasks.
+
+CACM-3032
+To this list of <B>algorithms</B> we add (6) reverse path forwarding, a broadcast routing method which exploits routing procedures and data structures already available for packet switching. ... <B>Algorithms</B> for accomplishing this delivery through a store-and-forward packet switching computer network include (1) transmission of separately addressed packets.
+
+CACM-2545
+<B>Algorithms</B> for implementing the kinds of patterns in SNOBOL4 are given. ... The general approach is to create, in-so-far as possible, a bottom-up parse from a top-down specification.
+
+CACM-1325
+Current attempts by the authors to extend the diagnostic capabilities of the present system are particularly concerned with increasing the fidelity of the adaptive matched filters, the development of three dimensional pattern analysis, the analysis of <B>parallel</B> electrocardiographer-computer diagnostic interaction, and a study of the possibility of introducing major, tree-like branching decisions early in the diagnostic process. ... It seems likely that efforts of this sort will lead to a satisfactory solution to the problem of the automatic diagnosis of electrocardiograms.
+
+CACM-3018
+A relationship between this edge-clique-cover problem and the graph coloring problem is established which allows <B>algorithms</B> for either one of these problems to be constructed from algorithm for the other. ... As consequences of this relationship, the keyword conflict problem and the edge-clique-cover problem are shown to be NP-complete, and if P=/NP then they do not admit polynomial-time approximation <B>algorithms</B> which always produce solutions within a factor less than 2 from the optimum.
+
+CACM-1747
+Examples of applications of the criteria concern the reading of a time-of-day clock, the synchronization of <B>parallel</B> processes, protection in multiprogrammed systems, and the assignment of capability indexes. ... To define the scope of the criteria, the notion of an abstract machine of a programming language and the notion of a virtual computer are explained.
+
+CACM-1787
+Use of Transition Matrices in Compiling An <B>algorithms</B> is described which constructs from a suitable BNF grammar an efficient left-right recognizer for sentences of the corresponding language. ... The type of recognizer, used in a number of compilers, operates with a pushdown stack and with a transition matrix.
+
+CACM-2114
+Two <B>algorithms</B> which retrieve records from the generalized file structure are presented. ... A Formal System for Information Retrieval from Files A generalized file structure is provided by which the concepts of keyword, index, record, file, directory, file structure, directory decoding, and record retrieval are defined and from which some of the frequently used file structures such as inverted files, index-sequential files, and multilist files are derived.
+
+CACM-3134
+<B>Algorithms</B> for the organization an d retrieval of information are described. ... <B>Algorithms</B> evaluating the appropriateness of the above approach to a given information system are described.
+
+CACM-2167
+We describe several positive results about the existence of powerful simplification <B>algorithms</B> and the number-theoretic conjectures on which they rely. ... Results about the nonexistence of <B>algorithms</B> for certain classes of expressions are included.
+
+CACM-2953
+Procedures with this general form arise in connection with tree traversal and sorting <B>algorithms</B>. ... Notes on Recursion Elimination Various methods of recursion elimination are applied to the schematic recursive procedure: proc S(x); px then N(x); S(fx); S(gx); M(x) fi.
+
+CACM-3143
+The effectiveness of these ideas is illustrated by informal descriptions of <B>algorithms</B> for binary search and merging, and by a short formal proof. ... The basic concepts include intervals and their partitions, functional restriction, images, pointwise extension of relations, ordering, single-point variation of functions, various equivalence relations for array values, and concatenation.
+
+CACM-2924
+Among the features of this method are <B>algorithms</B> which enable in teractive modification of the B-spline representation of the sectional curves. ... The method is a synthesis of spline theory and algorithms, an in teractive means for man-machine communication, and software for static or dynamic graphics display.
+
+CACM-0717
+Partitioning <B>Algorithms</B> for Finite Sets The partitions of a set with n elements are represented by certain n-tuples of positive integers. ... Algorithm are described which generate without repetitions the n-tuples corresponding to: (1) all partitions of the given set, (2) all partitions of the given set into m or fewer sets (1 <= m <= n), and (3) all partitions of the given set into exactly m sets (1 <= m <= n).
+
+CACM-3118
+A lower bound to the number of steps required buy a permutation algorithm is derived, and the class of optimum <B>algorithms</B> is identified. ... Permutation of Data Blocks in a Bubble Memory A common internal organization of bubble memories consists of a set of (minor) loops, connected through another (major) loop.
+
+CACM-2579
+Register Allocation Via Usage Counts This paper introduces the notion of usage counts, shows how usage counts can be developed by <B>algorithms</B> that eliminate redundant computations, and describes how usage counts can provide the basis for register allocation. ... The paper compares register allocation based on usage counts to other commonly used register allocation techniques, and presents evidence which shows that the usage count technique is significantly better than these other techniques.
+
+CACM-2484
+Thus the problem of information organization and storage is reduced to that of defining relations and formulating <B>algorithms</B> under a given set of constraints. ... The use of different relations and <B>algorithms</B> results in different information structures, as list, tree, ring, etc.
+
+CACM-2955
+Buddy Systems Two <B>algorithms</B> are presented for implementing any of a class of buddy systems for dynamic storage allocation. ... Analyses of the in ternal fragmentation of the binary buddy system, the Fibonacci buddy system, and the weighted buddy system are given.
+
+CACM-2135
+<B>Algorithms</B> are developed for rapid computation of L (Q) for a wide class of selections of Q which includes the Lagrangian and Hermitian rules as special cases. ... The attempt is made to approximate L (f) with L (Q) where Q is a polynomial, approximating f.
+
+CACM-2450
+Empirical Working Set Behavior The working set model for program behavior has been proposed in recent years as a basis for the design of scheduling and paging <B>algorithms</B>. ... Although the words "working set" are now commonly encountered in the literature dealing with resource allocation, there is a dearth of published data on program measurements, in the hope that workers in the field might find experimental evidence upon which to substantiate and base theoretical work.
+
+CACM-2053
+Two <B>algorithms</B> for programming decision tables whose merits are simplicity of implementation and detection of ambiguities at execution time are presented. ... A comparison of the <B>algorithms</B> and others proposed in the literature is made.
+
+CACM-2216
+The solution to the integral equation indicates that using more advanced <B>algorithms</B> in the family makes only minor reductions in the expected sorting effort, but substantially reduces the variance in sorting effort. ... The analysis does not assume uniformly distributed branching ratios, and therefore is applicable to a family of sorting <B>algorithms</B> discussed by Hoare, Singleton, and van Emden.
+
+CACM-1592
+A numberof <B>algorithms</B> were evaluated-some proposed by other writers, some by the author. ... String Similarity and Misspellings The problem of programming a computer to determine whether or not a string of characters is a misspelling of a given word was considered.
+
+CACM-3153
+Two parameterized <B>algorithms</B> which partition the main memory between two classes of jobs are considered. ... The object is to investigate the effect of the memory alocation parameters on the expected response times under the two <B>algorithms</B>.
+
+CACM-2111
+Spelling Correction in Systems Programs Several specialized techniques are shown for efficiently incorporating spelling correction <B>algorithms</B> in to compilers and operating systems. ... Sample 360 coding for performing spelling correction is presented.
+
+CACM-1854
+The scheme includes a set of basic instructions for the generation, termination, and synchronization of <B>parallel</B> processes. ... Two programs using these instructions, written in PL360, are presented.
+
+CACM-2598
+The results of the noiseless coding literature are used to explore the limitations of <B>algorithms</B> used to solve the decision table problem. ... The <B>algorithms</B> considered in this paper perform limited search and, accordingly, do not necessarily result in globally optimal solutions.
+
+CACM-1294
+Only the multiplication and the division <B>algorithms</B> are described, since the addition-subtraction algorithm can be obtained by a trivial modification of the algorithm in Gregory's and Raney's paper. ... Note on Triple-Precision Floating-Point Arithmetic with 132-Bit Numbers In a recent paper, Gregory and Raney described a technique for double-precision floating-point arithmetic.
+
+CACM-2498
+Two <B>algorithms</B> for assigning pages to segments are discussed. ... Minimizing Wasted Space in Partitioned Segmentation A paged virtual memory system using a finite number of page sizes is considered.
+
+CACM-2766
+The best previous bounded workspace copying <B>algorithms</B> achieved n^2 time without tag bits and n log n time with one tag. ... This algorithm operates in linear time and does not require tag bits.
+
+CACM-1948
+In this survey the more important <B>algorithms</B> in use are described and contrasted, and results which have been obtained using existing programs are indicated. ... Group theory programs range from simple combinatorial or numerical programs to large symbol manipulation systems.
+
+CACM-2855
+The algorithm is superior in execution speed to previous <B>algorithms</B> for the same problem. ... An Efficient List-Moving Algorithm Using Constant Workspace An efficient algorithm is presented for moving arbitrary list structures, using no storage (apart from program variables) other than that required to hold the original list and the copy.
+
+CACM-1409
+The arithmetic unit has a command structure similar to large <B>parallel</B> machines, and uses flip-flop arithmetic and control registers throughout. ... All hardware development has been aimed toward the concept of easy modification, elaborate console controls for effective man-machine interaction and low cost.
+
+CACM-2715
+The optimization <B>algorithms</B> designed for this purpose are described. ... A version of SEQUEL that has been implemented in a prototype interpreter is described.
+
+CACM-2402
+Application of standard pattern recognition <B>algorithms</B> is hindered by the fact that the cross-correlation between a model and the correct structure cannot be computed because of a fundamental incompleteness in the measured data. ... Pictorial Pattern Recognition and the Phase Problem of X-ray Crystallography The availability of interactive, three-dimensional, computer graphics systems coupled to powerful digital computers encourages the development of <B>algorithms</B> adapted to this environment.
+
+CACM-2483
+The tree searching <B>algorithms</B> are the heart of COKO's effectiveness, yet they are conceptually simple. ... Specific chess <B>algorithms</B> are described which could be used as a command structure by anyone desiring to do some chess program experimentation.
+
+CACM-1237
+The procedures are valuable as hand-coding guides or as <B>algorithms</B> for a compiler. ... It is presumed that the reader is familiar with the nature of decision tables and conventional definitions.
+
+CACM-2324
+These contributions are likely to be the documentation of standard test problems, construction of user oriented software, and comparisons of currently known <B>algorithms</B> to demonstrate which techniques are best for specific problems. ... Management Science: A View from Nonlinear Programming A brief history of integer and continuous nonlinear programming is presented as well as the current obstacles to practical use of these mathematical programming techniques.
+
+CACM-0719
+Since these stacking operations can be made the basis of compiler decoding <B>algorithms</B> the proper use of machines of this class for compilation has advantages over machines with fixed-length words. ... The availability of a variety of field delimiters allows the machine to push down or pop up more than one variable width item with one command.
+
+CACM-2857
+Such a reference often requires little additional space, but its use can yield efficient <B>algorithms</B>. ... For instance, a circular link between the ends of a list is redundant if the list is always referenced by that edge, and list traversal is easier when that link is null.
+
+CACM-2366
+A Fortran program for the algorithm appears in the <B>algorithms</B> section of this issue. ... The standard algorithm is modified in several respects to insure the continuity of the function value and to reduce accumulation of round-off errors.
+
+CACM-2499
+Since weightings may depend on allocation algorithms, these are not arbitrary accounting parameters. ... Several applications of this principle are given, and it is suggested that a multiprogramming executive might dynamically adjust its allocation <B>algorithms</B> to gain efficiency.
+
+CACM-2948
+The overall system design is presented along with the <B>algorithms</B> used to solve three specific problems: local echoing, error detection and correction on the telephone lines, and multiplexing of character output. ... The system consists of a communications computer directly connected to the time-shared system, a number of small remote computers to which the terminals are attached, and connecting medium speed telephone lines.
+
+CACM-2231
+Three <B>algorithms</B> are developed to reconstruct both unambiguous and ambiguous patterns. ... The Reconstruction of Binary Patterns from Their Projections Given the horizontal and vertical projections of a finite binary pattern f, can we construct the original pattern f? In this paper we give a characterization of patterns that are reconstructable from their projection.
+
+CACM-2771
+Two <B>algorithms</B> to perform addition are described. ... Solids may also be added together or subtracted.
+
+CACM-2524
+After "closest," in terms of a metric on the the key space, is suitably defined, three file structures are presented together with their corresponding search algorithms, which are intended to reduce the number of comparisons required to achieve the desired result. ... Some empirical results are presented which compare the efficiency of the methods.
+
+CACM-2368
+Since these games are played on graphs, the program is a good example of the implementation of graph <B>algorithms</B>. ... In fact, the major routines never need to know whether the computer is CONNECT or CUT.
+
+CACM-2912
+Two general theorems are proved, and some <B>algorithms</B> are presented to illustrate their use. ... Concurrent Reading and Writing The problem of sharing data among asynchronous process is considered.
+
+CACM-3124
+An extension of APL is proposed that includes new primitive functions to manipulate the nesting level of arrays and new operators to assist in the construction of data-driven <B>algorithms</B>. ... Recursive Data Structures in APL A mathematical study of three approaches for defining nested arrays in APL is presented.
+
+CACM-2913
+A method for evaluating filters is presented, the application of prefiltering to hidden-surface <B>algorithms</B> is discussed, and an implementation of a filtering tiler is shown accompanied by examples of its effectiveness. ... Although increasing the resolution or defocusing the display can attenuate them, an understanding of these defects leads to more effective methods.
+
+CACM-1504
+<B>Algorithms</B> for Finding a Fundamental Set of Cycles for an Undirected Linear Graph Given the adjacency matrix of the graph, the algorithm presented in this paper finds a spanning tree and then constructs the set of fundamental cycles. ... Our algorithm is slower than an algorithm presented by Welch by a ratio of N/3 (N is the number of nodes) but requires less storage.
+
+CACM-2751
+Several shading techniques corresponding to different methods of object modeling and the related hidden surface <B>algorithms</B> are presented here. ... The shading algorithm itself depends in part on the method for modeling the object, which also determines the hidden surface algorithm.
+
+CACM-2110
+In an empirical comparison it appears to be superior to the top-down and bottom-up <B>algorithms</B> studied by Griffiths and Petrick. ... It is similar to both Knuth's LR(k) algorithm and the familiar top-down algorithm.
+
+CACM-2963
+A Fast Algorithm for Computing Longest Common Subsequences Previously published <B>algorithms</B> for finding the longest common subsequence of two sequences of length n have had a best-case running time of O(n^2). ... An algorithm for this problem is presented which has a running time of O((r + n)log n), where r is the total number of ordered pairs of positions at which the two sequences match.
+
+CACM-1728
+These data are used also for the evaluation of page replacement <B>algorithms</B> and for assessing the effects on performance of changes in the amount of storage allocated to executing programs. ... Further Experimental Data on the Behavior of Programs in a Paging Environment Results are summarized from an empirical study directed at the measurement of program operating behavior in those multiprogramming systems in which programs are organized into fixed length pages.
+
+CACM-2060
+In particular, functions and labels are permissible results of functions and values of variables. ... e.
+
+CACM-2561
+The procedures make use of a similarity structure which is imposed on the data base using nonnumerical clustering <B>algorithms</B>. ... A Heuristic Approach to Inductive Inference in Fact Retrieval Systems Heuristic procedures are presented which have been developed to perform inferences by generalizing from available information.
+
+CACM-2665
+Copying List Structures Using Bounded Workspace Two new <B>algorithms</B> are presented for list structure copying using bounded workspace. ... That result demonstrates that marking can be done in average time nlogn without the aid of supplemental tag bits or stacks.
+
+CACM-2522
+The Design, Implementation, and Evaluation of a Working Set Dispatcher The behavior of a computer system is largely dependent upon the <B>algorithms</B> employed to allocate the system resources to the processes competing for them. ... Two implementations along these principles have been reported, but it seems that in neither case have further results been announced.
+
+CACM-3165
+The versatility of the new organization is further illustrated by the outline of <B>algorithms</B> for area computation and point inclusion. ... Approximation of Polygonal Maps by Cellular Maps The approximation of polygonal thematic maps by cellular maps, an important operation in geographical data processing, is analyzed.
+
+CACM-1397
+Proceedings of the ACM Symposium on Symbolic and Algebraic Manipulation The ACM Symposium on Symbolic and Algebraic Manipulation brought together over four hundred people interested in programming languages designed for manipulation of algebraic formulas and symbol strings, in their applications, and in <B>algorithms</B> for their implementation. ... -Robert W.
+
+CACM-3164
+Two PAD <B>algorithms</B> are presented; one uses a simple path matrix representation and the other uses a list with an "artificial gradient. ... When a request creates a cycle, nodes are, "detached" until the new are can be entered acyclically This process is important in certain areas of database implementation in which there are constraints on the permissible sequences of actions.
+
+CACM-2081
+<B>Algorithms</B> are given which use symbol manipulation of matrix expressions so as to find the forms best suited for computation. ... Several completeness results are obtained in the sense that for each expression an equivalent expression in normal form can be found within a specified calculus.
+
+CACM-2453
+It is thus more general than the previously published heuristic <B>algorithms</B>. ... Information Theory Applied to the Conversion of Decision Tables to Computer Programs Using ideas from information theory, this paper develops a heuristic algorithm that converts a limited entry decision table to a tree structured computer program with near minimum average processing time.
+
+CACM-3116
+This paper presents a computer representation for solids and surfaces and <B>algorithms</B> which carry out interference checking among objects so represented. ... Objects are represented as polyhedra or as piecewise planar surfaces.
+
+CACM-2723
+Multiprocessing Compactifying Garbage Collection <B>Algorithms</B> for a multiprocessing compactifying garbage collector are presented and discussed. ... Complete procedures for garbage collection and for standard list processing primitives are presented and thoroughly explained.
+
+CACM-2541
+This separation enables incorporation of new scheduling <B>algorithms</B> (decision of what to do) without endangering the system integration (correctly performing the scheduling decisions). ... This freedom simplified both incremental compilation and the system's addressing structure, and centralized the communication mechanisms enabling the construction of hierarchical subsystems.
+
+CACM-2986
+The heart of the <B>algorithms</B> is a general theorem giving sufficient conditions under which an expression whose operands are sparse relations and whose operators are composition, transitive closure, union, and inverse, can be computed efficiently. ... For example, how to compute operator precedence or Wirth-Weber precedence relations in O(n^2) steps is shown, as well as how to compute linear precedence functions in O(n^2) steps is shown, as well as how to compute linear precedence functions in O(n) steps, where n is the size of a grammer.
+
+CACM-2716
+<B>Algorithms</B> for implementing the operators of E. ... A relational algebra interface, called SQUIRAL, which was designed using this approach, is described in detail.
+
+CACM-3150
+In order to develop such systems, we need to shift our attention away from the detailed specification of algorithms, towards the description of the properties of the packages and objects with which we build. ... Beyond Programming Languages As computer technology matures, our growing ability to create large systems is leading to basic changes in the nature of programming.
+
+CACM-2890
+On Quadratic Adaptive Routing <B>Algorithms</B> Two analytic models of a store-and-forward communications network are constructed, one to find the optimal message routing and the other to illustrate the equilibrium (stationary state) maintained by an adaptive routing algorithm. ... These models show that adaptive routing does not satisfy the necessary conditions for an optimal routing, Adaptive routing tends to overuse the direct path and underuse alternate routes because it does not consider the impact of its current routing decision on the future state of the network.
+
+CACM-3152
+Storage Reorganization Techniques for Matrix Computation in a Paging Environment In order to multiply matrices while minimizing the number of page fetches required, it is often more efficient to reorganize the data into submatrix form and to use block multiplication rather than to use the best known <B>algorithms</B> which leave the matrices stored in row-(or column-)oriented form. ... This also makes possible the derivation of an asymptotically better bound for multiplication of matrices given in row-oriented form by adapting the technique of Strassen to the reorganized data.
+
+CACM-2833
+The <B>algorithms</B> are designed to work well in systems which use multiple levels of storage, and large virtual address space. ... An Efficient, Incremental, Automatic Garbage Collector This paper describes a new way of solving the storage reclamation problem for a system such as Lisp that allocates storage automatically from a heap, and does not require the programmer to give any indication that particular items are no longer useful or accessible.
+
+CACM-2606
+A New Integration Algorithm for Ordinary Differential Equations Based on Continued Fraction Approximations A new integration algorithm is found, and an implementation is compared with other programmed <B>algorithms</B>. ... The new method can finally be seen to pass automatically through singularities where all the other methods which are discussed will have failed.
+
+CACM-2628
+The computational requirements of an algorithm that implements the MTPT scheduling discipline are shown to be comparable to SLTF <B>algorithms</B>. ... Fixed-head drum and moving-head drum and moving-head disk storage units are considered, and emphasis is placed on the relative merits of the MTPT scheduling discipline with respect to the shortest-latency-time-first (SLTF) scheduling discipline.
+
+CACM-1946
+Algorithm <B>Algorithms</B> for computing the resultant of two polynomials in several variables, a key repetitive step of computation in solving systems of polynomial equations by elimination, are studied. ... Results of tests are reported in detail.
+
+CACM-1609
+Known <B>algorithms</B> for carrying out these procedures are prohibitively expensive. ... First, course which may have their examinations scheduled at the same period are grouped together in all possible ways.
+
+CACM-1886
+The factorization <B>algorithms</B> are also applicable to the problem of factoring Boolean switching expressions and of factoring polynomials encountered in symbol manipulating systems. ... Generation of Optimal Code for Expressions via Factorization Given a set of expressions which are to be compiled, methods are presented for increasing the efficiency of the object code produced by first factoring the expressions, i.
+
+CACM-2883
+This problem can be represented as a shortest path problem on a graph and can be solved using well-known graph search <B>algorithms</B>. ... Some experimental results are given; these show how various information about the shape of the contour of an object can be embedded in the figure of merit, thus allowing the extraction of contours from noisy picture and the separation of touching objects.
+
+CACM-1265
+Several <B>algorithms</B> for producing grammars equivalent to a given context-free grammar have been considered, and the increase in recognition efficiency they afford has been empirically investigated. ... On the Relative Efficiencies of Context-Free Grammar Recognizers A number of diverse recognition procedures that have been proposed for parsing sentences with respect to a context-free grammar are described in this paper by means of a common device.
+
+CACM-1145
+The situation is similar to that prevailing in areas such as game-playing and theorem-proving, where practical <B>algorithms</B> are unknown (for the interesting cases), but where various practical though only partially successful techniques are available. ... Since a straightforward enumerative algorithm might require 40 years of running time on a very high speed computer in order to compare two 15-node graphs, a more sophisticated approach seems called for.
+
+CACM-2232
+The object of the work is to clarify how the word description can be made precise so that computer <B>algorithms</B> for feature extraction may be obtained; the focus is on the theoretical subject matter. ... Pattern Width at a Given Angle That the pattern feature "width as a function of angle" possesses several possible interpretations is demonstrated in this paper, which is a review of the width concept in pattern recognition and the geometrical concept itself.
+
+CACM-1423
+It also has many applications in numerical analysis, but it is not widely used because the existing <B>algorithms</B> are fairly complicated and require considerable storage space. ... A simple extension has been found to the conventional orthogonalization method for inverting non-singular matrices, which gives the generalized inverse with little extra effort and with no additional storage requirements.
+
+CACM-1572
+It can also be used to assist in the design and development of new time-sharing <B>algorithms</B> or techniques. ... The resulting model has a general purpose design and can be used to study a variety of time-sharing systems.
+
+CACM-2092
+It is concluded that the development of Protosynthex III into a practically useful system to work with large data bases is possible but will require changes in both the data structures and the <B>algorithms</B> used for question answering. ... The system's data structures and their semantic organization, the deductive question-answering formalism of relational properties and complex-relation-forming operators, and the question-answering procedures which employ these features in their operation are all described and illustrated.
+
+CACM-1433
+A Note on Linear Programming Algorithm Design: A Combinatorial Problem As linear programming models grow bigger and bigger in size, much actual data that must be memorized is often put on magnetic tape or disk, and consequently there is an improportionality fast rise in the consumption of computer timeo cut down this expense, an ever increasing effort is made to design more efficient <B>algorithms</B>. ... The number of repetitions of a certain transfer of data from tape to core memory is considered.
+
+CACM-1705
+A Set of Basic Input-Output Procedures (Algorithm 335 [15]) By means of the primitives in symbol, outsymbol and length, as requested by this journal's <B>Algorithms</B> Policy [Comm. ... Variants can easily be written because of the explicit call of the procedures decompose integer and decompose real.
+
+CACM-2645
+The limitations of the present system, its relation to Knuth's work on the analysis of algorithms, and some of the directions for further research are also discussed. ... The second processor is a set of procedures for algebraic manipulation which can be called by the user to operate on the formula produced by the first processor.
+
+CACM-2887
+80 percent of Cobol misspellings were classifiable in the four error categories of previous researchers, which implies that Cobol misspellings are correctable by existent <B>algorithms</B>. ... Over 80 percent of error diagnosis was found to be inaccurate.
+
+CACM-2828
+Hierarchical Geometric Models for Visible Surface <B>Algorithms</B> The geometric structure inherent in the definition of the shapes of three-dimensional objects and environments is used not just to define their relative motion and placement, but also to assist in solving many other problems of systems for producing pictures by computer. ... Fourth, frame to frame coherence and clipping define a graphical "working set," or fraction of the total structure that should be present in primary store for immediate access by the visible surface algorithm.
+
+CACM-2035
+Priority was given to the design of efficient tape <B>algorithms</B> to minimize the limitations of the small memory. ... LAP6 is used by about 2000 people in 11 countries.
+
+CACM-2189
+Two <B>algorithms</B> treating the same example for five vertices are presented. ... Generation of Rosary Permutations Expressed in Hamiltonian Circuits Systematic generation of a specific class of permutations fundamental to scheduling problems is described.
+
+CACM-3094
+Analyses of Deterministic Parsing <B>Algorithms</B> This paper describes an approach for determining the minimum, maximum, and average times to parse sentences acceptable by a deterministic parser. ... The approach is described by using a specific grammar that defines simple arithmetic expressions.
+
+CACM-0321
+However, experience has shown that once the report is explained it is in fact easy to learn ALGOL and to write <B>algorithms</B> in it. ... The "metalinguistic formulae" admirably serve the purpose of precisely specifying a language, but they are certainly not very readable for a beginner.
+
+CACM-2314
+A system view it taken, rather than focusing just on language features, since <B>algorithms</B> must be not only coded in a language form, but debugged, modified, made efficient, and run on data. ... This paper presents an overview of a number of system features which the author feels are important to improve the productivity of programmers working in such domains.
+
+CACM-2421
+Published scan conversion <B>algorithms</B> which are fast will reserve a buffer area large enough to accommodate the entire screen. ... A relatively small primary memory buffer area is used to accumulate the binary image for a group of scan lines.
+
+CACM-1350
+In section 2, the augmented predictive analyzer as a parsing algorithm for arbitrary context-free languages is compared with two other parsing algorithms: a selective top-to-bottom algorithm similar to Irons' "error correcting parse algorithm" and an immediate constituent analyzer which is an extension of Sakai-Cocke's algorithm for normal grammars. ... A technique for performing the SD(Gs,X) to SD(G,X) transformation effectively is also described.
+

@@ -1,0 +1,538 @@
+Query:applied stochastic processes
+CACM-0268
+<B>Stochastic</B> Evaluation of a Static Storage Allocation.
+
+CACM-1696
+An Algorithm for Identifying the Ergodic Subchains and Transient States of a <B>Stochastic</B> Matrix An algorithm for identifying the ergodic subchains and transient states of a <B>stochastic</B> matrix is presented. ... Applications in Markov renewal programming and in the construction of variable length codes are reviewed, and an updating procedure for dealing with certain sequences of <B>stochastic</B> matrices is discussed.
+
+CACM-3043
+Distributed Processes: A Concurrent Programming Concept A language concept for concurrent <B>processes</B> without common variables is introduced. ... The paper gives several examples of distributed <B>processes</B> and shows that they include procedures, coroutines, classes, monitors, processes, semaphores, buffers, path expressions, and input/output as special cases.
+
+CACM-0020
+Accelerating Convergence of Iterative <B>Processes</B> A technique is discussed which, when <B>applied</B> to an iterative procedure for the solution of an equation, accelerates the rate of convergence if the iteration converges and induces convergence if the iteration diverges. ... An illustrative example is given.
+
+CACM-0412
+Recursive <B>Processes</B> and ALGOL Translation.
+
+CACM-2376
+This is demonstrated for a system consisting of many sending <B>processes</B> which deposit messages in a buffer and many receiving <B>processes</B> which remove messages from that buffer. ... Synchronization of Communicating <B>Processes</B> Formalization of a well-defined synchronization mechanism can be used to prove that concurrently running <B>processes</B> of a system communicate correctly.
+
+CACM-2844
+Heaps <B>Applied</B> to Event Driven Mechanisms.
+
+CACM-2342
+The formation of partial rules and the calculation of transition rules are both applicable to hardware <B>processes</B> as well as to software processes, and symmetry between <B>processes</B> is not required. ... Interference Between Communicating Parallel <B>Processes</B> Various kinds of interference between communicating parallel <B>processes</B> have been examined by Dijkstra, Knuth, and others.
+
+CACM-0927
+Linear Programming <B>Applied</B> to Ultraviolet Absorption Spectroscopy.
+
+CACM-3141
+An Improved Algorithm for Decentralized Extrema-Finding in Circular Configurations of <B>Processes</B> This note presents an improvement to LeLann's algorithm for finding the largest (or smallest) of a set of uniquely numbered <B>processes</B> arranged in a circle, in which no central controller exists and the number of <B>processes</B> is not known a priori. ... This decentralized algorithm uses a technique of selective message extinction in order to achieve an average number of message passes of order (n log n) rather than O(n2).
+
+CACM-2371
+A System for Interprocess Communication in a Resource Sharing Computer Network A system of communication between <B>processes</B> in a time-sharing system is described and the communication system is extended so that it may be used between <B>processes</B> distributed throughout a computer network. ... The hypothetical application of the system to an existing network is discussed.
+
+CACM-0293
+The <B>Applied</B> Mathematics Laboratory of the David W. ... Taylor Model Basin.
+
+CACM-3073
+Communicating Sequential <B>Processes</B> This paper suggests that input and output are basic primitives of programming and that parallel composition of communicating sequential <B>processes</B> is a fundamental program structuring method. ... Their use is illustrated by sample solutions of a variety of familiar programming exercises.
+
+CACM-1540
+The algorithm is more <B>stochastic</B> than Monte Carlo in nature. ... If consistent with the objective of balanced sections, these preferences will be honored.
+
+CACM-2740
+The number of parallel <B>processes</B> is carefully justified, and the various semaphore constructions are explained. ... A Large Semaphore Based Operating System The paper describes the internal structure of a large operating system as a set of cooperating sequential <B>processes</B>.
+
+CACM-1410
+Interarrival Statistics for Time Sharing Systems The optimization of time-shared system performance requires the description of the <B>stochastic</B> <B>processes</B> governing the user inputs and the program activity. ... The data obtained appear to justify satisfactorily the common assumption that the interarrival times are serially independent.
+
+CACM-1749
+These sequential <B>processes</B> are placed at various hierarchical levels, in each of which one or more independent abstractions have been implemented. ... The Structure of the "THE"-Multiprogramming System A multiprogramming system is described in which all activities are divided over a number of sequential <B>processes</B>.
+
+CACM-1753
+MULTICS concepts of processes, address space, and virtual memory are defined and the use of paging and segmentation is explained. ... Virtual Memory, Processes, and Sharing in MULTICS Some basic concepts involved in the design of the MULTICS operating system are introduced.
+
+CACM-1748
+Finally, several methods for interlocking the execution of independent <B>processes</B> are presented and compared. ... Some of the connections between <B>processes</B> and protection are analyzed.
+
+CACM-3128
+Synchronization with Eventcounts and Sequencers Synchronization of concurrent <B>processes</B> requires controlling the relative ordering of events in the <B>processes</B>. ... A new synchronization mechanism is proposed, using abstract objects called eventcounts and sequencers, that allows <B>processes</B> to control the ordering of events directly, rather than using mutual exclusion to protect manipulations of shared variables that control ordering of events.
+
+CACM-2228
+Permanent blocking is the situation where certain <B>processes</B> never receive their resource requests. ... Comments on Prevention of System Deadlocks Habermann's method of deadlock prevention is discussed, where deadlock is defined as a system state from which resource allocations to certain <B>processes</B> are not possible.
+
+CACM-2150
+Concurrent Control with "Readers" and "Writers" The problem of the mutual exclusion of several independent <B>processes</B> from simultaneous access to a "critical section" is discussed for the case where there are two distinct classes of <B>processes</B> known as "readers" and "writers. ... " The "readers" may share the section with each other, but the "writers" must have exclusive access.
+
+CACM-0618
+Computers- The Key to Total Systems Control: An Industrial Viewpoint Man-Man-machine <B>processes</B> are characterized in five main types, and the markets for each type are shown for 1950 and 1960 and estimated for 1970.
+
+CACM-2320
+The notation used explicitly associates a data structure shared by concurrent <B>processes</B> with operations defined on it. ... A combination of critical regions and event variables enables the programmer to control scheduling of resources among competing <B>processes</B> to any degree desired.
+
+CACM-2912
+These solutions do not assume any synchronizing mechanism other than data which can be written by one process and read by other <B>processes</B>. ... These include a solution to the general problem in which a read is repeated if it might have obtained an incorrect result, and two techniques for transmitting messages between <B>processes</B>.
+
+CACM-3078
+A major purpose of this paper is to demonstrate that the difficulties of obtaining analytical solutions to Markov <B>processes</B> can be considerably reduced by the application of symbol manipulation programs. ... Since many physical systems can be modeled by Markov and semi-Markov processes, the potential range of application of these techniques is much wider than the problem of availability analyzed here.
+
+CACM-1846
+Following this, the problem of dealing with simultaneous events in separate <B>processes</B> is introduced. ... On Simulating Networks of Parallel <B>Processes</B> in Which Simultaneous Events May Occur Some of the problems of simulating discrete event systems, particularly computer systems, on a conventional digital computer are dealt with.
+
+CACM-0942
+Wehave found that the many different numerical <B>processes</B> that were required could be built up almost completely from a small number of basic operations, and a set of FORTRAN subroutines has been written to perform these. ... FORTRAN Subroutines for Time Series Analysis The authors have recently been concerned in a time-series study that constituted a fairly typical piece of <B>applied</B> statistical research, involving extensive computations on a moderately large quantity of data.
+
+CACM-2742
+This problem may be attributed in part to difficulties such as slow <B>stochastic</B> convergence. ... There models are presented, all of which improve in effectiveness as the events-list scan problem becomes more burdensome.
+
+CACM-1438
+A Method for Locating Zeros of Complex Functions A method for computing the index, or winding number, is developed and <B>applied</B> to the problem of finding zeros of functions from the plane into the plane.
+
+CACM-2920
+When each process specifies its future needs by a flowchart of need-defined steps, a global approach to the phenomenon and its in terpretation as a game between the operating system and the <B>processes</B> allows formalization of risk and safety concepts. ... Game Interpretation of the Deadlock Avoidance Problem The deadlock avoidance problem may be defined informally as the determination, from some a priori information about the processes, resources, operating system, etc.
+
+CACM-1435
+The four experimental design problems are: (1) the problem of <B>stochastic</B> convergence, (2) the problem of factor selection, (3) the problem of motive and (4) the many response problem. ... Design of Computer Simulation Experiments for Industrial Systems The aim of this paper is to provide background information on the existing literature on experimental design techniques which may be applicable to the design of computer simulation experiments for industrial systems.
+
+CACM-1198
+Solution of a Problem in Concurrent Programming Control A number of mainly independent sequential-cyclic <B>processes</B> with restricted means of communication with each other can be made in such a way that at any moment one and only one of them is engaged in the "critical section" of its cycle.
+
+CACM-3184
+This is a language suitable for expressing a large class of numerical <B>processes</B> in a form sufficiently concise for direct automatic translation into the language of programmed automatic computers. ... Revised Report on the Algorithmic Language ALGOL 60   The report gives a complete defining description of the international algorithmic language ALGOL 60.
+
+CACM-1441
+Methods of Numerical Integration <B>Applied</B> to a System Having Trivial Function Evaluations A study has been made to determine which methods of numerical integration require the least computation time for a given amount of truncation error when <B>applied</B> to a particular system of ordinary differential equations where function evaluations are relatively trivial. ... Recent methods due to Butcher and Gear are compared with classic Runge-Kutta, Kutta-Nystrom and Adams methods.
+
+CACM-3120
+A technique is presented here which uses instead control structures, namely events and <B>processes</B>. ... This technique has been <B>applied</B> to the construction of an Algol 68 compiler.
+
+CACM-1563
+A Method for Finding Hamilton Paths and Knight's Tours The use of Warnsdorff's rule for finding a knight's tour is generalized and <B>applied</B> to the problem of finding a Hamilton path in a graph. ... A graph-theoretic justification for the method is given.
+
+CACM-2895
+A Language for Formal Problem Specification A language for specifying the in tended behavior of communicating parallel <B>processes</B> is described. ... The specifications are constrain ts on the order in which events of a computation can occur.
+
+CACM-2327
+This paper suggests the ways in which automata theory might evolve over the next 25 years if it is to contribute to an understanding of how the brain <B>processes</B> information. ... Toward an Automata Theory of Brains A source of ideas for automata theory-the study of the brain-has been pushed aside in mathematical development of the theory.
+
+CACM-1541
+The ability to represent systems containing highly interactive <B>processes</B> is an essential feature. ... A Language for Modeling and Simulating Dynamic Systems The general objective of this language is to facilitate both the modeling and experimental aspects of simulation studies.
+
+CACM-1194
+The main features of the information system are direct user access via on-line teletypewriter console, direct user access to all details of the system organization, unrestricted and expandable search vocabulary, user access through many facets of document indexing, and <B>stochastic</B> search through linked index terms and other file relationships. ... Establishment of the ACM Repository and Principles of the IR System <B>Applied</B> to its Operation The history of the establishment of the ACM Repository at the Moore School, University of Pennsylvania, is reviewed briefly.
+
+CACM-3020
+Systematic Recursion Removal The recursion removal algorithm presented by Strong and Walker is amplified and <B>applied</B> to a relatively complex PL/I program. ... Recursion removal is then <B>applied</B> to the two major parts of this example and the final result of the process is displayed.
+
+CACM-1673
+Several illustrative examples are offered to demonstrate the ease with which the method can be <B>applied</B>. ... Approximate Solution of Initial Boundary Wave Equation Problems by Boundary-Value Techniques A new boundary-value technique is proposed for the treatment of initial-boundary-value problems for linear and mildly nonlinear wave equations.
+
+CACM-2882
+A <B>Stochastic</B> Evaluation Model for Database Organization in Data Retrieval Systems Experimental work in the valuation of large scale data retrieval systems has been scarce due to its difficulty and prohibitive cost. ... This paper discusses a simulation model of a data retrieval system which has the effect of significantly reducing the cost of experimentation and enabling research never attempted before.
+
+CACM-2767
+The algorithms are tested with a set of typical <B>stochastic</B> scheduling distributions especially chosen to show the advantages and limitations of the algorithms. ... Two of the algorithms are new, one is based on an end-order tree structure for event notices, and another uses an indexed linear list.
+
+CACM-1707
+This result is used to construct a similarity transformation which, when <B>applied</B> to a particular upper triangular matrix, yields a positive matrix with a preassigned positive spectrum. ... Generation of Positive Test Matrices with Known Positive Spectra Sufficient conditions are given for a real matrix to be similar to a positive matrix.
+
+CACM-2409
+Where it is assumed that the classical Wiener-Hopf technique may be <B>applied</B>. ... An Algorithm for the Approximate Solution of Wiener-Hopf Integral Equations An explicit approximate solution is given for an equation.
+
+CACM-2378
+An Operating System Based on the Concept of a Supervisory Computer An operating system which is organized as a small supervisor and a set of independent <B>processes</B> are described. ... The supervisor handles I/O with external devices-the file and directory system-schedules active <B>processes</B> and manages memory, handle errors, and provides a small set of primitive functions which it will execute for a process.
+
+CACM-2203
+Key-to-Address Transform Techniques: A Fundamental Performance Study on Large Existing Formatted Files The results of a study of eight different key-to-address transformation methods <B>applied</B> to a set of existing files are presented. ... As each method is <B>applied</B> to a particular file, load factor and bucket size are varied over a wide range.
+
+CACM-1892
+Degree of Multiprogramming in Page-on-Demand Systems A simple <B>stochastic</B> model is described which offers a base for understanding the relationship between the number of programs permitted to share memory (the degree of multiprogramming), drum traffic rates, and central processing unit utilization in page-on-demand, multiprogrammed, time-shared computer systems. ... The model preserves, as a key feature, the property of page-demand statistics which implies a "burst" of page demands at the beginning of any job or quantum execution.
+
+CACM-1272
+Other opportunities for heavy editing are described, chief among them being interpretation and expansion of computer output in such <B>processes</B> as factor analysis. ... Applications are described, such <B>processes</B> as factor analysis.
+
+CACM-0825
+PIP: A Photo-Interpretive Program for the Analysis of Spark-Chamber Data* An operating computer program that <B>processes</B> photographically recorded data is described. ... The input to the program consists of spark-chamber photographs on which tracks of high-energy particles are recorded.
+
+CACM-2210
+It is emphasized that in order to construct a program with loops or with recursion, the principle of mathematical induction must be <B>applied</B>. ... The same technique is <B>applied</B> to transform recursively defined functions into iterative programs, frequently with a major gain inefficiency.
+
+CACM-1008
+The technique developed for FASEB can be <B>applied</B> to schedule any meeting with parallel sessions. ... Scheduling Meetings with a Computer Computer scheduling of papers as it was developed for the 1960 meeting of the Federation of American Societies for Experimental Biology (FASEB) is described.
+
+CACM-2848
+Synthesis of Decision Rules Decision tables can be used as an effective tool during an interview to record the logic of <B>processes</B> to be automated. ... The purpose of this paper is to provide a procedure for synthesizing the decision rules and thus provide an aid in developing a structure of complete decision tables.
+
+CACM-1135
+Here an invariant pattern of procedure is identified as characteristic of the class of all batch file <B>processes</B>. ... It stresses the structural analysis of the class of <B>processes</B> to be represented in the languages, as opposed to emphasizing formal (i.
+
+CACM-1947
+Object code Optimization Methods of analyzing the control flow and data flow of programs during compilation are <B>applied</B> to transforming the program to improve object time efficiency. ... Dominance relationships, indicating which statements are necessarily executed before others, are used to do global common expression elimination and loop identification.
+
+CACM-2185
+The most significant characteristics of the algorithm are the simplicity of the test which determines if the algorithm should be <B>applied</B> and the degree to which it "suggests" efficient object code. ... A Note on Compiling Fixed Point Binary Multiplications An algorithm is developed for compiling, as a sequence of shifts, additions,and subtractions, many fixed point binary multiplications involving a constant.
+
+CACM-1110
+A Fourier Series Method for the Numerical Solution of a Class of Parabolic Partial Differential Equations* A Fourier series method is described which, when <B>applied</B> to a certain class of parabolic partial differential equations, reduces the problem to a system of ordinary differential equations. ... An application is given for which the method shows a considerable advantage over conventional finite difference methods.
+
+CACM-1960
+The main features of the system include the ability given to any user to schedule his own parallel <B>processes</B> using system primitive operations, the file-memory relationship, and the allocation-scheduling policy, which dynamically takes into account recent information about user behavior. ... Emphasis is placed on basic ideas underlying the design rather than on implementation details.
+
+CACM-2866
+These two techniques are defined, discussed, and <B>applied</B> to examples to prove properties such as freedom from indefinitely repeated overtaking or unnecessary waiting upper bounds on queue lengths, and historical behavior. ... Proving Monitors Interesting scheduling and sequential properties of monitors can be proved by using state variables which record the monitor's history and by defining extended proof rules for their wait and signal operations.
+
+CACM-2836
+The method may be <B>applied</B> to problems involving probabilistic parsing or combinatorial optimization. ... An algorithm is presented for constructing the optimal derivation tree having the same structure as a given weighted derivation tree.
+
+CACM-1678
+A brief catalog description of each course is <B>applied</B> and the role of each of the courses in the graduate program is discussed. ... Computer Science Program A number of courses are listed in the area describe as automata, formal languages, abstract switching, and computability, that might be available to a Ph.
+
+CACM-1235
+A <B>Stochastic</B> Approach to the Grammatical Coding of English A computer program is described which will assign each word in an English text to its form class or part of speech. ... Some suffix tests and logical-decision rules are employed to code additional words.
+
+CACM-1631
+It is recommended that suitable tests be <B>applied</B> to all random numbers used in computer simulations. ... The tests are described and the results of the tests are presented.
+
+CACM-1587
+The method is applicable to iterative <B>processes</B> in which input data items once chosen are never again needed. ... Some important special cases are considered in which considerable simplification occurs.
+
+CACM-2080
+A fundamental set of primitives allows the dynamic creation and control of a hierarchy of <B>processes</B> as well as the communication among them. ... The Nucleus of a Multiprogramming System This paper describes the philosophy and structure of a multiprogramming system that can be extended with a hierarchy of operating systems to suit diverse requirements of program scheduling and resource allocation.
+
+CACM-1383
+The importance of <B>applied</B> logic in human affairs is changed by the existence of the "logical engine. ... "  The result is that one should no longer think in terms of a single discipline of mathematics but in terms of a complex of mathematical sciences.
+
+CACM-1233
+The conventions are <B>applied</B> to the use of the symbols appearing in the proposed American Standard Flowchart Symbols and not with the symbols per se. ... Conventions for the Use of Symbols in the Preparation of Flowcharts for Information Processing Systems (A Standard Working Paper) This paper is intended as an outline of the various conventions which are being considered for the use of flowcharts for information processing systems.
+
+CACM-2581
+LPARS <B>processes</B> a string of phonemes which contains ambiguity and error. ... The system is locally-organized in the sense that it builds local parse structures from reliable word candidates recognized anywhere in an input utterance.
+
+CACM-2953
+Notes on Recursion Elimination Various methods of recursion elimination are <B>applied</B> to the schematic recursive procedure: proc S(x); px then N(x); S(fx); S(gx); M(x) fi. ... Each method of recursion removal involves the use of one or more stacks, and the solutions are compared on the basis of their running time.
+
+CACM-0224
+Sequential treatment, however, is not feasible in the case of certain optimizing <B>processes</B> such as recursive address calculation. ... Transitions are controlled by admissible state-symbol pairs which may be represented by a transition matrix.
+
+CACM-3140
+Social <B>Processes</B> and Proofs of Theorems and Programs It is argued that formal verifications of programs, no matter how obtained, will not play the same key role in the development of computer science and software engineering as proofs do in mathematics. ... It is felt that ease of formal verification should not dominate program language design.
+
+CACM-2535
+The Effects of Multiplexing on a Computer-Communications System A study is made of the way in which asynchronous time division multiplexing changes the <B>stochastic</B> nature of the arrival process from a user to the computer and, consequently, affects the performance of a time-shared computer-communications system. ... Analytical and simulation results are based on the model of the computer-communications system being an M/D/1 queue (the multiplexor) in tandem with a single exponential server (the computer).
+
+CACM-2519
+The problem is analyzed in terms of psychological and information-processing processes, and what turns out to be a vicious circle of effects is described. ... On the Problem of Communicating Complex Information The nature of the difficulty involved in communicating mathematical results between scientists using a computer based information retrieval system is examined.
+
+CACM-1458
+These changes in the environment make necessary corresponding changes in the <B>processes</B> related to producing and checking out programs. ... Online Programming When the transition has been made from off line to online programming, there are a number of changes in the working conditions noted.
+
+CACM-1828
+Methods for synchronization of <B>processes</B> are examined; their validity is discussed and their performance compared. ... It is assumed that the data base can be represented as a graph.
+
+CACM-1886
+Once all the factors have been ascertained, a sequencing procedure is <B>applied</B> which orders the factors and expressions such that all information is computed in the correct sequence and factors need be retained in memory a minimal amount of time. ... In order to make these techniques computationally feasible, heuristic procedures are applied, and hence global optimal results are not necessarily generated.
+
+CACM-0111
+By applying the recommended scaling and inversion rules, the basic Bairstow and Newton-Raphson iterative techniques can be <B>applied</B> with great reliability. ... Numerical examples are shown to illustrate the pitfalls and to show how these are circumvented by application of the recommended procedures.
+
+CACM-3039
+On-the-Fly Garbage Collection: An Exercise in Cooperation As an example of cooperation between sequential <B>processes</B> with very little mutual interference despite frequent manipulations of a large shared data space, a technique is developed which allows nearly all of the activity needed for garbage detection and collection to be performed by an additional processor operating con-currently with the processor devoted to the computation proper. ... Exclusion and synchronization constraints have been kept as weak as could be achieved; the severe complexities engendered by doing so are illustrated.
+
+CACM-2717
+Its design is based on the simple underlying concept of a form which enables the users to visualize the translation processes, and thus makes data translation a much simpler task. ... "CONVERT" has been chosen for conveying the purpose of the language and should not be confused with any other language or program bearing the same name.
+
+CACM-1382
+The author examines some projections concerning the supply and demand for mathematicians in the United States through the mid-1970s, comments briefly on some of the factors which may influence the professional activities of <B>applied</B> mathematicians over the next several years, and discusses in broad terms how this information may relate to the undergraduate training of mathematicians. ... Desired Computer Impact on Undergraduate Mathematics  Three matters relating to the theme of the Symposium are discussed here.
+
+CACM-1199
+In this paper, a mathematical model of the Lockheed Central Computer Center is formulated that describes the operation of a computation center in terms of information nets, decision processes, and control functions. ... Experiments performed with this model, the results of the experiments, and the application of the results are discussed.
+
+CACM-2062
+The Application of Sequential Sampling to Simulation: An Example Inventory Model Four different sequential sampling procedures are <B>applied</B> to the analysis of data generated by a computer simulation experiment with a multi-item inventory model. ... The computer costs of fixed sample size procedures versus sequential sampling procedures are compared.
+
+CACM-3127
+Thoth encourages structuring programs as networks of communicating <B>processes</B> by providing efficient interprocess communication primitives. ... Because the system is implemented by the same software on different hardware, it has the same interface to user programs.
+
+CACM-1216
+The chain rule is <B>applied</B> and the result is edited to produce results as elegant and efficient as those obtained by hand computation. ... No use is made of list-processing languages.
+
+CACM-2019
+Normalization Techniques for Hand printed Numerals Family of pattern standardization techniques based on geometrical projection is <B>applied</B> to a file of digitized hand printed numerals obtained from sales clerks. ... The principle involves transforming a quadrilateral specified in terms of the convex hull of each pattern into a square.
+
+CACM-1809
+Nevertheless, there is a need for a solid background in <B>applied</B> mathematics. ... The difficulties of education in such a broad area center around the question of background and emphasis.
+
+CACM-1554
+The technique can be generalized to n-dimensions and <B>applied</B> to any n-dimensional hyperobject or hypersurface. ... The observed projections and their motions were a direct extension of three-dimensional experience, but no profound "feeling" or insight into the fourth spatial dimension was obtained.
+
+CACM-2629
+It offers a number of features seldom found even in larger operating systems, including: (1) a hierarchical file system incorporating demountable volumes; (2) compatible file, device, and inter-process I/O; (3) the ability to initiate asynchronous processes; (4) system command language selectable on a per-user basis; and (5) over 100 subsystems including a dozen languageshis paper discusses the nature and implementation of the file system and of the user command interface. ... The UNIX Time-Sharing system  UNIX is a general-purpose, multi-user, interactive operating system for the Digital Equipment Corporation PDP-11/40 and 11/45 computers.
+
+CACM-3068
+A Model for Verification of Data Security in Operating Systems Program verification <B>applied</B> to kernel architectures forms a promising method for providing uncircumventably secure, shared computer systems. ... The application of this approach to the UCLA secure operating system is also discussed.
+
+CACM-2900
+In this paper we present three theorems which can be <B>applied</B> a priori to indicate that certain sites should (or should not) be included in an optimal allocation. ... Heuristics and other aids to finding optimal, or near-optimal, solutions are therefore much needed.
+
+CACM-1948
+Computers in Group Theory: a Survey Computers are being <B>applied</B> to an increasingly diverse range of problems in group theory. ... Group theory programs range from simple combinatorial or numerical programs to large symbol manipulation systems.
+
+CACM-1535
+This diagram determines in advance the required register configuration at certain steps of the program, so that the program is subdivided into separate portions to which the allocation procedure may be <B>applied</B> independently. ... This technique is based on the construction of a link diagram, which shows at any step the future occurrences of indexes which must be loaded into index registers.
+
+CACM-2000
+A Variation of the Goodman-Lance Method for the Solution of Two-Point Boundary Value Problems A recently published method for the interpolative solution of nonlinear equations is improved, and <B>applied</B> to give a significant variation of the Goodman-Lance method for the solution of two-point boundary value problems. ... The resulting method applies in particular to the numerical solution of optimal control problems in the Euler-Lagrange formulation.
+
+CACM-1518
+The measures of system performance produced by the model consist of statistics relating to turnaround time, throughput, hardware utilization, software utilization, and queueing <B>processes</B>. ... This paper reports on the applicability of that technique to System/360.
+
+CACM-2972
+Preliminary results are encouraging, indicating that the method can be <B>applied</B> to large programs, such as operating systems. ... The proofs, like the programs, are structured by levels.
+
+CACM-0095
+Elimination of Special Functions from Differential Equations A set of ordinary differential equations which contains mathematical functions requiring the use of subroutines for numerical solution by electronic computer, tabular data for numerical solution by hand calculation or function generators when analog methods are <B>applied</B> can sometimes be expanded to an equivalent set of equations which do not contain the functions. ... This is practical if these functions satisfy sufficiently simple differential equations.
+
+CACM-3056
+The techniques could be used to advantage in multichannel counting hardware or software used for the monitoring of experiments or <B>processes</B>. ... e.
+
+CACM-1925
+Both of these techniques have been <B>applied</B> to the problem of locating the ground track of an aircraft from elevation readings obtained during a flight. ... Concepts of Use in Contour Map Processing Generalized techniques whose use can simplify the solution of problems relating to contour maps.
+
+CACM-2268
+The testing procedure is described together with the evaluation criteria <B>applied</B>. ... The integration methods represented include multistep methods (predictor-correctors), single-step methods (Runge-Kutta) and extrapolation methods (both polynomial and rational).
+
+CACM-0298
+Frequency tests, distributions of certain low-order moments, runs up and down, and runs above and below the mean were <B>applied</B> to one-half million generated numbers lying within the interval (0,1) and to three sets of integers obtained from specified bits within the generated numbers. ... These tests substantiated the randomness of all numbers except for the set of integers coming from the least significant bits.
+
+CACM-1180
+Imperatives are <B>applied</B> in accordance with definitions of symbolic terms, presented systematically in an assertion table. ... Several complete programs of imperatives are given to show a few applications of the language.
+
+CACM-2522
+The Design, Implementation, and Evaluation of a Working Set Dispatcher The behavior of a computer system is largely dependent upon the algorithms employed to allocate the system resources to the <B>processes</B> competing for them. ... Two implementations along these principles have been reported, but it seems that in neither case have further results been announced.
+
+CACM-1706
+ALGOL procedures can in turn be called by string procedures so that numeric and symbolic <B>processes</B> may conveniently be programmed together. ... These are assembled together into conditional expressions which are to be used to provide alternative computational patterns.
+
+CACM-2523
+The method has been <B>applied</B> to the construction of cloud cover maps from cloud cover pictures obtained by satellites. ... The resulting map is cleaned by comparing the region colors with the textures of the corresponding regions in the picture, and also by merging some regions with others according to criteria based on topology and size.
+
+CACM-1834
+An Axiomatic Basis for Computer Programming In this paper an attempt is made to explore the logical foundations of computer programming by use of techniques which were first <B>applied</B> in the study of geometry and have later been extended to other branches of mathematics. ... This involves the elucidation of sets of axioms and rules of inference which can be used in proofs of the properties of computer programs.
+
+CACM-2555
+The Recomputation Algorithm can be <B>applied</B> to expressions involving any variable-precision operations having O(10^(-p) + SUM{|Ei|}) error bounds, where p denotes the operation's precision and Ei denotes the error in the operation's ith argument. ... Other operations such as log, sin, and cos, which have simple series expansions, can be handled similarly.
+
+CACM-2903
+Improving Programs by the Introduction of Recursion A new technique of program transformation, called "recursion in troduction," is described and <B>applied</B> to two algorithms which solve pattern matching problems. ... These algorithms are then subjected to a second transformation, a method of recursion elimination called "tabulation," to produce programs with a very efficient running time.
+
+CACM-2811
+The syntax-driven waveform analysis system has been <B>applied</B> with good results to these pulse waves to detect and measure structural variations. ... The waveform parsing system is modeled on a compiler-compiler system and allows the user to enter application specific information as data.
+
+CACM-2307
+Dynamic Document Processing The current role of computers in automatic document processing is briefly outlined, and some reasons are given why the early promise of library automation and of the mechanization of documentation <B>processes</B> has not been fulfilled. ... The proposed procedures provide powerful tools for information retrieval and for the control of dynamic library collections in which new items are continually added and old ones are retired.
+
+CACM-1747
+Examples of applications of the criteria concern the reading of a time-of-day clock, the synchronization of parallel processes, protection in multiprogrammed systems, and the assignment of capability indexes. ... To define the scope of the criteria, the notion of an abstract machine of a programming language and the notion of a virtual computer are explained.
+
+CACM-1911
+This machinery includes certain rule schemata, the conditions under which they are to be applied, and conditions determining the sequence of subtrees on which they are to be performed. ... To account for these phenomena it is proposed that certain machinery be added to the syntactic component of a transformational grammar.
+
+CACM-2668
+The algorithm is general in the sense that the page fault probabilities can be calculated for nonpredictive replacement rules <B>applied</B> to any program represented by a one-step Markov chain. ... Computation of Page Fault Probability from Program Transition Diagram An algorithm is given for calculating page fault probability in a virtual memory system operating under demand paging with various memory sizes and replacement rules.
+
+CACM-2826
+Its compatibility with the basic key frame animation technique permits skeleton control to be <B>applied</B> selectively to only those components of a composite image sequence that require enhancement. ... This control sequence is then used to drive an image sequence through the same movement.
+
+CACM-0440
+Rules that can be <B>applied</B> generally to name retrieval systems have been developed in a methodological study of the linkage of vital and health records into family groupings for demographic research purposes. ... The underlying problem is that of making nearly maximum use of items of identifying information that are individually unreliable but that may collectively be of considerable discriminating power.
+
+CACM-1703
+These methods can be usefully <B>applied</B> to other programming languages and computer services. ... Use of the organizational trademark (TRAC) on the published standards, and services relying upon them, provides a reliable public identification.
+
+CACM-1637
+The results expand the possibilities of statistical spectral analysis as <B>applied</B> to simulation experiments. ... It is shown how to estimate the lengths of sample records needed to use certain large sample results in measuring stability.
+
+CACM-1625
+On the Automatic Simplification of Source-Language Programs Methods of simplification that can be <B>applied</B> automatically to programs written in an ALGOL-like language are discussed. ... SURE is described, some of the problems encountered in automatic improvement at the source-language level are discussed, and further types of automatic program improvement are suggested.
+
+CACM-2705
+The split between pure and <B>applied</B> mathematics is found similarly in programming. ... programs) of general utility and studies of questions related to program style.
+
+CACM-1721
+The intersection point to be determined is identified with such a singular point and appropriate modifications are <B>applied</B> to the system to ensure that the singular point be stable, i. ... e.
+
+CACM-3072
+The basic control variables used are the data-flow rates for the <B>processes</B> executing on the CPU. ... The improvement is greatest under a heavy I/O demand workload.
+
+CACM-3165
+The algorithm is <B>applied</B> to a set of soil maps converted to computer-readable form by means of a coordinate digitizer. ... Approximation of Polygonal Maps by Cellular Maps The approximation of polygonal thematic maps by cellular maps, an important operation in geographical data processing, is analyzed.
+
+CACM-0078
+) A number of other papers have <B>applied</B> particular devices to particular problems. ... The purpose of this note is to establish a mathematical framework or model for these practical procedures and thus assist in the use and extension of the ideas in other particular problems.
+
+CACM-2137
+New LISP Techniques for a Paging Environment The system described herein employs the block concept, and that of global and local variables, in addition to the methods <B>applied</B> in most LISP systems. ... A new garbage collection algorithm has been introduced to make lists as compact as possible; partial garbage collection is performed after each block exit instead of total garbage collection when storage is exhausted.
+
+CACM-1698
+Using the model we answer questions like: How many <B>processes</B> are suspended waiting for console input? What is the maximum rate at which a process can execute? What bounds can be set on overall buffer requirements? Answers to these and similar questions are needed in certain aspects of operating system design. ... " No claim is made that a virtual console behaves like any actual console, but the entire collection of virtual consoles models the collection of actual consoles.
+
+CACM-2065
+As an example, the methods are <B>applied</B> to the karyotyping of chromosomes. ... Structure operators are defined which manipulate picture-forms to produce new pictures-forms.
+
+CACM-1308
+By judicious control of man-machine communication requirements, improved results over conventional engineering design <B>processes</B> are possible. ... The proposed overall system is presented and experiments and demonstrations are discussed.
+
+CACM-3059
+The models are formulated in terms of CPU:I/O and I/O:I/O overlap and <B>applied</B> to the analysis of these problems. ... Models for Parallel Processing WIthin Programs: Application to CPU:I/O and I/O:I/O Overlap Approximate queueing models for internal parallel processing by individual programs in a multiprogrammed system are developed in this paper.
+
+CACM-3013
+The outputs obtained from these operators <B>applied</B> to a set of test pictures are compared with each other and with the standard digital Laplacian and gradient. ... The second uses the difference between the mean and median gray levels in a neighborhood.
+
+CACM-2453
+Information Theory <B>Applied</B> to the Conversion of Decision Tables to Computer Programs Using ideas from information theory, this paper develops a heuristic algorithm that converts a limited entry decision table to a tree structured computer program with near minimum average processing time. ... It is thus more general than the previously published heuristic algorithms.
+
+CACM-1854
+The scheme includes a set of basic instructions for the generation, termination, and synchronization of parallel <B>processes</B>. ... Two programs using these instructions, written in PL360, are presented.
+
+CACM-2423
+In the input translation grammar, each BNF syntactic rule corresponds to a (possibly empty) "code generator" realizable as an assembly language, Fortran or Algol, subroutine that is called whenever that syntactic rule is <B>applied</B> in the parse of a program. ... A Parser-Generating System for Constructing Compressed Compilers This paper describes a parser-generating system (PGS) currently in use on the CDC-6500 computer at Purdue University.
+
+CACM-2494
+The plots, <B>applied</B> to a data matrix before clustering and to the rearranged matrix after clustering, show at a glance whether clustering brought forth any distinctive clusters. ... A well-known set of data consisting of the correlations of 24 psychological tests is used to illustrate the comparison of groupings by four methods of factor analysis and two methods of cluster analysis.
+
+CACM-1453
+This was <B>applied</B> to numerous smaller languages, including some sublanguage of ALGOL. ... A Nonrecursive Method of Syntax Specification The use of the Kleene regular expression notation for describing algebraic language syntax, in particular of ALGOL, is described in this paper.
+
+CACM-2810
+Further, the term is more generally <B>applied</B> to the practitioner rather than to the researcher. ... Professionalism in the Computing Field The term professional means different things to different people; nevertheless, there are certain general technical and social standards normally associated with a professional.
+
+CACM-1359
+Data Filtering <B>Applied</B> to Information Storage and Retrieval Applications Manipulation of data strings is the most complex processing function in information storage and retrieval applications. ... The processing mechanics associated with data string manipulation is developed in accordance with a generalized data filtering concept.
+
+CACM-0243
+The <B>processes</B> of encoding and error detection are based upon parity evaluations along prescribed dimensions of the array. ... Only three-dimensional codes are discussed in this paper with parity evaluations along the horizontal, the vertical, and one main diagonal.
+
+CACM-2438
+Applications of this technique to multitasking, coroutines, backtracking, label-valued variables, and functional arguments are discussed. ... This is straightforward to implement by dynamic storage allocation with linked blocks for each activation, but rather expensive in both time and space.
+
+CACM-1051
+This paper attempts to draw together various recent papers which have <B>applied</B> some of these concepts in different ways, and indicate how they relate to the more general problems. ... Multiword List Items The list concept as originally proposed by Newell, Simon and Shaw specified single computer words as elements of a list.
+
+CACM-1928
+The main results obtained are a clear and useful separation of structural and behavioral model description, a reduction of manual tasks in converting Boolean logic into a structural model, the elimination of manual <B>processes</B> in achieving exclusive simulation of activity, an event-scheduling technique which does not deteriorate in economy as the event queue grows in length, and a simulation procedure which deals effectively with any mixture of serial and simultaneous activities. ... Essential objectives sought are improved ease and economy in model generation, economy in execution time and space, and a facility for handling simultaneous activities.
+
+CACM-2979
+Studies in Machine Cognition Using The Game of Poker A progress report is presented of on-going research efforts concerning human decision making under uncertainly and risk and human problem solving and learning <B>processes</B> on the one hand, and machine learning, large scale programming systems, and novel programming techniques on the other. ... Although the vehicle of these investigations has been the game of poker, a conceptual framework has been provided that should have a fairly wide range of applicability.
+
+CACM-2970
+The paper also described how a variance reduction method due to Page [9] can be used to obtain a specified accuracy with considerably fewer job completions than are required when no variance reduction technique is <B>applied</B>. ... This method includes a test to check the normality assumption on which the sequential procedure relies.
+
+CACM-1930
+An extremely portable 8-line FORTRAN program is provided which based on an important paper by Coveyou and MacPherson (1967)sing their methods, Fourier analysis is <B>applied</B> to the probability function for the consecutive n-tuples provided by our generator (with n less than or equal to 4). ... The literature on random number generators does not seem to contain an algorithm that meets requirements of this sort.
+
+CACM-2437
+The approach is <B>applied</B> to a group of transformation methods using files whose keys are selected randomly. ... General Performance Analysis of Key-to-Address Transformation Methods Using an Abstract File Concept This paper presents a new approach to the analysis of performance of the various key-to-address transformation methods.
+
+CACM-1385
+Computer Technology in Communist China, 1956-1965 Based on information from translations of Communist Chinese news items and periodical literature for the 1965 period, computer technology in China is reviewed under the following headings: (1) initial planning, organization and educational aspects of computer technology and automation; (2) machine development progress: two major specific machines in 1958-59, with Soviet aid; a vacuum in 1960-64 due to the withdrawal of Soviet aid; then presumably all-Chinese-made machines from 1965 to the present; (3) computer applications; (4) the trend of automation: control of production <B>processes</B> rather than data processing; and (5) the "Yun Ch'ou Hsueh" (Science of Operation and Programming) campaign of 1958-60, during which an attempt was made to bring concepts such as linear programming to ordinary Chinese workers and peasants. ... Communist China is adjudged to have a marginal computer capability, with most of its machines probably being of a binary nature; however, a turning point may have been reached in mid-1965.
+
+CACM-3115
+Orderly Enumeration of Nonsingular Binary Matrices <B>Applied</B> to Text Encryption Nonsingular binary matrices of order N, i. ... , nonsingular over the field {0, 1}, and an initial segment of the natural numbers are placed in one-to-one correspondence.
+
+CACM-0278
+Various restrictions on generality of M' programs are considered under which more practical realization of allocation <B>processes</B> becomes tractable. ... Some special cases are discussed.
+
+CACM-2682
+The general method is <B>applied</B> to the case of two variables, cpu seconds and number of I/O activities; and synthetic workload with 88 jobs is constructed to represent a month's workload consisting of about 6000 jobs. ... The drive workload is realized by using a synthetic program in which the characteristics can be varied by varying the appropriate parameters.
+
+CACM-1145
+Git-Graph Isomorphism Tester-incorporates a variety of <B>processes</B> that attempt to narrow down the search for an isomorphism, or to demonstrate that none exists. ... Since a straightforward enumerative algorithm might require 40 years of running time on a very high speed computer in order to compare two 15-node graphs, a more sophisticated approach seems called for.
+
+CACM-2396
+MUSE, from a Model to Understand Simple English, <B>processes</B> English sentences of unrestricted content but somewhat restricted format. ... MUSE: A Model To Understand Simple English MUSE is a computer model for natural language processing, based on a semantic memory network like that of Quillian's TLC.
+
+CACM-2186
+Numerical Properties of the Ritz-Trefftz Algorithm for Optimal Control In this paper the Ritz-Trefftz algorithm is <B>applied</B> to the computer solution of the state regulator problem. ... The new technique is shown to be significantly faster for comparable accuracy.
+
+CACM-3014
+Finally, it is shown how the intermittent-assertion method can be <B>applied</B> to prove the validity of program transformations and the correctness of continuously operating programs. ... The method, introduced by Burstall, promises to provide a valuable complement to the more conventional methods.
+
+CACM-1098
+Principal differences between the four languages under consideration are detailed: representations of data, both by the programmer and within the machine; methods for storage allocation; programming formalisms and special <B>processes</B> available, including arithmetic facilities; and usability in terms of availability, documentation, learning aids and debugging facilities. ... 5, and SLIP) A detailed comparison is presented of COMIT, IPL-V, LISP 1.
+
+CACM-3081
+In addition, multiple <B>processes</B> can be active in the same environment structure, so long as rerooting is an indivisible operation. ... Shallow Binding in Lisp 1.
+
+CACM-1169
+The procedure is similar to the Downhill Method for finding the minimum of a real function F(P), and can be <B>applied</B> to other placement problems. ... Experimental results are presented with backboards formed by many elements and different initial placements.
+
+CACM-2985
+The research methods of behavioral science are <B>applied</B> to investigate the user/manager environment and the effects of chargeout. ... Development and main tenance of computer-based systems is asserted to be a category of organizational change.
+
+CACM-2726
+Combining Decision Rules in a Decision Table The techniques for minimizing logic circuits are <B>applied</B> to the simplification of decision tables by the combining of decision rules. ... ) It will be shown that objectives (3) and (4) can be furthered with the above methods.
+
+CACM-3138
+A Mathematical Programming Updating Method Using Modified Givens Transformations and <B>Applied</B> to LP Problems An efficient and numerically stable method is presented for the problem of updating an orthogonal decomposition of a matrix of column (or row) vectors. ... A simple means of constructing test cases and some sample computing times are presented.
+
+CACM-2060
+The existence of label variables permits the construction of coroutines, quasi-parallel processes, and other unorthodox control mechanisms. ... In particular, functions and labels are permissible results of functions and values of variables.
+
+CACM-0497
+In addition, it is shown how Bellman's method may be <B>applied</B> to the curve-fitting problem when the additional constraints are added that the ends of the line segments must be on the curve. ... It is further shown that an equation for u(i) involving no minimization may be found.
+
+CACM-1956
+The analysis is parameterized in terms of the ratio of seek time to the time it takes to fill available core with records, and the file size in units of core lengths; and thus it can be <B>applied</B> to any conventional CPU/mass storage combination. ... It is found that the normalized read time for optimum merging on a given hardware configuration is proportional to the file length times the logarithm of the file length.
+
+CACM-1425
+In the second part of the paper, the second method is <B>applied</B> to the theory of Turing machines. ... Although not every diagram is decomposable into a finite number of given base diagrams, this becomes true at a semantical level due to a suitable extension of the given set and of the basic mappings defined in it.
+
+CACM-2922
+The proposed attitude aims at retaining the purity of the nondeterministic formulation of search <B>processes</B> on one level (the attempt level), deferring the coordination of problem solving efforts to another (the choice level). ... The feasibility of recognizing these two levels is discussed, stressing that the structure to be managed at the choice level is a free of contexts.
+
+CACM-1433
+The results may be <B>applied</B> to write very efficient routines that search for an extreme value in a table. ... The number of repetitions of a certain transfer of data from tape to core memory is considered.
+
+CACM-1143
+These methods have been <B>applied</B> to artificially-generated sets of data as well as to the results of experiments with radioactive tracers on both human and animal subjects. ... Analysis of Decay-Type Data* A comparative study has been made of a variety of numerical techniques for fitting experimental data of the decay type by forms involving the sums of exponentials.
+
+CACM-2931
+These, however, are applications to logic, and a big question is whether methods of logic have significance in the other direction for the more <B>applied</B> parts of computability theory. ... Though we have many examples, we have still to give wide-ranging mathematical answers to these queries: What is a machine? What is a computable process? How (or how well) does a machine simulate a process? Programs naturally enter in giving descriptions of <B>processes</B>.
+
+CACM-2911
+For non-Markovian release processes, the extent of the correlation between allocation order and release order varies approximately inversely with the coefficient of variation of the memory residence time distribution. ... Anomalous Behavior of the Fifty-Percent Rule in Dynamic Memory Allocation This paper reports simulation data showing that, in dynamic memory allocation, the average free-to-allocated-block ratio can differ considerably and in both directions from the predictions of the 50 percent rule.
+
+CACM-2046
+In Section 2, certain operations on relations (other than logical inference) are discussed and <B>applied</B> to the problems of redundancy and consistency in the user's model. ... A model based on n-ary relations, a normal form for data base relations, and the concept of a universal form for data base relations, and the concept of a universal data sublanguage are introduced.
+
+CACM-1307
+By use of a small unordered set of rewriting rules <B>applied</B> as a result of light pen selections, the user generates only syntactically correct commands to the system. ... In the system described, the user is not required to learn or remember the vocabulary of the language because the vocabulary is displayed before him on"menus" by means of a computer-drive scope.
+
+CACM-2499
+The general suggestions for allocation and accounting are <B>applied</B> to this question, and some details provided for the case of a monitor which controls a virtual-memory machine. ... Allocation of resources is closely connected to accounting for those resources, raising the problems of repeatability, minimal uncharged overhead, and relative weighting of charges for dependent resources.
+
+CACM-1811
+It is shown that, with proper programming, solution time when N processors are <B>applied</B> approaches 1/N times the solution time for a single processor, while improper programming can actually lead to an increase of solution time with the number of processors. ... Communication between cooperating processors is by means of data in storage shared by all processors.
+
+CACM-2263
+Both algorithms are compared with existing ones and are <B>applied</B> to a somewhat large decision table derived from a real case. ... One of the algorithms, called the optimum-finding algorithm, leads to a flowchart which truly minimizes execution time for a decision table in which simple rules are already contracted to complex rules.
+
+CACM-2851
+The latter model includes the capability for the representation of an infinite set of control states by allowing there to be arbitrarily many instruction pointers (or processes) executing the program. ... Formal Verification of Parallel Programs Two formal models for parallel computation are presented: an abstract conceptual model and a parallel-program model.
+
+CACM-2753
+DPS has been <B>applied</B> to 50 problems. ... A Heuristic Problem Solving Design System for Equipment or Furniture Layouts The Designer Problem Solver (DPS) demonstrates that the computer can perform simple design tasks.
+
+CACM-2622
+This function is <B>applied</B> to the user's password and the result compared to a table entry, a match being interpreted as authentication of the user. ... The scheme is based on using a function H which the would-be intruder is unable to invert.
+
+CACM-2470
+The theory is <B>applied</B> to the proof of several elementary theorems concerning the semantics of the assignment, conditional, and iterative statements. ... The technique is contrasted with the use of the paradoxical combinator, Y.
+
+CACM-1003
+The construction of computer programs based on the direct statement of the physical laws is a principle of general applicability which has been <B>applied</B> to several other physical phenomena. ... Usually this results in by passing much of the mathematical procedures conventionally used.
+
+CACM-2217
+Experiments in Automatic Learning for a Multipurpose Heuristic Program An automatic learning capability has been developed and implemented for use with the MULTIPLE (MULTIpurpose Program that LEarns) heuristic tree-searching program, which is presently being <B>applied</B> to resolution theorem-proving in predicate calculus. ... MULTIPLE's proving program (PP) uses two evaluation functions to guide its search for a proof of whether or not a particular goal is achievable.
+
