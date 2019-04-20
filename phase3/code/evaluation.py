@@ -1,7 +1,8 @@
 import os
 
-RELEVANCE_FILE_PATH = "../data/cacm.rel.txt"
-RESULT_FILE_PATH = "../data/result"
+RELEVANCE_FILE_PATH = "../result/input/cacm.rel.txt"
+INPUT_FILE_PATH = "../result/input/data/"
+OUTPUT_FILE_PATH = "../result/output/"
 QUERY_HEAD = "Query"
 
 relevanceMap = {}
@@ -92,10 +93,6 @@ def buildstatisticsMapEachQuery(filepath, runId, queryId):
     precisionMap[runId][queryId] = precisionList
     recallMap[runId][queryId] = recallList
 
-    '''print(runId, queryId, precisionList)
-    print(runId, queryId, recallList)
-    print(runId, queryId, 1 / index)'''
-
 
 # compute MAP for each run, save into map<runId, MAP score>
 def computeMAP():
@@ -138,18 +135,64 @@ def computeMRR():
         mrrMap[runId] = mrrScore
 
 
+# write MAP or MRR Score into file
+def writeMapOrMrr(scoreMap, filepath):
+    with open(filepath, 'w') as f:
+        f.write("runId,score\n")
+        for key, val in scoreMap.items():
+            f.write(str(key) + "," + str(val) + "\n")
+
+
+# write Precision at top k into file
+def writePatK(k, queryLimit, filepath):
+    with open(filepath, 'w') as f:
+        f.write("runId,queryId, score\n")
+        for runId, queries in precisionMap.items():
+            for i in range(1, queryLimit + 1):
+                queryId = QUERY_HEAD + str(i)
+                queryScore = 0
+                if queryId in queries:
+                    queryScore = queries[queryId][k][1]
+                f.write(runId + "," + str(i) + "," + str(queryScore) + "\n")
+
+
+# write full precision or recall table into file
+def writePrecisionOrRecall(queryLimit, scoreMap, folderpath):
+    for runId, queries in precisionMap.items():
+        filepath = folderpath + runId + ".txt"
+        with open(filepath, 'w') as f:
+            for i in range(1, queryLimit + 1):
+                queryId = QUERY_HEAD + str(i)
+                queryScores = []
+                if queryId in queries:
+                    for scores in queries[queryId]:
+                        queryScores.append(scores[1])
+                f.write(queryId + ":\n")
+                f.write(str(queryScores) + "\n\n")
+
+
 
 # build relevance map
 buildRelevanceMap(RELEVANCE_FILE_PATH)
 
 # build statistics map
-buildstatisticsMap(RESULT_FILE_PATH)
+buildstatisticsMap(INPUT_FILE_PATH)
 
 computeMAP()
 print("\nMAP scores: \n", mapMap)
 
 computeMRR()
 print("\nMRR scores: \n", mrrMap)
+
+# run results into files
+writeMapOrMrr(mapMap, OUTPUT_FILE_PATH + "MAP.txt")
+writeMapOrMrr(mrrMap, OUTPUT_FILE_PATH + "MRR.txt")
+
+writePatK(5, 64, OUTPUT_FILE_PATH + "PatK_5.txt")
+writePatK(20, 64, OUTPUT_FILE_PATH + "PatK_20.txt")
+
+writePrecisionOrRecall(64, precisionMap, OUTPUT_FILE_PATH + "precision/")
+writePrecisionOrRecall(64, recallMap, OUTPUT_FILE_PATH + "recall/")
 
 print("\nprecision and recall socres:")
 print(precisionMap["BM25"]["Query1"])
