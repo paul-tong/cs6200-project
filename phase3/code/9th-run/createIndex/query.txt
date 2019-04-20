@@ -1,0 +1,64 @@
+Query3,intermediate languages used in construction of multi-targeted compilers tcoll
+Query55,anything dealing with star height of regular languages or regularexpressions or regular event
+Query4,im interested in mechanisms for communicating between disjoint processespossibly but not exclusively in a distributed environment  i wouldrather see descriptions of complete mechanisms with or without implementationsas opposed to theoretical work on the abstract problem  remote procedurecalls and message-passing are examples of my interest
+Query61,information retrieval articles by gerard salton or others about clusteringbibliographic coupling use of citations or co-citations the vectorspace model boolean search methods using inverted files feedback etcsalton g
+Query50,parallel processors in information retrieval
+Query57,abstracts of articles    j backus can programming be liberated from the von neumann style               a functional style and its algebra of programs cacm     re millo r lipton a perlis letter to acm forum cacm         -backus jde millo rlipton rperlis a
+Query20,graph theoretic algorithms applicable to sparse matrices
+Query41,theory of distributed systems and databases  subtopics of specialinterest include reliability and fault-tolerance in distributed systemsatomicity distributed transactions synchronization algorithms resource allocation lower bounds and models for asynchronous parallelsystems  also theory of communicating processes and protocols        p box  yale station new haven conn
+Query17,optimization of intermediate and machine code
+Query37,articles describing the relationship between data types and concurrencyeg what is the type of a process  when is a synchronization attempt between two processes type correct  in a message-passing system is thereany notion of the types of messages--ie any way to check that the senderof the message and the receiver are both treating the bit stream as someparticular type
+Query36,fast algorithm for context-free language recognition or parsing
+Query8,addressing schemes for resources in networks resource addressing innetwork operating systems
+Query48,the use of computer science principles eg data structures numerical methods in generating optimization eg linear programmingalgorithms  this includes issues of the khachian russian ellipsoidalalgorithm and complexity of such algorithm
+Query54,semantics of programming languages including abstract specificationsof data types denotational semantics and proofs of correctnesshoare adijkstra e university of massachusetts amherst ma
+Query18,languages and compilers for parallel processors especially highlyhorizontal microcoded machines code compaction
+Query30,articles on text formatting systems including what you see is what youget systems  examples tnroff scribe bravo
+Query52,modelling and simulation in agricultural ecosystem
+Query22,i am interested in hidden-line and hidden-surface algorithms forcylinders toroids spheres and cones  this is a rather specializedtopic in computer graphics
+Query58,algorithms or statistical packages for anova regression using leastsquares or generalized linear models  system design capabilitiesstatistical formula are of interest  students t test wilcoxon andsign tests multivariate and univariate components can be included
+Query35,probabilistic algorithms especially those dealing with algebraic andsymbolic manipulation  some examplesrabiin probabilistic algorithm on finite field siamwaztch probabilistic testing of polynomial identities siamrabinm
+Query7,i am interested in distributed algorithms - concurrent programs inwhich processes communicate and synchronize by using message passingareas of particular interest include fault-tolerance and techniquesfor understanding the correctness of these algorithms
+Query27,memory management aspects of operating systems
+Query16,find all descriptions of file handling in operating systems based onmultiple processes and message passing
+Query38,what is the type of a modulei dont want the entire literature onabstract data types here but im not sure how to phrase this to avoid itim interested in questions about how one can check that a module matchescontexts in which it is used
+Query9,security considerations in local networks network operating systemsand distributed systems
+Query21,computational complexity intractability class-complete reductionsalgorithms and efficiency
+Query24,applied stochastic processes
+Query42,computer performance evaluation techniques using pattern recognitionand clustering     la
+Query26,concurrency control mechanisms in operating systems
+Query49,the role of information retrieval in knowledge based systemsie expert system
+Query14,find all discussions of optimal implementations of sort algorithms fordatabase management applications
+Query32,id like to find articles describing graph algorithms that are based onthe eigenvalue decomposition or singular value decomposition of theajacency matrix for the graph  im especially interested in any heuristicalgorithms for graph coloring and graph isomorphism using this method
+Query2,i am interested in articles written either by prieve or udo poochprieve bpooch u
+Query29,number-theoretic algorithms especially involving prime number seriessieves and chinese remainder theorem
+Query62,results relating parallel complexity theory both for prams anduniform circuit
+Query40,list all articles dealing with data types in the following languagesthat are referenced frequently in papers on the above languages eg catchany languages with interesting type structures that i might have missed
+Query31,id like to find articles describing the use of singular value decompositionin digital image processing  applications include finding approximationsto the original image and restoring images that are subject to noise anarticle on the subject is h andrews and c patterson outer productexpansions and their uses in digital image processing american mathematicalandrews hpatterson c
+Query10,parallel languages languages for parallel computation
+Query23,distributed computing structures and algorithms
+Query12,portable operating systems
+Query51,parallel processors and paging algorithm
+Query33,articles about the sensitivity of the eigenvalue decomposition of realmatrices in particular zero-one matrices  im especially interested inthe separation of eigenspaces corresponding to distinct eigenvaluesarticles on the subjectc davis and w kahn the rotation of eigenvectors by a permutationsiam j numerical analysis vol  no   g stewart errorbounds for approximate invariant subspaces of closed linear operatorssiam j numerical analysis vol  no  davis ckahn wstewart g
+Query47,the use of bayesian decision models to optimize information retrievalsystem performance  this includes stopping rules to determine when auser should cease scanning the output of a retrieval search
+Query45,the use of operations research models to optimize information systemperformance  this includes fine tuning decisions such as secondary indexselection file reorganization and distributed database
+Query25,performance evaluation and modelling of computer systems
+Query43,analysis and perception of shape by humans and computers  shapedescriptions shape recognition by computer  two-dimensional shapesmeasures of circularity  shape matching
+Query1,what articles exist which deal with tss time sharing system anoperating system for ibm computers
+Query39,what does type compatibility mean in languages that allow programmerdefined types  you might want to restrict this to extensible languagesthat allow definition of abstract data types or programmer-supplieddefinitions of operators like
+Query46,the application of fuzzy subset theory to clustering and informationretrieval problems  this includes performance evaluation and automaticindexing consideration
+Query5,id like papers on design and implementation of editing interfaceswindow-managers command interpreters etc  the essential issues arehuman interface design with views on improvements to user efficiencyeffectiveness and satisfaction
+Query19,parallel algorithms
+Query34,currently interested in isolation of root of polynomial there is an oldmore recent materialheindel l
+Query60,hardware and software relating to database management systemsdatabase packages back end computers special associative hardwarewith microcomputers attached to disk heads or things like rap relational or network codasyl or hierarchical models systemslike system r ims adabas total etc
+Query53,mathematical induction group theory integers modulo mprobability binomial coefficients binomial theorem homomorphismmorphism transitivity relations relation matrix     syracuse university  link hall syracuse n
+Query28,any information on packet radio networks  of particular interest arealgorithms for packet routing and for dealing with changes innetwork topography  i am not interested in the hardware used in thenetwork
+Query15,find all discussions of horizontal microcode optimization with specialemphasis on optimization of loops and global optimization
+Query13,code optimization for space efficiency
+Query64,list all articles on el and ecl el may be given as el i dontremember how they did it
+Query44,texture analysis by computerdigitized texture analysis  texturesynthesis perception of texture
+Query59,dictionary construction and accessing methods for fast retrievalof words or lexical items or morphologically related informationhashing or indexing methods are usually applied to english spelling ornatural language problem
+Query63,algorithms for parallel computation and especially comparisonsbetween parallel and sequential algorithm
+Query56,articles relation the algebraic theory of semigroups and monoidsto the study of automata and regular language
+Query11,setl very high level languages
+Query6,interested in articles on robotics motion planning particularly thegeometric and combinatorial aspects  we are not interested in thedynamics of arm motion

@@ -1,0 +1,5 @@
+1 Q0 Galaxy 1
+1 Q0 Parsec 1
+1 Q0 Milky_Way 1
+2 Q0 Edwin_Hubble 1
+2 Q0 4_Vesta 1
