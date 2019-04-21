@@ -5,7 +5,7 @@ QUERY_FOLDER_PATH = "../data/result/BM25/"
 QUERY_OUTPUT_PATH = "../data/query.csv"
 queryMap = {}
 
-# build query map<queryId, queryContents>
+# extract queries from given file and build a query map<queryId, queryContents>
 def buildQueryMap(folderPath):
     filenames = [name for name in os.listdir(folderPath)]
     for filename in filenames:
